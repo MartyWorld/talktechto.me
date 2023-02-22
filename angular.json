@@ -30,6 +30,7 @@
               "src/favicon.ico",
               "src/assets",
               "src/sitemap.xml",
+              "src/robots.txt",
               {
                 "glob": "_redirects",
                 "input": "src",
@@ -108,7 +109,8 @@
             "assets": [
               "src/favicon.ico",
               "src/assets",
-              "src/sitemap.xml"
+              "src/sitemap.xml",
+              "src/robots.txt"
             ],
             "styles": [
               "src/styles.scss"
