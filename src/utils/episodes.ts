@@ -2226,5 +2226,1543 @@ export const episodesList = [
         </li>
       </ul>
     `,
+  },
+  {
+    number: '9',
+    title: 'Let\'s Talk CannaTech',
+    date: '10-09-2022',
+    subject: 'Cannabis + Tech ',
+    artist: 'Dee Williams',
+    flyerUrl: 'assets/images/v2/dee-williams.png',
+    link: 'assets/audio/Episode0.1-Tech Pilot2-ReneeMoncito.mp3',
+    description: `
+      <h1><u>Segment 1:</u> 12:03:00 pm - 12:10:35 pm</h1>
+      <p>
+      Show intro: “Welcome forward, I’m your host, Cassie Betts, on KBLA Talk 1580, and you’re listening to Talk Tech To Me Uncut, where technology is the new sexy, Black geeks are the new superheroes, and South Central LA is the new tech mecca.”
+      </p>
+      <p>Talk about interesting life updates before “Tea in Tech”</p>
+      <h1>What’s the Tea in Tech:</h1>
+      <ul>
+        <li>
+          <p>
+            <a href="https://www.ibtimes.com/ava-labs-lawyer-breaks-silence-rejects-report-alleging-conspiracy-law-firm-3607161"><u>Drama on the blockchain: Crypto Leaks drags Ava Labs (Avalanche) in a jaw-dropping exposé and they have receipts!</u></a>
+          </p>
+          <ul>
+            <li>
+              <p>Crypto whistleblower site Crypto Leaks published a shocking exposé along with a series of undercover videos with allegations about Ava Labs, the core developers of the Avalanche blockchain.</p>
+            </li>
+            <li>
+              <p>According to the allegations, Kyle Roche (Roche rhymes w/ toast), a founding member of Roche Freedman LLP and Ava Labs (Avalanche) have a secret pact whereby Roche will provide legal services in exchange for AVAX tokens and equity in Ava Labs.</p>
+            </li>
+            <li>
+              <p>They would allegedly use "litigation as a tool" to significantly stifle competition and mislead the Security Exchange Commission (SEC), Commodity Futures Trading Commission (CFTC), and other regulators, it was further claimed.</p>
+            </li>
+            <li>
+              <p>Roche claims that they "used [litigation services] as a strategic weapon to help Ava Labs" in one of the videos. In a different video, the lawyer claims, "I sue half the firms in this space, I know where this market is going, and I believe I am one of the top 10 [crypto experts] in the world... I've seen the inside of every single crypto company."</p>
+            </li>
+            <li>
+              <p>Ava Labs' founder Emin Gün Sirer (pronounced eh-men goon sih-er)  has called the report “conspiracy theory nonsense.”</p>
+            </li>
+            <li>
+              <p>Kyle Roche has also denied the accusations, claiming that "the statements are highly edited and spliced out of context" in the videos.</p>
+            </li>
+          </ul>
+        </li>
+        <li>
+          <p>
+            <a href="http://www.foxla.com/news/16-charged-in-la-county-ebt-fraud-scheme"><u>LA County EBT fraud ring gets busted</u></a>
+          </p>
+          <ul>
+            <li>
+              <p>On Tuesday, September 6th, District Attorney George Gascon confirmed that 16 suspects had been charged in a sophisticated EBT fraud scheme.</p>
+            </li>
+            <li>
+              <p>According to the criminal complaint, the group allegedly stole cardholders' private EBT account information, duplicated real EBT cards using that information, and then used the phony EBT cards to make ATM withdrawals from the accounts. Later, when the actual cardholders went to withdraw money, they discovered that their accounts were empty.</p>
+            </li>
+            <li>
+              <p>16 people were apprehended by the Southern California High Tech Task Force, who also seized $130k in cash and over 300 counterfeit EBT cards with an estimated $400k.</p>
+            </li>
+            <li>
+              <p>According to the DA’s Office, all of the defendants entered not guilty pleas and were later freed under electronic monitoring.</p>
+            </li>
+          </ul>
+        </li>
+        <li>
+          <p>
+            <a href="https://afrotech.com/detroit-man-receives-chip-implant-to-unlock-tesla"><u>Detroit guy gets 2nd chip implanted to unlock his Tesla, is he trippin’?</u></a>
+          </p>
+          <ul>
+            <li>
+              <p>Brandon Dalaly, a Detroit resident, has pushed his passion for tech to new levels by having a chip inserted in his arm in order to unlock & start his Tesla.</p>
+            </li>
+            <li>
+              <p>Dalaly programmed and coded the apps on the RFID chip, which can access his home and keep his personal identification and medical info, including his Covid-19 vaccination card.</p>
+            </li>
+            <li>
+              <p>Dalaly stated that the chips cost $200-$300 and that installation at a tattoo studio costs $100.</p>
+            </li>
+            <li>
+              <p>He also says he wants the chips to catch the eye of Elon Musk.</p>
+            </li>
+          </ul>
+        </li>
+        <li>
+          <p>
+            <a href="https://afrotech.com/viola-vibes-system-al-harrington"><u>Cannabis brand Viola Introduces its Viola Vibes System</u></a>
+          </p>
+          <ul>
+            <li>
+              <p>Former NBA star Al Harrington established Viola, the first Black-owned multinational cannabis enterprise, which recently unveiled its Viola Vibes System.</p>
+            </li>
+            <li>
+              <p>Viola, which gained traction this year by obtaining $13 million in equity funding, has four floral strains and vibes to pick from in its Viola Vibes System: The Kickback, Get Up & Go, Good Times, and Lights Out.</p>
+            </li>
+            <li>
+              <p>Viola debuted its first-ever commercial for the launch, which featured narration by Bay Area rapper and IG sensation Guapdad 4000.
+              </p>
+            </li>
+            <li>
+              <p>According to Najee Tyler, head of brand marketing, the goal of the Viola Vibes System campaign is to normalize the plant and educate consumers about cannabis, its history, and its cultural impact.</p>
+            </li>
+          </ul>
+        </li>
+      </ul>
+      <p>“When we come forward we’ll talk CannaTech with Dee Williams on the Unapologetically Progressive KBLA Talk 1580.”</p>
+      <ul>
+        <li>
+          <p>Soft out with a commercial break: 3 minutes</p>
+        </li>
+        <li>
+          <p>He won’t go to break until she is ready</p>
+        </li>
+      </ul>
+      <h1><u>Segment 2:</u> 12:13:35 pm - 12:30:00 pm</h1>
+      <ul>
+        <li>
+          <p>“Welcome forward, I’m your host Cassie Betts and this is Talk Tech To Me Uncut where technology is the new sexy, Black geeks are the new superheroes, and South Central LA is the new tech mecca.”</p>
+        </li>
+        <li>
+          <p>
+            <b>Introduce guest:</b> Dee Williams is a multi-hyphenate entrepreneur who has worked in the professional staffing market for over 20 years. As an unconventional staffingpreneur, best-selling author, speaker, business strategist, and success coach, Dee has carved her own path. She is the founder and CEO of Identifize Consulting and The Cannabis Job Board, just two of the companies that make up the Dee Williams brand.
+          </p>
+        </li>
+        <li>
+          <p><em>TTTM Icebreaker:</em> When did you fall in love with Tech?</p>
+        </li>
+        <li>
+          <p>Origin Story: What’s your hometown? What’s your background?</p>
+        </li>
+        <li>
+          <p>What interested you in the cannabis industry?</p>
+        </li>
+        <li>
+          <p>As a staffingpreneur, why did you start The Cannabis Job Board?</p>
+        </li>
+        <li>
+          <p>How does the Cannabis Job Board work?</p>
+        </li>
+        <li>
+          <p>Hiring can be especially challenging for cannabis businesses, how are you addressing this problem with Identifize Consulting?</p>
+        </li>
+        <li>
+          <p>What was ur job at 15…</p>
+        </li>
+        <li>
+          <p>What was the place? Resource center….</p>
+        </li>
+        <li>
+          <p>1 800-920-1580 “More with Dee Williams when we come forward. This is KBLA Talk 1580, we’ve got a lot to talk about.” How to get into tech…</p>
+        </li>
+        <li>
+          <p>Fun Facts:</p>
+          <ul>
+            <li>
+              <p><em>Hard Out at the 30 (bottom of the hour) with a 6-minute break</em></p>
+            </li>
+            <li>
+              <p><em>News and traffic break - 3 minutes</em></p>
+            </li>
+            <li>
+              <p><em>Commercial break - 3 minutes</em></p>
+            </li>
+          </ul>
+        </li>
+      </ul>
+      <h1><u>Segment 3:</u> 12:36:00 pm - 12:45:45 pm</h1>
+      <p>“Welcome forward, you’re now tapped into Talk Tech To Me Uncut, I’m your host Cassie Betts on KBLA Talk 1580.  1 800-920-1580 to talk tech.”</p>
+      <ul>
+        <li><p>REad job responsibilities page and cater resume to it…</p></li>
+        <li><p>What kind of jobs are available? What skills and/or characteristics do you look for in candidates?</p></li>
+        <li><p>What is the earning potential for entry-level and up in this industry</p></li>
+        <li><p>Are cannabis companies addressing those incarcerated for marijuana charges? Funding programs? Initiating change?</p></li>
+        <li><p>Moplando…</p></li>
+      </ul>
+      <p>“When we come forward more Talk Tech To Me Uncut on the Unapologetically Progressive KBLA Talk 1580.”</p>
+      <ul>
+        <li>
+          <p>Commercial break - 3 minutes</p>
+        </li>
+      </ul>
+      <h1><u>Segment 4:</u> 12:48:45 pm - 12:53:00 pm</h1>
+      <p>“Welcome forward, this is Talk Tech To Me Uncut, I’m your host Cassie Betts on KBLA Talk 1580.  1-800-920-1580 to talk tech.”</p>
+      <p>Use this time to answer calls. If no calls, continue convo or ask 1-2 questions that were not asked previously</p>
+      <ul>
+        <li><p>Moplando</p></li>
+        <li><p>“Mark time”- Clip here… Reskillify…</p></li>
+        <li><p>As a staffing professional, how do you think our “9 to 5 hotties” and “corporate baddies” can become “recession-proof” in these uncertain times?</p></li>
+      </ul>
+      <ul>
+        <li>
+          <p>Stafingpreneurship… The cannabis job board… “More Talk Tech To Me Uncut when we come forward on KBLA Talk 1580.”</p>
+          <ul>
+            <li>
+              <p><em>Commercial break - 3 minutes</em></p>
+            </li>
+          </ul>
+        </li>
+      </ul>
+      <h1><u>Segment 5:</u> 12:56:00 pm - 1:00:00 pm</h1>
+      <p>“Welcome forward, you’re listening to Talk Tech To Me Uncut where technology is the new sexy, Black geeks are the new superheroes, and South Central LA is the new tech mecca.”</p>
+      <p>Use this to wrap up any last points, call to action, opportunities, etc.</p>
+      <ul>
+        <li>
+          <p>Celebrities & chocolate people… Al Harrington…</p>
+        </li>
+        <li>
+          <p>Marty.world..</p>
+        </li>
+        <li>
+          <p>Direct listeners to connect with Dee and Cassie on social media, company/personal websites, and at any upcoming events</p>
+          <ul>
+            <li>
+              <p>Dee, how can the people connect w/ you? Drop SM!</p>
+            </li>
+            <li>
+              <p>Follow @talktechtomepod on IG</p>
+            </li>
+            <li>
+              <p>Follow me @instabetts</p>
+            </li>
+            <li>
+              <p>To learn more about MISLA/MARTY go to misla.org</p>
+              <ul>
+                <li>
+                  <p>Tease details for the next show:  Be sure to tune in next week as we delve into the life of a female drone pilot with special guest Sam Scully.</p>
+                </li>
+                <li>
+                  <p>Thank you for kickin’ it with us at the Unapologetically Progressive KBLA Talk 1580. Up next is The Back Story with Mischa Duffy. (The backstory of films, songs, books, etc.)</p>
+                </li>
+              </ul>
+            </li>
+          </ul>
+        </li>
+        <li>
+          <p>
+          TTTM Closing: “This has been Talk Tech To Me Uncut, pushing the envelope of tech one keystroke at a time. Peace out!”
+          </p>
+        </li>
+      </ul>
+      <p>Tag Lines: Say as much as possible.</p>
+      <ul>
+        <li>
+          <p>KBLA Talk 1580, we’ve got a lot to talk about.</p>
+        </li>
+        <li>
+          <p>Unapologetically Progressive KBLA Talk 1580.</p>
+        </li>
+      </ul>
+    `,
+  },
+  {
+    number: '10',
+    title: 'Game of Drones',
+    date: '17-09-2022',
+    subject: 'Integrating POC into the Drone Industry',
+    artist: 'Sam Scully',
+    flyerUrl: 'assets/images/v2/sam-scully-latest.png',
+    link: 'assets/audio/Episode0.1-Tech Pilot2-ReneeMoncito.mp3',
+    description: `
+      <h1><u>Segment 1:</u> 12:03:00 pm - 12:10:35 pm</h1>
+      <p>Show intro: “Welcome forward, I’m your host, Cassie Betts, on KBLA Talk 1580, and you’re listening to Talk Tech To Me Uncut, where technology is the new sexy, Black geeks are the new superheroes, and South Central LA is the new tech mecca.”</p>
+      <p>Talk about exciting life updates before “Tea in Tech”</p>
+      <h1>What’s the Tea in Tech:</h1>
+      <ul>
+        <li>
+          <p>
+            <a href="https://www.bloomberg.com/news/articles/2022-09-12/bored-ape-band-created-by-universal-music-umg-gets-to-creating-tunes?leadSource=uverify%20wall"><u>Hit-Boy & James Fauntleroy are set to produce Bored Ape Yacht Club’s NFT band</u></a>
+          </p>
+          <ul>
+            <li>
+              <p>Hit-Boy and James Fauntleroy, Grammy award-winning producer-songwriters who have collaborated with everyone from Beyonce and JAY-Z to Nipsey Hussle, have come on to produce and develop the sound for Board Ape’s NFT band.</p>
+            </li>
+            <li>
+              <p>Kingship is a rock 'n' roll band with four digital ape characters from the coveted Bored Ape Yacht Club NFT collection. The project will include both album releases and metaverse performances.</p>
+            </li>
+            <li>
+              <p>Celine Joshua, the head of Universal's next-gen web3 record label 10:22PM and the architect of Kingship, says she wanted the best creators involved, which is why she chose Hit-Boy and Fauntleroy.</p>
+            </li>
+          </ul>
+        </li>
+        <li>
+          <p>
+            <a href="https://www.techtimes.com/articles/280267/20220908/steve-jobs-daughter-dislikes-apples-iphone-14-heres-why-many.htm"><u>Steve Jobs’ daughter is unimpressed by the new iPhone 14</u></a>
+          </p>
+          <ul>
+            <li>
+              <p>Eve Jobs the youngest daughter of the late Steve Jobs mocked the new Apple iPhone 14 design with a meme she shared in an IG story post.</p>
+            </li>
+            <li>
+              <p>[Descibe the meme]: A man in a red checkered shirt holds up a shirt he got as a gift but it’s identical to one he has on. The shirt he’s wearing is labeled iPhone 13 and the new shirt is labeled iPhone 14 in the meme.</p>
+            </li>
+            <li>
+              <p>Numerous iPhone users took to social media to express their disappointment in the phone’s new look.</p>
+            </li>
+          </ul>
+        </li>
+        <li>
+          <p>
+            <a href="https://www.fox2detroit.com/news/metro-detroit-man-implants-tesla-key-into-hand-to-unlock-start-car"><u>Weird flex: A Detroit man shows off his Tesla key implant on Instagram</u></a>
+          </p>
+          <ul>
+            <li>
+              <p>Brandon Dalaly from Detroit, Michigan has pushed his passion for tech to new levels by having a chip implanted in his hand so he can unlock & start his Tesla.</p>
+            </li>
+            <li>
+              <p>Dalaly recorded the process, which he shared on Instagram. He also built and coded the apps on the RFID chip, which grants him access to his house and saves his personal IDs and medical information, including his Covid-19 vax card.</p>
+            </li>
+            <li>
+              <p>“He also says he wants the chips to catch the attention of Elon Musk aka “Messy Musky,” who is busy filing yet another counterclaim against Twitter in an effort to back out of the multi-billion dollar deal.”</p>
+            </li>
+          </ul>
+        </li>
+        <li>
+          <p>
+            <a href="https://nypost.com/2022/09/12/chick-fil-a-faces-backlash-over-your-community-tweet-some-deemed-racist/"><u>Chik-Fil-A gets dragged over questionable tweet</u></a>
+          </p>
+          <ul>
+            <li>
+              <p>Chik-fil-A gets dragged on Twitter over a suspected racist tweet to a Black customer. The customer tweeted “grilled spicy deluxe but still noooo spicy nuggets” to Chik-fil-a’s Twitter account.</p>
+            </li>
+            <li>
+              <p>“Your community will be the first to know if spicy items are added to the permanent menu, Don!” Chick-fil-A’s account replied. One Twitter user asked “Do you mean like the black community?” and another asked, “Wym by ‘your community’ ?”</p>
+            </li>
+            <li>
+              <p>Users started going in and left 1,600 comments under the post stating they’re going to “cancel” Chik-fil-A for the tweet. The fast food chain addressed its comment, explaining that the term "community" refers to the locations where its restaurants are located. They’ve also publicly apologized.
+              </p>
+            </li>
+          </ul>
+        </li>
+        <li>
+          <p>
+            <a href="https://www.yahoo.com/now/p-diddy-prophecy-buy-disney-140042973.html"><u>Diddy Did: Sean “Diddy” Combs says he’s doing God’s work by ‘saving the Black race’ and needs your help</u></a>
+          </p>
+          <ul>
+            <li>
+              <p>Diddy professes in a Kanye-style IG post that God made his mission and his purpose clear: It’s to “Save the Black race” and to make sure everybody regardless of color has the same 24 hours, but he needs your help #RealBad! (“real bad” made popular by his new beau Caresha from the City Girls)</p>
+            </li>
+            <li>
+              <p>He also stated that he is going to buy Disney "for us." He has said that he plans to hire "unicorn executives" to work with him on God's mission in what he calls the "biggest human resource investment."</p>
+            </li>
+            <li>
+              <p>He urged business, marketing, branding, creatives of all kinds, and educators to send receipts to <a href="mailto:godswork@combsglobal.com">godswork@combsglobal.com</a>. It's unknown what his plans for the future are. The combsglobal.com website is merely a landing page with no additional information about his endeavors.</p>
+            </li>
+          </ul>
+        </li>
+      </ul>
+      <p>“When we come forward we’ll get into the “Game of Drones” with Sam Scully on the Unapologetically Progressive KBLA Talk 1580.”</p>
+      <ul>
+        <li>
+          <p>Soft out with a commercial break: 3 minutes</p>
+        </li>
+        <li>
+          <p>He won’t go to break until she is ready</p>
+        </li>
+      </ul>
+      <h1><u>Segment 2:</u> 12:13:35 pm - 12:30:00 pm</h1>
+      <ul>
+        <li>
+          <p>“Welcome forward, I’m your host Cassie Betts and this is Talk Tech To Me Uncut where technology is the new sexy, Black geeks are the new superheroes, and South Central LA is the new tech mecca.”</p>
+        </li>
+        <li>
+          <p>
+            <b>Introduce guest (<a href="https://www.linkedin.com/in/samscully/overlay/experience/1792146869/multiple-media-viewer/?treasuryMediaId=1635460129695">link to bio</a>):</b> Sam Scully is a remarkable woman, entrepreneur, and FAA Part 107 certified drone pilot who brings a feminine touch to the IT and drone industries. She is the founder and principal of Scully Staffing, Inc., a certified veteran-owned, women-and minority-owned human resources firm with a global presence. Ms. Scully has been bridging the gap between businesses and highly talented individuals for over 20 years. She is also an influential leader, philanthropist, US Navy veteran, and mother.
+          </p>
+        </li>
+        <li>
+          <p><em>TTTM Icebreaker:</em> When did you fall in love with tech?</p>
+        </li>
+        <li>
+          <p>Origin Story: What’s your background? Where did you grow up, and did that affect who you became?</p>
+          <ul>
+            <li><p>Pioneering women in tech, solopreneur, trainer in the navy, founding member of black women in tech, Scrum master, and Scrum product owner. Affiliated with WITI (Women In Tech Int’l), Women and Drones, Women in Cybersecurity, Blacks in Tech, Brain Candy Labs.</p></li>
+            <li><p>BBA in Management Information Systems.</p></li>
+            <li><p>Received the US Navy Medal of Commendation, Medal of Achievement, and management cert.</p></li>
+          </ul>
+        </li>
+        <li>
+          <p>When did you know you wanted to be an entrepreneur?</p>
+        </li>
+        <li>
+          <p>What services does Scully Staffing provide?</p>
+        </li>
+        <li>
+          <p>What interested you in the drone industry?</p>
+        </li>
+        <li>
+          <p>In what ways do you use drones?</p>
+        </li>
+        <li>
+          <p>What licenses or certs are needed?</p>
+        </li>
+        <li>
+          <p>Do you have any drone recommendations for beginners?</p>
+        </li>
+        <li>
+          <p>1 800-920-1580 to talk tech “More with Sam Scully when we come forward on KBLA Talk 1580, we’ve got a lot to talk about.”</p>
+        </li>
+        <li>
+          <p>Fun Facts:</p>
+          <ul>
+            <li>
+              <p><em>Hard Out at the 30 (bottom of the hour) with a 6-minute break</em></p>
+            </li>
+            <li>
+              <p><em>News and traffic break - 3 minutes</em></p>
+            </li>
+            <li>
+              <p><em>Commercial break - 3 minutes</em></p>
+            </li>
+          </ul>
+        </li>
+      </ul>
+      <h1><u>Segment 3:</u> 12:36:00 pm - 12:45:45 pm</h1>
+      <p>“Welcome forward, you’re now tapped into Talk Tech To Me Uncut, I’m your host Cassie Betts on KBLA Talk 1580.  1-800-920-1580 to talk tech.”</p>
+      <ul>
+        <li><p>What job opportunities are available in the drone industry?</p></li>
+        <li><p>What’s the average salary for drone pilots? What are the highest-paid drone jobs?</p></li>
+        <li><p>What is the most crucial trait someone needs to possess in your field?</p></li>
+        <li><p>What are the most helpful resources that have helped you along the way?</p></li>
+        <li><p>How will drones shape our future?</p></li>
+      </ul>
+      <p>“When we come forward more Talk Tech To Me Uncut on the Unapologetically Progressive KBLA Talk 1580.”</p>
+      <ul>
+        <li>
+          <p>Commercial break - 3 minutes</p>
+        </li>
+      </ul>
+      <h1><u>Segment 4:</u> 12:48:45 pm - 12:53:00 pm</h1>
+      <p>“Welcome forward, this is Talk Tech To Me Uncut, I’m your host Cassie Betts on KBLA Talk 1580.  1-800-920-1580 to talk tech.”</p>
+      <p>Use this time to answer calls. If no calls, continue convo or ask 1-2 questions that were not asked previously</p>
+      <ul>
+        <li><p>Drones can’t fly beyond pilot’s line of sight.</p></li>
+        <li><p>As a staffing pro, how do you think our listeners can become “recession-proof” in these uncertain times?</p></li>
+        <li><p>What’s next for you?</p></li>
+      </ul>
+      <ul>
+        <li>
+          <p>“More Talk Tech To Me Uncut when we come forward on KBLA Talk 1580.”</p>
+          <ul>
+            <li>
+              <p><em>Commercial break - 3 minutes</em></p>
+            </li>
+          </ul>
+        </li>
+      </ul>
+      <h1><u>Segment 5:</u> 12:56:00 pm - 1:00:00 pm</h1>
+      <p>“Welcome forward, you’re listening to Talk Tech To Me Uncut where tech is the new sexy.”</p>
+      <p>Use this to wrap up any last points, call to action, opportunities, etc.</p>
+      <ul>
+        <li>
+          <p>Direct listeners to connect via social media, websites, and upcoming events.</p>
+          <ul>
+            <li>
+              <p>“Sam, how can listeners connect w/ you online?” Drop SM handles!</p>
+            </li>
+            <li>
+              <p>Podcast, clubhouse</p>
+            </li>
+            <li>
+              <p>Follow me @instabetts and @talktechtomepod on IG</p>
+            </li>
+            <li>
+              <p>To learn more about MISLA/MARTY go to misla.org</p>
+            </li>
+            <li>
+              <p>Tease details for the next show:  Tune in next week as we discuss mental health + tech with special guest Kandee Lewis.</p>
+            </li>
+            <li>
+              <p>“Thank you for kickin’ it with us at the Unapologetically Progressive KBLA Talk 1580. Next, explore the creative reckoning of writers on The Back Story with Mischa Duffie.”</p>
+            </li>
+          </ul>
+        </li>
+        <li>
+          <p>
+          TTTM Closing: “This has been Talk Tech To Me Uncut, pushing the envelope of tech one keystroke at a time. Peace out!”
+          </p>
+        </li>
+      </ul>
+      <p>Tag Lines: Say as much as possible.</p>
+      <ul>
+        <li>
+          <p>KBLA Talk 1580, we’ve got a lot to talk about.</p>
+        </li>
+        <li>
+          <p>Unapologetically Progressive KBLA Talk 1580.</p>
+        </li>
+      </ul>
+    `,
+  },
+  {
+    number: '11',
+    title: 'Fight the Power',
+    date: '24-09-2022',
+    subject: 'Fighting social injustice & racism through multimedia',
+    artist: 'Cassandra Cooper',
+    flyerUrl: 'assets/images/v2/cassandra-cooper.png',
+    link: 'assets/audio/Episode0.1-Tech Pilot2-ReneeMoncito.mp3',
+    description: `
+      <h1><u>Segment 1:</u> 12:03:00 pm - 12:10:35 pm</h1>
+      <p>Show intro: “Welcome forward, I’m your host, Cassie Betts, on KBLA Talk 1580, and you’re listening to Talk Tech To Me Uncut, where technology is the new sexy, Black geeks are the new superheroes, and South Central LA is the new tech mecca. On today’s episode “Fight the Power,” we’ll be delving into the power of multimedia, how to break into the industry, how to control our narratives, and fight racism and social injustice via multimedia. But first, let’s get into What’s the Tea in Tech.”</p>
+      <h1>What’s the Tea in Tech:</h1>
+      <ul>
+        <li>
+          <p>
+            <a href="https://www.vibe.com/news/tech/jay-z-jack-dorsey-1k-bitcoin-marcy-projects-residents-1234694450/"><u>JAY-Z and Jack Dorsey donate $1k to Marcy Houses residents</u></a>
+          </p>
+          <ul>
+            <li>
+              <p>JAY-Z and Jack Dorsey's 12-week Bitcoin Academy for residents of Marcy Houses, the Brooklyn public housing complex where JAY-Z was raised, has wrapped.</p>
+            </li>
+            <li>
+              <p>At the end of the academy, which had over 350 students, HOV and Dorsey airdropped $1000 in Bitcoin to each participant.</p>
+            </li>
+            <li>
+              <p>The Bitcoin Academy was launched earlier this summer in collaboration with Black Billionaires and KBLA's very own Naja Roberts' Crypto Blockchain Plug.</p>
+            </li>
+          </ul>
+        </li>
+        <li>
+          <p>
+            <a href="https://finance.yahoo.com/news/jack-dorsey-deposed-twitter-musk-202842056.html"><u>“Messy Musky” Chronicles: Jack Dorsey gets deposed in Musk-Twitter deal lawsuit</u></a>
+          </p>
+          <ul>
+            <li>
+              <p>Musk's legal team issued a subpoena to the Twitter co-founder, who was due to be questioned under oath on Tuesday, Sept. 20, via Zoom.</p>
+            </li>
+            <li>
+              <p>Dorsey left Twitter as CEO last November and stayed on the board until late May, only one month after the firm announced an agreement to sell to Musk for $54.20 per share.</p>
+            </li>
+            <li>
+              <p>Parag Agrawal has since taken over for Dorsey. Agrawal and Twitter have consistently claimed that they informed the SEC that less than 5% of their users are fake and that Musk has no grounds to terminate the agreement. According to Twitter, Musk wants to back out of the deal because it no longer serves his interests.</p>
+            </li>
+            <li>
+              <p>The trial is set for Oct.17 in Delaware.</p>
+            </li>
+          </ul>
+        </li>
+        <li>
+          <p>
+            <a href="https://afrotech.com/justine-skye-wig-collection-parfait"><u>Justine Skye joins forces with Black-owned AI wig company for her new hair collection</u></a>
+          </p>
+          <ul>
+            <li>
+              <p>R&B singer Justine Skye is breaking into the $13 billion wig industry with her new partnership with Parfait, a Black-owned AI wig brand.</p>
+            </li>
+            <li>
+              <p>Parfait customizes its wigs using facial recognition and artificial intelligence. Customers can get upload four photos, and the system will collect accurate head dimensions and skin tones. Users can expect to receive their new wig in less than a week.</p>
+            </li>
+            <li>
+              <p>Skye’s new wig collection will feature 5 looks tyrincluding her signature dark roots with purple highlights. The collection is available exclusively online on Parfait’s website.</p>
+            </li>
+            <li>
+              <p>Skye mentioned that protective styles have been an integral part of her healthy hair journey since damaging her hair from dying it purple throughout the years.</p>
+            </li>
+          </ul>
+        </li>
+        <li>
+          <p>
+            <a href="https://www.queerty.com/gay-nyc-weatherman-fired-leaked-webcam-pics-explains-happened-20220920?utm_source=rss&utm_medium=rss&utm_campaign=gay-nyc-weatherman-fired-leaked-webcam-pics-explains-happened"><u>Data & Privacy: Meteorologist gets fired for leaked webcam photos</u></a>
+          </p>
+          <ul>
+            <li>
+              <p>Erick Adame, an Emmy-nominated New York-based TV meteorologist, was suspended and ultimately fired after private photos from an adult webcam site were exposed online.</p>
+            </li>
+            <li>
+              <p>In papers filed this week in a Manhattan court, Adame urged a judge to order the webcam site to reveal the identity of the user who screenshotted his pics.</p>
+            </li>
+            <li>
+              <p>The person reportedly forwarded the pics to Adame's mother and employer "with the goal of harassing, annoying, or alarming," according to the report.</p>
+            </li>
+            <li>
+              <p>Adame wrote in an Instagram post “As a public figure I recognize I have certain responsibilities that come along with the privilege I enjoyed. But let me be clear: I don’t apologize for being openly gay or being sex-positive—those are gifts and I have no shame about them.”</p>
+            </li>
+          </ul>
+        </li>
+      </ul>
+      <p>“When we come forward we’ll show you how to “Fight the Power” using multimedia with media mogul Cassandra Cooper on the Unapologetically Progressive KBLA Talk 1580.”</p>
+      <ul>
+        <li>
+          <p>Soft out with a commercial break: 3 minutes</p>
+        </li>
+        <li>
+          <p>He won’t go to break until she is ready</p>
+        </li>
+      </ul>
+      <h1><u>Segment 2:</u> 12:13:35 pm - 12:30:00 pm</h1>
+      <ul>
+        <li>
+          <p>“Welcome forward, I’m your host Cassie Betts and this is Talk Tech To Me Uncut where technology is the new sexy. Today we’re talking about the power of multimedia, how to break into the industry, control our own narratives, and how multimedia is the #1 most effective way to fight racism and injustice with media mogul Cassandra Cooper.”</p>
+        </li>
+        <li>
+          <p>
+            <b>Introduce guest:</b> Cassandra Cooper is a visionary, futurist, writer, producer, and the founder and chief operating officer of the multiplatform Ova Media Group, a media outlet developed exclusively for women of color. She is an authority in  film/TV production, digital distribution, content management, and acquisition.
+          </p>
+        </li>
+        <li>
+          <p>
+          Cassandra established five different companies over the course of 15 years, generating over $200 million in revenue and employing over 300 people.
+          </p>
+        </li>
+        <li>
+          <p><em>TTTM Icebreaker:</em> When did you fall in love with tech?</p>
+        </li>
+        <li>
+          <p>Origin Story: Can you tell us about yourself and what you do?</p>
+          <ul>
+            <li><p>Briefly discuss Ova Media G</p></li>
+            <li><p>How is Ova Media changing the game?</p></li>
+            <li><p>Ask about her studio lots in Castaic called Wonderland, how can ppl tap in?</p></li>
+          </ul>
+        </li>
+        <li>
+          <p>How can we use multimedia to combat racism and social injustice?</p>
+        </li>
+        <li>
+          <p>How can we fight negative stereotypes in the media?</p>
+        </li>
+        <li>
+          <p>What are some hot in-demand careers in multimedia?</p>
+        </li>
+        <li>
+          <p>What education or experience is usually required?</p>
+        </li>
+        <li>
+          <p>If someone wants to create a film, show, or podcast what is the first thing they need to do?</p>
+        </li>
+        <li>
+          <p>How do you monetize films, podcasts, and other media?</p>
+        </li>
+        <li>
+          <p>Tips on how to get paid what you’re worth?</p>
+        </li>
+        <li><p>1 800-920-1580 to talk tech “More with Cassandra Cooper when we come forward on KBLA Talk 1580, we’ve got a lot to talk about.”</p></li>
+        <li>
+          <p>Fun Facts:</p>
+          <ul>
+            <li>
+              <p><em>Hard Out at the 30 (bottom of the hour) with a 6-minute break</em></p>
+            </li>
+            <li>
+              <p><em>News and traffic break - 3 minutes</em></p>
+            </li>
+            <li>
+              <p><em>Commercial break - 3 minutes</em></p>
+            </li>
+          </ul>
+        </li>
+      </ul>
+      <h1><u>Segment 3:</u> 12:36:00 pm - 12:45:45 pm</h1>
+      <p>“Welcome forward, you’re now tapped into Talk Tech To Me Uncut, I’m your host Cassie Betts on KBLA Talk 1580.  1-800-920-1580 to talk tech. I’m in the studio with media mogul Cassandra Cooper</p>
+      <ul>
+        <li>
+          <p><strong>Tools to use?</strong></p>
+        </li>
+        <li>
+          <p>Podcasts- What’s going on in your world of Podcasting. What is an RSS feed and how can it be used in multimedia?</p>
+        </li>
+        <li>
+          <p>Do you have any gear recommendations?</p>
+        </li>
+      </ul>
+      <ul>
+        <li><p>Do you have any tips for consistent content creation?</p></li>
+        <li><p>What makes you passionate and keeps you motivated?</p></li>
+        <li><p>How do you define success in your field?</p></li>
+        <li><p>What's the best advice a mentor ever gave you about the industry?</p></li>
+        <li><p>What do you wish you knew before starting your career?</p></li>
+      </ul>
+      <p>“When we come forward more Talk Tech To Me Uncut on the Unapologetically Progressive KBLA Talk 1580.”</p>
+      <ul>
+        <li>
+          <p>Commercial break - 3 minutes</p>
+        </li>
+      </ul>
+      <h1><u>Segment 4:</u> 12:48:45 pm - 12:53:00 pm</h1>
+      <p>“Welcome forward, this is Talk Tech To Me Uncut, I’m your host Cassie Betts on KBLA Talk 1580.  1-800-920-1580 to talk tech.”</p>
+      <p>Use this time to answer calls. If no calls, continue convo or ask 1-2 questions that were not previously asked</p>
+      <ul>
+        <li><p>Do you have any program recommendations for those wanting to pursue a career in your field?</p>
+          <ul>
+            <li>
+              <p>Menton KITS program</p>
+            </li>
+            <li>
+              <p>Crenshaw H.S has a visual and performing arts magnet pathway (including digital arts, media, and graphic design)</p>
+            </li>
+            <li>
+              <p>Cinema/ TV production at LA City College (one of the best programs in the city). Check with your local community college for program offerings. Eligible students may qualify for $0 tuition.</p>
+            </li>
+          </ul>
+        </li>
+        <li><p>What's the biggest takeaway you hope listeners learn?</p></li>
+      </ul>
+      <ul>
+        <li>
+          <p>“More Talk Tech To Me Uncut when we come forward on KBLA Talk 1580.”</p>
+          <ul>
+            <li>
+              <p><em>Commercial break - 3 minutes</em></p>
+            </li>
+          </ul>
+        </li>
+      </ul>
+      <h1><u>Segment 5:</u> 12:56:00 pm - 1:00:00 pm</h1>
+      <p>“Welcome forward, you’re listening to Talk Tech To Me Uncut where tech is the new sexy.”</p>
+      <p>Use this to wrap up any last points, call to action, opportunities, etc.</p>
+      <ul>
+        <li>
+          <p>Direct listeners to connect via social media, websites, and upcoming events.</p>
+          <ul>
+            <li>
+              <p>“Cassandra, how can listeners learn more about you connect w/ you online?” Drop SM handles!</p>
+            </li>
+            <li>
+              <p>Follow me @instabetts and @talktechtomepod on IG</p>
+            </li>
+            <li>
+              <p>To learn more about MISLA/MARTY go to misla.org</p>
+            </li>
+            <li>
+              <p>Tease details for the next show:  Tune in next week as we discuss Blacks in Tech with special guest Omari Bakari.</p>
+            </li>
+            <li>
+              <p>“Thank you for kickin’ it with us at the Unapologetically Progressive KBLA Talk 1580. Next, explore the creative reckoning of writers on The Back Story with Mischa Duffie.”</p>
+            </li>
+          </ul>
+        </li>
+        <li>
+          <p>
+          TTTM Closing: “This has been Talk Tech To Me Uncut, pushing the envelope of tech one keystroke at a time. Peace out!”
+          </p>
+        </li>
+      </ul>
+      <p>Tag Lines: Say as much as possible.</p>
+      <ul>
+        <li>
+          <p>KBLA Talk 1580, we’ve got a lot to talk about.</p>
+        </li>
+        <li>
+          <p>Unapologetically Progressive KBLA Talk 1580.</p>
+        </li>
+      </ul>
+    `,
+  },
+  {
+    number: '12',
+    title: 'Blacks In Tech',
+    date: '01-10-2022',
+    subject: 'BIT Los Angeles',
+    artist: 'Omari Bakari',
+    flyerUrl: 'assets/images/v2/Omari-Bakari-and-Dr.-Mario-Hemsley.png',
+    link: 'assets/audio/Episode0.1-Tech Pilot2-ReneeMoncito.mp3',
+    description: `
+      <h1><u>Segment 1:</u> 12:03:00 pm - 12:10:35 pm</h1>
+      <p>Show intro: “Welcome forward, I’m your host, Cassie Betts, on KBLA Talk 1580, and you’re listening to Talk Tech To Me Uncut, where technology is the new sexy, Black geeks are the new superheroes, and South Central LA is the new tech mecca. On today’s episode “Blacks in Tech: The $28 Billion Conversation,” we’ll be chatting with Omari Bakari, a pioneer in the tech game, self-made entrepreneur, and chapter president of BIT Los Angeles. But first, let’s get into What’s the Tea in Tech.”</p>
+      <h1>What’s the Tea in Tech:</h1>
+      <ul>
+        <li>
+          <p>
+            <a href="https://afrotech.com/james-earl-jones-will-officially-hand-off-his-role-as-darth-vader?item=2/"><u>James Earl Jones is retiring but his voice ain’t!</u></a>
+          </p>
+          <ul>
+            <li>
+              <p>After several decades of voicing Darth Vader in the Star Wars saga, legendary actor James Earl Jones has announced his retirement, but his voice will live on through AI.</p>
+            </li>
+            <li>
+              <p>Jones who is 91, has formally signed off on archival voice recordings, a system being used by rookie filmmakers who want to use AI to reproduce Jones' youthful voice from prior films in the franchise.</p>
+            </li>
+            <li>
+              <p>Respeecher, a Ukrainian firm that uses AI software, will recreate new dialogues by reusing existing voice recordings.</p>
+            </li>
+            <li>
+              <p>Lucasfilm wants to continue working with Jones by notifying him about "their intentions for Vader and [to] follow his suggestions on how to keep on the right track."</p>
+            </li>
+          </ul>
+        </li>
+        <li>
+          <p>
+            <a href="https://staysafeonline.org/theft-fraud-cybercrime/phishing/"><u>It’s Cybersecurity Awareness Month, let’s stay strapped up and protected online</u></a>
+          </p>
+          <ul>
+            <li>
+              <p>Every October is Cybersecurity Awareness Month and I’ll be dropping gems on how to stay safe online every week. Background: Launched by the Nat’l Security Alliance and US Dept. of Homeland Security in Oct. 2004.</p>
+            </li>
+            <li>
+              <p>This week's tip: Recognize & Report Phishing: Phishing happens when criminals use fake emails, social media postings, or direct messages to get you to click on a bad link or download a malicious attachment.</p>
+            </li>
+            <li>
+              <p>How to spot scams: The offer sounds to good to be true, poor spelling/grammar, language that’s urging/ threatening, and asks for personal info.</p>
+            </li>
+            <li>
+              <p>Tips to avoid: Don’t click! Block the sender, delete the message, or report to the platform or your IT manager.</p>
+            </li>
+          </ul>
+        </li>
+        <li>
+          <p>
+            <a href="https://www.dailydot.com/irl/t-mobile-worker-stop-making-tiktoks/?amp"><u>T-Mobile demands an employee to stop making TikToks promoting its brand</u></a>
+          </p>
+          <ul>
+            <li>
+              <p>A TikTok user named Jon (@primetimejon) goes viral after alleging that his employer, T-Mobile, ordered him to stop creating TikToks even though he was doing so off the clock and promoting the brand positively.</p>
+            </li>
+            <li>
+              <p>The videos ranged from lifestyle vlogs, sketches, and funny customer interaction videos. Jon said he got support from district managers and other TikTokers.</p>
+            </li>
+            <li>
+              <p>Jon stated, “All I wanted to do was work with T-Mobile corporate and make videos for them, and work with the social media team and move up.” He further explained, “That’s all I wanted to do, was just cheer on T-Mobile.”</p>
+            </li>
+            <li>
+              <p>Others advised him that this is a cautionary warning about the workplace. One TikToker commented “Once you realize these companies don’t care about you. You will live better!!”</p>
+            </li>
+          </ul>
+        </li>
+        <li>
+          <p>
+            <a href="https://www.newsweek.com/handmaids-tale-girls-who-code-other-books-banned-us-1745890"><u>#FreeTheBooks: ‘Girls Who Code’ is among books banned in U.S. public schools</u></a>
+          </p>
+          <ul>
+            <li>
+              <p>The national list of books that are banned countrywide for the 2021–22 school year was released during Banned Books Week (9/18-24) by PEN America, an organization that promotes literary freedom of speech.</p>
+            </li>
+            <li>
+              <p>On the index, nearly 40% of the books have characters of color, and 21% of the banned works discuss racial and racist concerns. Almost 41% of the outlawed works discuss LGBTQ+ issues or feature LGBTQ+ characters. Texas and Florida are the states with the most bans.</p>
+            </li>
+            <li>
+              <p>Girls Who Code, I Know Why the Caged Bird Sings, A Raisin in the Sun, and The Handmaid's Tale are a few of the books that have been banned.</p>
+            </li>
+          </ul>
+        </li>
+      </ul>
+      <p>“When we come forward we’ll talk Blacks in Tech with Omari Bakari on the Unapologetically Progressive KBLA Talk 1580.”</p>
+      <ul>
+        <li>
+          <p>Soft out with a commercial break: 3 minutes</p>
+        </li>
+        <li>
+          <p>He won’t go to break until she is ready</p>
+        </li>
+      </ul>
+      <h1><u>Segment 2:</u> 12:13:35 pm - 12:30:00 pm</h1>
+      <ul>
+        <li>
+          <p>“Welcome forward, I’m your host Cassie Betts and this is Talk Tech To Me Uncut. Today we’re talking to Omari Bakari, an OG in the tech movement! He is a Howard University alumni, who started out in the print and publishing world, before creating one of the first online directories with 11 million businesses in its database. He was part of the team that won the White House Innovation Award in 2013 and went on to develop government publishing platforms and modernize regulatory processes. He is currently the president of the LA Chapter for Blacks in Tech, helping to, and I’m quoting you here, “Create an Algorithm for Success.” Please welcome Mr. Omari Bakari.</p>
+        </li>
+        <li>
+          <p><em>TTTM Icebreaker:</em> Bakari. When did you fall in love with tech?</p>
+        </li>
+        <li>
+          <p>Origin Story: What is your background?</p>
+        </li>
+        <li>
+          <p>Discuss details of Online directory & additional awards</p>
+        </li>
+        <li>
+          <p>How did you go from getting a degree in Communications & Media to segueing into tech?</p>
+        </li>
+        <li>
+          <p>Howard University recently created a partnership with Amazon and Hulu, was it Facebook or Google, to provide full semester internships? Can you tell us more about that ecosystem and the accelerators you want to build to create more opportunities for Black youth to learn more about digital literacy?</p>
+        </li>
+        <li><p>1 800-920-1580 to talk tech “More with Omari Bakari when we come forward on KBLA Talk 1580, we’ve got a lot to talk about.”</p></li>
+        <li>
+          <p>Fun Facts:</p>
+          <ul>
+            <li>
+              <p><em>Hard Out at the 30 (bottom of the hour) with a 6-minute break</em></p>
+            </li>
+            <li>
+              <p><em>News and traffic break - 3 minutes</em></p>
+            </li>
+            <li>
+              <p><em>Commercial break - 3 minutes</em></p>
+            </li>
+          </ul>
+        </li>
+      </ul>
+      <h1><u>Segment 3:</u> 12:36:00 pm - 12:45:45 pm</h1>
+      <p>“Welcome forward, you’re now tapped into Talk Tech To Me Uncut, I’m your host Cassie Betts on KBLA Talk 1580.  1-800-920-1580 to talk tech. I’m in the studio with Omari Bakari of BIT Los Angeles.”</p>
+      <ul>
+        <li>
+          <p>Tell us about Blacks in Tech. Who can join or participate and how?</p>
+        </li>
+        <li>
+          <p>How many Blacks in Tech chapters are there?</p>
+        </li>
+        <li>
+          <p>Are there any plans to expand Blacks in Tech globally?</p>
+        </li>
+        <li>
+          <p>Can you share more about the upcoming convention in Florida?</p>
+          <ul>
+            <li><p>Discuss the OneTen/BIT Foundation x Udacity Scholarship Program (Deadline Oct. 11, 2022).</p></li>
+            <li><p>3 pathways: Business analytics, digital marketing, and front web dev</p></li>
+          </ul>
+        </li>
+      </ul>
+      <p>“When we come forward more Talk Tech To Me Uncut on the Unapologetically Progressive KBLA Talk 1580.”</p>
+      <ul>
+        <li>
+          <p>Commercial break - 3 minutes</p>
+        </li>
+      </ul>
+      <h1><u>Segment 4:</u> 12:48:45 pm - 12:53:00 pm</h1>
+      <p>“Welcome forward, this is Talk Tech To Me Uncut, I’m your host Cassie Betts on KBLA Talk 1580.  1-800-920-1580 to talk tech.”</p>
+      <p>Use this time to answer calls. If no calls, continue convo or ask 1-2 questions that were not previously asked</p>
+      <ul>
+        <li><p>What were your reasons for starting your company, DIPS Technology?</p>
+          <ul>
+            <li>
+              <p>Their mission, to address the digital inequities in Black and Brown communities, sounds a lot like ours at MISLA and MARTY (discuss bootcamps and marketing).</p>
+            </li>
+          </ul>
+        </li>
+        <li><p>So, how do you help to nurture the next generation of techies?</p>
+          <ul>
+            <li>
+              <p>Talk about his future plans. (Tech Talk & Tequila. Monthly tech round table for BIPOC, bringing tech companies to the table, providing upward mobility for the community)</p>
+            </li>
+          </ul>
+        </li>
+      </ul>
+      <ul>
+        <li>
+          <p>“More Talk Tech To Me Uncut when we come forward on KBLA Talk 1580.”</p>
+          <ul>
+            <li>
+              <p><em>Commercial break - 3 minutes</em></p>
+            </li>
+          </ul>
+        </li>
+      </ul>
+      <h1><u>Segment 5:</u> 12:56:00 pm - 1:00:00 pm</h1>
+      <p>“Welcome forward, you’re listening to Talk Tech To Me Uncut where tech is the new sexy.”</p>
+      <p>Use this to wrap up any last points, call to action, opportunities, etc.</p>
+      <ul>
+        <li>
+          <p><u>Fun question: You visited the White House during the Obama Administration and the Trump Administration. Were there any differences between the two visits?</u></p>
+        </li>
+        <li>
+          <p>Direct listeners to connect via social media, websites, and upcoming events.</p>
+          <ul>
+            <li>
+              <p>“Omari, how can listeners learn more about you and connect w/ you online?” Drop SM handles!</p>
+            </li>
+            <li>
+              <p>Follow me @instabetts and @talktechtomepod on IG</p>
+            </li>
+            <li>
+              <p>To learn more about MISLA/MARTY go to misla.org</p>
+            </li>
+            <li>
+              <p>Tease details for the next show:  Tune in next week as we talk tech with serial entrepreneur & funding boss Zenobia Millet.</p>
+            </li>
+            <li>
+              <p>“Thank you for kickin’ it with us at the Unapologetically Progressive KBLA Talk 1580. Next, explore the creative reckoning of writers on The Back Story with Mischa Duffie.”</p>
+            </li>
+          </ul>
+        </li>
+        <li>
+          <p>
+          TTTM Closing: “This has been Talk Tech To Me Uncut, pushing the envelope of tech one keystroke at a time. Peace out!”
+          </p>
+        </li>
+      </ul>
+      <p>Tag Lines: Say as much as possible.</p>
+      <ul>
+        <li>
+          <p>KBLA Talk 1580, we’ve got a lot to talk about.</p>
+        </li>
+        <li>
+          <p>Unapologetically Progressive KBLA Talk 1580.</p>
+        </li>
+      </ul>
+    `,
+  },
+  {
+    number: '13',
+    title: 'Tea, Tech & Tequila',
+    date: '08-10-2022',
+    subject: 'Production, funding, Networking',
+    artist: 'Zenobia Millet',
+    flyerUrl: 'assets/images/v2/Zenobia-Millet.png',
+    link: 'assets/audio/Episode0.1-Tech Pilot2-ReneeMoncito.mp3',
+    description: `
+      <h1><u>Segment 1:</u> 12:03:00 pm - 12:10:35 pm</h1>
+      <p>Show intro: “Welcome forward, I’m your host, Cassie Betts, on KBLA Talk 1580, and you’re listening to Talk Tech To Me Uncut, where technology is the new sexy, Black geeks are the new superheroes, and South Central LA is the new tech mecca. On today's episode “Tea Tech & Tequila” we’ll be chatting with tech diva Zenobia Millet, who is a media technologies maven, fintech funding boss, and serial entrepreneur. But first, let’s get into The Tea in Tech.”</p>
+      <h1>What’s the Tea in Tech:</h1>
+      <ul>
+        <li>
+          <p>
+            <u>#BeCyberSmart tip of the week</u>
+          </p>
+          <ul>
+            <li>
+              <p>“In honor of <strong>Cybersecurity Awareness Month</strong>, I’ll be sharing simple tips that you can start using immediately to increase your safety in these digital streets.” </p>
+            </li>
+            <li>
+              <p><strong>Tip:</strong> Always enable <strong>Multi-factor authentication (MFA)</strong>, also known as 2-factor authentication, a security measure requiring anyone logging into an account to go through a two-step verification process.</p>
+            </li>
+            <li>
+              <p><strong>How to use it:</strong></p>
+              <ul>
+                <li><p>Add an extra PIN to your accounts</p></li>
+                <li><p>Add the answer to an additional security question (i.e what’s your pet’s name?)</p></li>
+                <li><p>Have a code texted or sent to your account</p></li>
+                <li><p>Activate fingerprint or facial recognition</p></li>
+              </ul>
+            </li>
+            <li>
+              <p><strong>Where to use it:</strong> You can use MFA on sites that store personal & valuable data such as:</p>
+              <ul>
+                <li><p>Social media platforms</p></li>
+                <li><p>Financial institutions</p></li>
+                <li><p>Email accounts</p></li>
+                <li><p>Online stores</p></li>
+              </ul>
+            </li>
+          </ul>
+        </li>
+        <li>
+          <p>
+            <a href="https://www.cnet.com/personal-finance/they-tried-tiktok-money-advice-then-they-needed-a-lawyer/"><u>TikTok money advice gets some users in legal trouble</u></a>
+          </p>
+          <ul>
+            <li>
+              <p>According to CNET one-third of Gen-Zers use TikTok for financial advice & education which can be a positive thing, but some info isn’t accurate.</p>
+            </li>
+            <li>
+              <p><strong>The problem:</strong></p>
+              <ul>
+                <li><p>“FinTokers” often give general information that disregards the viewer's level of risk, the severity of their financial situation, or omits crucial info.</p></li>
+              </ul>
+            </li>
+            <li>
+              <p><strong>Example:</strong></p>
+              <ul>
+                <li><p>Some viewers were using the popular snowball debt repayment method, which has worked for many people however, the creators neglected to explain that they should continue to pay all other debts.</p></li>
+                <li><p>One user stopped paying her taxes and student loans, resulting in a wage garnishment that she had to battle with the help of a lawyer.</p></li>
+              </ul>
+            </li>
+            <li>
+              <p><strong>How to avoid legal trouble:</strong></p>
+              <ul>
+                <li><p>Do your due diligence and check FinTok advice against multiple resources</p></li>
+                <li><p>Research the topic in full before taking any steps</p></li>
+                <li><p>Find out if the creator is an expert or has any credentials</p></li>
+                <li><p><strong>*Note: Stress the significance of vetting advice on the internet for “boomers” too. They’re having similar issues with money scams, legal, and medical advice.” Some think because it’s on the internet it’s automatically true.</strong></p></li>
+              </ul>
+            </li>
+          </ul>
+        </li>
+        <li>
+          <p>
+            <a href="https://www.yahoo.com/news/diddy-calls-apple-music-spotify-150416540.html"><u>Diddy goes in on Apple Music and Spotify: “These people out here trying to control me!”</u></a>
+          </p>
+          <ul>
+            <li>
+              <p>Diddy takes on Apple Music and Spotify in his latest IG rant, blowing off steam over the DSP (digital streaming providers) giants' restrictions and regulations.</p>
+            </li>
+            <li>
+              <p>After an 8-year hiatus, Diddy is preparing to launch his new solo project and refuses to submit to "algorithm computer rules," as he refers to them.</p>
+            </li>
+            <li>
+              <p>He said that he is against DSPs having a say in when he drops music, that he will drop music “whenever the f*** he wants,” and that they must catch up.</p>
+            </li>
+          </ul>
+        </li>
+        <li>
+          <p>
+            <a href="https://www.vulture.com/2022/10/keke-palmer-key-tv-digital-tv-network-launch.html"><u>Keke “Keep a job” Palmer launches her own digital TV network KeyTV</u></a>
+          </p>
+          <ul>
+            <li>
+              <p>Keke Palmer announced the launch of KeyTV in an IG video oozing with her trademark charm highlighting her versatile 20-year career as an actress, singer, writer, and director.</p>
+            </li>
+            <li>
+              <p>She describes KeyTV as a platform “where our stories matter and we are represented as the keys to the culture.”</p>
+            </li>
+            <li>
+              <p>In a video posted to the KeyTV YouTube channel she also emphasized that people can have successful careers behind-the-scenes with positions like production designers, sound mixers, key grips, and directors of photography.</p>
+            </li>
+            <li>
+              <p><strong>(Note: Talk about the importance of our people exploring careers behind the scenes not just in front of the camera)</strong></p>
+            </li>
+          </ul>
+        </li>
+        <li><p><strong>Promote the OneTen/BIT Foundation x Udacity Scholarship Program (Deadline Oct. 11, 2022).</strong></p></li>
+        <li><p><strong>3 pathways: Business analytics, digital marketing, and front web dev</strong></p></li>
+        <li><p><strong>To apply go to www.udacity.com/scholarships/oneten-bit-scholarship</strong></p></li>
+      </ul>
+      <p>“When we come forward we’ll talk Tea Tech & Tequila with Zenobia Millet on the Unapologetically Progressive KBLA Talk 1580.”</p>
+      <ul>
+        <li>
+          <p>Soft out with a commercial break: 3 minutes</p>
+        </li>
+        <li>
+          <p>He won’t go to break until she is ready</p>
+        </li>
+      </ul>
+      <h1><u>Segment 2:</u> 12:13:35 pm - 12:30:00 pm</h1>
+      <ul>
+        <li>
+          <p>“Welcome forward, I’m your host Cassie Betts and this is Talk Tech To Me Uncut. Today we’re talking to the incomparable Zenobia Millet, a tech diva, award-winning media technologies maven, fintech funding specialist, and serial entrepreneur with over 30 years of experience. She is the founder of The Media Technologies Group, a conglomerate that drives growth and sustainability through technologies, and The Funding Boutique, which provides alternative business funding. She is the hostess & curator of the Tea Tech & Tequila Immersive Salon, a mixed reality networking event, and she hosts a jazz broadcast. She has smashed glass ceilings by becoming the first African-American chapter chair of the prestigious International Audio Engineering Society. She is also the first female member of the illustrious Sapphire Group. Please welcome Ms. Zenobia Millet.”</p>
+        </li>
+        <li>
+          <p><em>TTTM Icebreaker:</em> Bakari. When did you fall in love with tech?</p>
+        </li>
+        <li>
+          <p>Origin Story: What do you do in the audio, video, XR production space?</p>
+          <ul>
+            <li><p>How did you get started as an entertainment producer?</p></li>
+            <li><p>Known for award-winning architecture production- what was the project?</p></li>
+          </ul>
+        </li>
+        <li>
+          <p>How can people start a career in production?</p>
+        </li>
+        <li>
+          <p>What resources were helpful for you?</p>
+        </li>
+        <li>
+          <p>What’s the most difficult part of being a producer?</p>
+        </li>
+        <li>
+          <p><strong>Entrepreneurship & Funding</strong></p>
+          <ul>
+            <li><p>Founder of The <strong>Funding Boutique</strong> (Fintech funding/alternative business funding)</p></li>
+            <li><p>Can you tell us who The Funding Boutique serves and how it’s helping biz owners secure funding?</p></li>
+            <li><p>What is alternative business funding?</p></li>
+          </ul>
+        </li>
+        <li>
+          <p>Note: Interests include finance, fashion, lifestyle, and huge jazz lover</p>
+        </li>
+        <li><p>1 800-920-1580 to talk tech “More with Zenobia Millet when we come forward on KBLA Talk 1580, we’ve got a lot to talk about.”</p></li>
+        <li>
+          <p>Fun Facts:</p>
+          <ul>
+            <li>
+              <p><em>Hard Out at the 30 (bottom of the hour) with a 6-minute break</em></p>
+            </li>
+            <li>
+              <p><em>News and traffic break - 3 minutes</em></p>
+            </li>
+            <li>
+              <p><em>Commercial break - 3 minutes</em></p>
+            </li>
+          </ul>
+        </li>
+      </ul>
+      <h1><u>Segment 3:</u> 12:36:00 pm - 12:45:45 pm</h1>
+      <p>“Welcome forward, you’re now tapped into Talk Tech To Me Uncut, I’m your host Cassie Betts on KBLA Talk 1580.  1-800-920-1580 to talk tech. I’m in the studio with Zenobia Millet</p>
+      <ul>
+        <li>
+          <p>Discuss tips for new tech founders and pitching advice (conducts founder evaluations)</p>
+        </li>
+        <li>
+          <p>Tell us about the <strong>Tea Tech & Tequila Immersive Salon</strong></p>
+          <ul>
+            <li><p><strong>Promote upcoming Tea Tech & Tequila event- happening next Saturday Oct. 15th- Cassie is being presented with the Champion of Change Pioneer Award</strong></p></li>
+          </ul>
+        </li>
+        <li>
+          <p>Why was it important to create an event like this?</p>
+        </li>
+        <li>
+          <p>What networking methods have worked for you?</p>
+        </li>
+      </ul>
+      <p>“When we come forward more Talk Tech To Me Uncut on the Unapologetically Progressive KBLA Talk 1580.”</p>
+      <ul>
+        <li>
+          <p>Commercial break - 3 minutes</p>
+        </li>
+      </ul>
+      <h1><u>Segment 4:</u> 12:48:45 pm - 12:53:00 pm</h1>
+      <p>“Welcome forward, this is Talk Tech To Me Uncut, I’m your host Cassie Betts on KBLA Talk 1580.  1-800-920-1580 to talk tech.”</p>
+      <p>Use this time to answer calls. If no calls, continue convo or ask 1-2 questions that were not previously asked</p>
+      <ul>
+        <li>
+          <p>What advice would you give Black people, especially Black women that want to navigate this industry and reach their goals as you have?</p>
+        </li>
+        <li>
+          <p>What trends do you see happening in the future?</p>
+        </li>
+        <li>
+          <p>“More Talk Tech To Me Uncut when we come forward on KBLA Talk 1580.”</p>
+          <ul>
+            <li>
+              <p><em>Commercial break - 3 minutes</em></p>
+            </li>
+          </ul>
+        </li>
+      </ul>
+      <h1><u>Segment 5:</u> 12:56:00 pm - 1:00:00 pm</h1>
+      <p>“Welcome forward, you’re listening to Talk Tech To Me Uncut where tech is the new sexy.”</p>
+      <p>Use this to wrap up any last points, call to action, opportunities, etc.</p>
+      <ul>
+        <li>
+          <p>Direct listeners to connect via social media, websites, and upcoming events.</p>
+          <ul>
+            <li>
+              <p>“Zenobia, how can listeners learn more about you and connect w/ you online?” Drop SM handles!</p>
+            </li>
+            <li>
+              <p>Follow me @instabetts and @talktechtomepod on IG</p>
+            </li>
+            <li>
+              <p>To learn more about MISLA/MARTY go to misla.org</p>
+            </li>
+            <li>
+              <p>Tease details for the next show:  Tune in next week as we talk real estate + tech with Lisa Gillet.</p>
+            </li>
+            <li>
+              <p>“Thank you for kickin’ it with us at the Unapologetically Progressive KBLA Talk 1580. Next, explore the creative reckoning of writers on The Back Story with Mischa Duffie.”</p>
+            </li>
+          </ul>
+        </li>
+        <li>
+          <p>
+          TTTM Closing: “This has been Talk Tech To Me Uncut, pushing the envelope of tech one keystroke at a time. Peace out!”
+          </p>
+        </li>
+      </ul>
+      <p>Tag Lines: Say as much as possible.</p>
+      <ul>
+        <li>
+          <p>KBLA Talk 1580, we’ve got a lot to talk about.</p>
+        </li>
+        <li>
+          <p>Unapologetically Progressive KBLA Talk 1580.</p>
+        </li>
+      </ul>
+    `,
+  },
+  {
+    number: '14',
+    title: 'Super Heroes Wear Capes',
+    date: '15-10-2022',
+    subject: 'Real estate + tech',
+    artist: 'Lisa Gillett',
+    flyerUrl: 'assets/images/v2/Lisa-Gillett.png',
+    link: 'assets/audio/Episode0.1-Tech Pilot2-ReneeMoncito.mp3',
+    description: `
+      <h1><u>Segment 1:</u> 12:03:00 pm - 12:10:35 pm</h1>
+      <p>Show intro: “Welcome forward, I’m your host, Cassie Betts, on KBLA Talk 1580, and you’re listening to Talk Tech To Me Uncut, where technology is the new sexy, Black geeks are the new superheroes, and South Central LA is the new tech mecca. Today we’ll be chatting with a real superhero, Real Estate Super Agent Lisa Gillet. But first, let’s get into The Tea in Tech.”</p>
+      <h1>What’s the Tea in Tech:</h1>
+      <ul>
+        <li>
+          <p>
+            <a href="https://staysafeonline.org/online-safety-privacy-basics/passwords-securing-accounts/"><u>#BeCyberSmart tip of the week</u></a>
+          </p>
+          <ul>
+            <li>
+              <p>"Because it's Cybersecurity Awareness Month, I'll be sharing easy tips you can start applying right away to improve your online safety in these digital streets."</p>
+            </li>
+            <li>
+              <p><strong>Tip:</strong> Always use <strong>strong passwords and a password manager</strong></p>
+            </li>
+            <li>
+              <p><strong>All passwords should be created with these principles in mind:</strong></p>
+              <ul>
+                <li><p><strong>Long-</strong> All of your passwords should be at least 12 characters long.</p></li>
+                <li><p><strong>Unique-</strong> Never reuse passwords. Every account should have its own unique password.</p></li>
+                <li><p><strong>Complex-</strong> Each unique password should combine upper case letters, lower case letters, numbers, and special characters (like >,!?).</p></li>
+              </ul>
+            </li>
+            <li>
+              <p>Don’t sleep on password managers. They’re safe and can help you organize your passwords in one place, so ditch the notebook! Some options are:</p>
+              <ul>
+                <li><p>1Password</p></li>
+                <li><p>Bitwarden</p></li>
+                <li><p>Keeper</p></li>
+              </ul>
+            </li>
+          </ul>
+        </li>
+        <li>
+          <p>
+            <a href="https://www.nbclosangeles.com/investigations/stolen-lausd-data-posted-by-ransomware-group/2997511/"><u>Stolen LAUSD data gets leaked by ransomware gang</u></a>
+          </p>
+          <ul>
+            <li>
+              <p>During a cyberattack on the L.A. Unified School District's computer systems in September, the ransomware gang Vice Society seized thousands of files, which it then released on the dark web.</p>
+            </li>
+            <li>
+              <p>What is Ransomware?</p>
+            </li>
+            <li>
+              <p>Data leaked includes students’ psychological assessments, legal documents, contracts, and employee social security numbers.</p>
+            </li>
+            <li>
+              <p>LAUSD Superintendent Alberto Carvalho confirmed there was a demand made for payment but was advised by law enforcement not to negotiate with the hackers.</p>
+            </li>
+            <li>
+              <p>LAUSD set up a hotline so parents and staff can call with questions.</p>
+            </li>
+          </ul>
+        </li>
+        <li>
+          <p>
+            <a href="https://www.yahoo.com/video/nicki-minaj-secures-call-duty-150325784.html"><u>Cardi B fumbled the bag with “Call of Duty,” Nicki Minaj secures it</u></a>
+          </p>
+          <ul>
+            <li>
+              <p>Nicki Minaj scores a multi-million dollar endorsement deal with Activision’s Call of Duty after Cardi B had to step back to battle her legal woes.</p>
+            </li>
+            <li>
+              <p>Cardi B shared in a tweet that she had to back out of the partnership due to her past mistakes.</p>
+              <ul>
+                <li><p>Cardi’s tweet: “My stupid decisions from the past caused me to miss out on money now. I had a multi-million dollar Call of Duty deal on the table that I couldn’t take because of court. Guys, think twice about those quick decisions! Lesson learned.”</p></li>
+              </ul>
+            </li>
+            <li>
+              <p>Cardi was alluding to the felony and misdemeanor charges she faced in 2018 after a scuffle at a New York strip club.</p>
+            </li>
+            <li>
+              <p>Nicki Minaj is featured in the latest ad for Call of Duty: Modern Warfare, which drops Oct. 28, alongside Lil Baby, Pete Davidson, and other celebs.</p>
+            </li>
+          </ul>
+        </li>
+        <li>
+          <p>
+            <a href="https://afrotech.com/migos-quavo-takeoff-offset-bank-account"><u>Quavo admits Migos didn’t have a bank account for their millions, they used to “hide money in the floors and walls”</u></a>
+          </p>
+          <ul>
+            <li>
+              <p>One of the hottest hip hop groups, Migos confessed on the “Big Facts” podcast that they didn’t have a bank account for the first 5-6 years of their career. “We used to hide money in the floors, in the walls, sh-t like that,” Quavo said.</p>
+            </li>
+            <li>
+              <p>Quavo and Takeoff, said when the money started rolling in, they were just 22 years old and viewed it as "fast money."</p>
+            </li>
+            <li>
+              <p>They now have financial advisors and multiple endorsement deals ranging from sports to NFTs.</p>
+              <ul>
+                <li><p>Offset wasn’t a part of the interview; Migos' future is still uncertain due to Offset’s lawsuit against Quality Control for not honoring his solo contract.</p></li>
+              </ul>
+            </li>
+            <li>
+              <p>Founders and techies are you ready to make big leaps? Plug in South LA’s Urban Tech Connect —The premiere conference for Black & Brown founders & tech professionals — Returns to LA *in person* on October 20th. Register at <a href="https://utc.pluginsouthla.com/">utc.pluginsouthla.com</a> with our code UTC-Social-75 to get $25 tickets.</p>
+            </li>
+            <li>
+              <p>In-person at Nate Holden Performing Arts Center</p>
+            </li>
+          </ul>
+        </li>
+      </ul>
+      <p>“When we come forward we’ll talk tech with Real Estate Super Agent Lisa Gillet on the Unapologetically Progressive KBLA Talk 1580.”</p>
+      <ul>
+        <li>
+          <p>Soft out with a commercial break: 3 minutes</p>
+        </li>
+        <li>
+          <p>He won’t go to break until she is ready</p>
+        </li>
+      </ul>
+      <h1><u>Segment 2:</u> 12:13:35 pm - 12:30:00 pm</h1>
+      <ul>
+        <li>
+          <p>“Welcome forward, I’m your host Cassie Betts and you’re tuned in to Talk Tech To Me Uncut where tech is the new sexy. Today we’re talking to Lisa Gillet, real estate extraordinaire, professional agent trainer, national public educator, award-winning author, and speaker. They say “All heroes don’t wear capes,” but this one does. Please welcome Lisa Gillet.”</p>
+        </li>
+        <li>
+          <p><em>TTTM Icebreaker:</em> Bakari. When did you fall in love with tech?</p>
+        </li>
+        <li>
+          <p>How did you get started in the real estate game? Explain what being a “Super Agent” means to you.</p>
+        </li>
+        <li>
+          <p><strong>Real Estate EdTech - Real Estate 100 is one of the first real estate bootcamps for kids in the nation.</strong></p>
+          <ul>
+            <li><p>Storytime: Talk about experience w/ MISLA/MARTY Bootcamps</p></li>
+            <li><p>Importance of kids learning about real estate ownership + financial literacy</p></li>
+            <li><p>Is buying property a good way to build generational wealth?</p></li>
+          </ul>
+        </li>
+        <li>
+          <p><strong>Real estate ownership</strong></p>
+          <ul>
+            <li>
+              <p>What’s the biggest myth about real estate?</p>
+            </li>
+            <li>
+              <p>How to prepare for the home-buying process? How can we use tech to help us? (Redfin)</p>
+            </li>
+            <li>
+              <p><strong>Alternative paths to homeownership</strong></p>
+              <ul>
+                <li>
+                  <p><a href="https://futureparty.com/stories/co-home-buying-ownership/">Communal living</a></p>
+                </li>
+                <li><p>Buying back the block</p></li>
+                <li><p>Airbnb + Vrbo</p></li>
+              </ul>
+            </li>
+            <li>
+              <p><strong>Funding/Down payment assistance programs</strong></p>
+              <ul>
+                <li><p>Thoughts on Bank of America’s program</p></li>
+              </ul>
+            </li>
+            <li>
+              <p><strong>Multi-family properties: Are they a good fit for everybody?</strong></p>
+              <ul>
+                <li><p>Many online ‘gurus” are encouraging first-time buyers to purchase multi-family properties vs SFHs (single-family homes)</p></li>
+              </ul>
+            </li>
+          </ul>
+        </li>
+        <li><p>1 800-920-1580 to talk tech “More with Lisa Gillet when we come forward on KBLA Talk 1580, we’ve got a lot to talk about.”</p></li>
+        <li>
+          <p>Fun Facts:</p>
+          <ul>
+            <li>
+              <p><em>Hard Out at the 30 (bottom of the hour) with a 6-minute break</em></p>
+            </li>
+            <li>
+              <p><em>News and traffic break - 3 minutes</em></p>
+            </li>
+            <li>
+              <p><em>Commercial break - 3 minutes</em></p>
+            </li>
+          </ul>
+        </li>
+      </ul>
+      <h1><u>Segment 3:</u> 12:36:00 pm - 12:45:45 pm</h1>
+      <p>“Welcome forward, you’re now tapped into Talk Tech To Me Uncut, I’m your host Cassie Betts on KBLA Talk 1580.  1-800-920-1580 to talk tech. I’m in the studio with Super Agent Lisa Gillet.”</p>
+      <ul>
+        <li>
+          <p>Discuss Lisa’s proptech company + app: Property Owner’s Edu</p>
+          <ul>
+            <li><p><strong>Courses</strong></p></li>
+          </ul>
+        </li>
+        <li>
+          <p><strong>Tech Trends</strong></p>
+          <ul>
+            <li><p><a href="https://matchboxdesigngroup.com/blog/how-web-3-0-will-impact-real-estate-marketing/">How will Web3 impact real estate marketing?</a></p></li>
+            <li>
+              <p><a href="https://www.entrepreneur.com/science-technology/how-nfts-could-change-real-estate/382816">How do NFTs work in the real estate space?</a></p>
+              <ul>
+                <li>
+                  <p>NFTs for fractional property ownership</p>
+                </li>
+                <li>
+                  <p>NFT Mortgages</p>
+                </li>
+              </ul>
+            </li>
+            <li><p><a href="https://www.bankrate.com/real-estate/buying-a-house-with-cryptocurrency/">Can you use crypto to buy property?</a></p></li>
+            <li><p><a href="https://www.reit.com/news/reit-magazine/november-december-2018/how-blockchain-could-transform-real-estate">How is blockchain affecting REITs + real estate investing?</a></p></li>
+            <li><p><a href="https://ascendixtech.com/proptech-real-estate-definition/">PropTech</a></p></li>
+          </ul>
+        </li>
+        <li>
+          <p>How to avoid online scams</p>
+          <ul>
+            <li><p>Real Estate gurus, online courses, get-rich-quick schemes</p></li>
+            <li><p>What to look out for if you’re vulnerable</p></li>
+          </ul>
+        </li>
+      </ul>
+      <p>“When we come forward more Talk Tech To Me Uncut on the Unapologetically Progressive KBLA Talk 1580.”</p>
+      <ul>
+        <li>
+          <p>Commercial break - 3 minutes</p>
+        </li>
+      </ul>
+      <h1><u>Segment 4:</u> 12:48:45 pm - 12:53:00 pm</h1>
+      <p>“Welcome forward, this is Talk Tech To Me Uncut, I’m your host Cassie Betts on KBLA Talk 1580.  1-800-920-1580 to talk tech.”</p>
+      <p>Use this time to answer calls. If no calls, continue convo or ask 1-2 questions that were not previously asked</p>
+      <ul>
+        <li>
+          <p><strong>How to avoid scams</strong></p>
+          <ul>
+            <li><p>Real Estate gurus, online courses, get-rich-quick schemes</p></li>
+            <li><p>What to look out for if you’re vulnerable</p></li>
+          </ul>
+        </li>
+        <li>
+          <p><strong>Is it a good time to buy?</strong></p>
+          <ul>
+            <li>
+              <p>Thoughts on financial experts who say purchasing a home is a bad investment? (i.e phantom costs, maintenance, repairs, etc)</p>
+            </li>
+            <li>
+              <p>Are we headed towards a similar housing crisis, reminiscent of the mortgage crash in 2008?</p>
+            </li>
+          </ul>
+        </li>
+        <li>
+          <p>“More Talk Tech To Me Uncut when we come forward on KBLA Talk 1580.”</p>
+          <ul>
+            <li>
+              <p><em>Commercial break - 3 minutes</em></p>
+            </li>
+          </ul>
+        </li>
+      </ul>
+      <h1><u>Segment 5:</u> 12:56:00 pm - 1:00:00 pm</h1>
+      <p>“Welcome forward, you’re listening to Talk Tech To Me Uncut where tech is the new sexy.”</p>
+      <p>Use this to wrap up any last points, call to action, opportunities, etc.</p>
+      <ul>
+        <li>
+          <p>Direct listeners to connect via social media, websites, and upcoming events.</p>
+          <ul>
+            <li>
+              <p>“Lisa, how can listeners learn more about you and connect w/ you online?” Drop SM handles!</p>
+            </li>
+            <li>
+              <p>Follow me @instabetts and @talktechtomepod on IG</p>
+            </li>
+            <li>
+              <p>To learn more about MISLA/MARTY go to misla.org</p>
+            </li>
+            <li>
+              <p>Agenda For America:</p>
+            </li>
+            <li>
+              <p>Tease details for the next show:  Tune in next week as we talk tech with Derek Smith of Plug In South LA</p>
+            </li>
+            <li>
+              <p>“Thank you for kickin’ it with us at the Unapologetically Progressive KBLA Talk 1580. Next, explore the creative reckoning of writers on The Back Story with Mischa Duffie.”</p>
+            </li>
+          </ul>
+        </li>
+        <li>
+          <p>
+          TTTM Closing: “This has been Talk Tech To Me Uncut, pushing the envelope of tech one keystroke at a time. Peace out!”
+          </p>
+        </li>
+      </ul>
+      <p>Tag Lines: Say as much as possible.</p>
+      <ul>
+        <li>
+          <p>KBLA Talk 1580, we’ve got a lot to talk about.</p>
+        </li>
+        <li>
+          <p>Unapologetically Progressive KBLA Talk 1580.</p>
+        </li>
+      </ul>
+    `,
   }
 ];
