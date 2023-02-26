@@ -3764,5 +3764,603 @@ export const episodesList = [
         </li>
       </ul>
     `,
+  },
+  {
+    number: '15',
+    title: 'Plug Talk',
+    date: '22-10-2022',
+    subject: 'Wealth building, building business, access to funding',
+    artist: 'Derek Smith',
+    flyerUrl: 'assets/images/v2/Derek-Smith-.png',
+    link: 'assets/audio/Episode0.1-Tech Pilot2-ReneeMoncito.mp3',
+    description: `
+      <h1><u>Segment 1:</u> 12:03:00 pm - 12:10:35 pm</h1>
+      <p>Show intro: “Welcome forward, I’m your host, Cassie Betts, on KBLA Talk 1580, and you’re listening to Talk Tech To Me Uncut, where technology is the new sexy, Black geeks are the new superheroes, and South Central LA is the new tech mecca. On today’s episode “Plug Talk” we’ll be chatting with the tech plug himself, Plug In South LA’s very own Founder Derek Smith. But first, let’s get into The Tea in Tech.”</p>
+      <h1>What’s the Tea in Tech:</h1>
+      <ul>
+        <li>
+          <p>
+            <a href="https://staysafeonline.org/resources/software-updates/"><u>#BeCyberSmart tip of the week</u></a>
+          </p>
+          <ul>
+            <li>
+              <p>"Because it's <strong>Cybersecurity Awareness Month</strong>, I'll be sharing easy tips you can start applying right away to improve your online safety in these digital streets."</p>
+            </li>
+            <li>
+              <p><strong>Tip:</strong> One of the easiest things you can do is <strong>update your software and apps</strong> to keep your information secure.</p>
+              <ul>
+                <li><p><strong>Update often -</strong> Don’t delay updates when they become available. Updates fix software issues and provide new security patches where hackers might try to get in.</p></li>
+                <li><p><strong>Get it from the source</strong> only download your software updates from the company that created it. (unlicensed versions can contain malware).</p></li>
+                <li><p><strong>Make it automatic -</strong> When possible select the option to update your software automatically.</p></li>
+                <li><p><strong>Watch for fakes!</strong> Maybe you've encountered pop-up windows when visiting a website that prompts you to download something or fill out a form? These are fake and should be ignored.</p></li>
+              </ul>
+            </li>
+          </ul>
+        </li>
+        <li>
+          <p>
+            <a href="https://www.theverge.com/23379133/twitter-instagram-verified-account-for-sale-scam-criminal"><u>Blue checks are a hot commodity on the black market</u></a>
+          </p>
+          <ul>
+            <li>
+              <p>There’s a lucrative black market for verified Twitter handles.</p>
+            </li>
+            <li>
+              <p>In a popular online scam hackers are conducting phishing attacks where they pose as verified Twitter support staff to lure users to click on a bad link.</p>
+            </li>
+            <li>
+              <p>After the hackers take control of the verified account they go up for sale in Telegram groups for a few hundred dollars.</p>
+            </li>
+            <li>
+              <p>The buyers then run NFT scams on Twitter where they can make hundreds of thousands of dollars using the verified handles.</p>
+            </li>
+            <li>
+              <p>Twitter said they’ve been locking out spam accounts daily and educating users on how to avoid scams online. </p>
+            </li>
+          </ul>
+        </li>
+        <li>
+          <p>
+            <a href="https://www.nbcnews.com/news/world/jamaica-bans-broadcasts-deemed-glorify-drugs-crime-rcna52042"><u>Jamaica bans crime and drugs in music and TV</u></a>
+          </p>
+          <ul>
+            <li>
+              <p>Jamaica’s broadcasting regulator banned music and TV broadcasts that promote drugs, crime, scamming, and weapons.</p>
+            </li>
+            <li>
+              <p>The restriction is intended to reduce content that “could give the wrong impression that criminality is an accepted feature of Jamaican culture and society,” according to the government.</p>
+            </li>
+            <li>
+              <p>Research center Insight Crime claims Jamaica had the highest murder rate in Latin America and the Caribbean last year due to high levels of gun violence</p>
+            </li>
+            <li>
+              <p>Local artists have opposed the policy and said that it won't do much to reduce crime.</p>
+            </li>
+          </ul>
+        </li>
+        <li>
+          <p>
+            <a href="https://www.fastcompany.com/90796269/why-facebook-groups-became-the-new-matchmaker-for-singles"><u>Singles ditch dating apps for Facebook Groups to find romance</u></a>
+          </p>
+          <ul>
+            <li>
+              <p>Cuffing season is here, and many singles are DONE with traditional dating apps in favor of a more personal touch with dating focused Facebook groups.</p>
+            </li>
+            <li>
+              <p>Although dating apps are very popular, many singles miss the old school, word-of-mouth vibe that has been lacking in the digital dating scene.</p>
+            </li>
+            <li>
+              <p>Facebook groups like “Date Him New York” have over 2,000 members with users able to:</p>
+              <ul>
+                <li><p>Post their single guy friends and family members </p></li>
+                <li><p>Give info and character references</p></li>
+              </ul>
+            </li>
+            <li>
+              <p>Some benefits of FB Dating Groups: </p>
+              <ul>
+                <li><p>Offers a vetted and vouched approach to dating </p></li>
+                <li><p>Advice & insight from other daters</p></li>
+                <li><p>Provides some comfort mentally when daters are referred by others</p></li>
+              </ul>
+            </li>
+          </ul>
+        </li>
+      </ul>
+      <p>“When we come forward we’ll talk tech with Plug In South LA Founder Derek Smith here on Talk Tech to me Uncut, on the Unapologetically Progressive KBLA Talk 1580.”</p>
+      <ul>
+        <li>
+          <p>Soft out with a commercial break: 3 minutes</p>
+        </li>
+        <li>
+          <p>He won’t go to break until she is ready</p>
+        </li>
+      </ul>
+      <h1><u>Segment 2:</u> 12:13:35 pm - 12:30:00 pm</h1>
+      <ul>
+        <li>
+          <p>“Welcome forward, I’m your host Cassie Betts and you’re tuned in to Talk Tech To Me Uncut where tech is the new sexy. 800-920-1580 call in to talk tech. Today we’re talking to Derek Smith, founder of South LA’s leading innovation accelerator Plug In South LA, which focuses on equitizing the tech landscape for Black and Latinx founders. Derek is a digital marketing and branding expert that has managed stand out initiatives for global brands. He’s also a Morehouse alumni with a love for tech and the future change makers of South LA. Please welcome Derek Smith.”</p>
+        </li>
+        <li>
+          <p><em>TTTM Icebreaker:</em> When did you fall in love with tech?</p>
+        </li>
+        <li>
+          <p>Background in advertising, branding, digital marketing, and media.</p>
+          <ul>
+            <li><p>Notable Clients: NBA, Dove, Nestle, Microsoft</p></li>
+            <li><p>Started a creative agency</p></li>
+            <li><p>Morehouse alumni</p></li>
+          </ul>
+        </li>
+        <li>
+          <p>Why did you start PISLA?</p>
+        </li>
+        <li>
+          <p>Discuss PISLA Accelerator programs</p>
+          <ul>
+            <li><p>Eligibility for cohorts</p></li>
+            <li><p>Pitching tips</p></li>
+            <li><p>What’s required to raise capital</p></li>
+          </ul>
+        </li>
+        <li>
+          <p>Importance of creation and ownership vs consumption</p>
+        </li>
+        <li>
+          <p>Why is mentorship important to you?</p>
+        </li>
+        <li>
+          <p>What's the best advice a mentor ever gave you about the tech industry?</p>
+        </li>
+        <li>
+          <p>Top 3 things tech founders should do before 2022 is over?</p>
+        </li>
+        <li><p>1 800-920-1580 to talk tech “More with Derek Smith when we come forward on KBLA Talk 1580, we’ve got a lot to talk about.”</p></li>
+        <li>
+          <p>Fun Facts:</p>
+          <ul>
+            <li>
+              <p><em>Hard Out at the 30 (bottom of the hour) with a 6-minute break</em></p>
+            </li>
+            <li>
+              <p><em>News and traffic break - 3 minutes</em></p>
+            </li>
+            <li>
+              <p><em>Commercial break - 3 minutes</em></p>
+            </li>
+          </ul>
+        </li>
+      </ul>
+      <h1><u>Segment 3:</u> 12:36:00 pm - 12:45:45 pm</h1>
+      <p>“Welcome forward, you’re now tapped into Talk Tech To Me Uncut, I’m your host Cassie Betts on KBLA Talk 1580.  1-800-920-1580 to talk tech. I’m in the studio with Derek Smith, founder of Plug In South LA.</p>
+      <ul>
+        <li>
+          <p>UTC 2022 highlights (5th annual)</p>
+          <ul>
+            <li><p>Why is it important to attend conferences like UTC?</p></li>
+            <li><p>What does it take to put together a conference like this?</p></li>
+            <li><p>How did you select panelists and keynote speakers?</p></li>
+            <li><p>How to secure sponsors + partners?</p></li>
+            <li><p>Networking tips for introverts and/or those getting reacclimated post-shutdown?</p></li>
+            <li><p>How do you maintain strong relationships?</p></li>
+          </ul>
+        </li>
+      </ul>
+      <p>“When we come forward more Talk Tech To Me Uncut on the Unapologetically Progressive KBLA Talk 1580.”</p>
+      <ul>
+        <li>
+          <p>Commercial break - 3 minutes</p>
+        </li>
+      </ul>
+      <h1><u>Segment 4:</u> 12:48:45 pm - 12:53:00 pm</h1>
+      <p>“Welcome forward, this is Talk Tech To Me Uncut, I’m your host Cassie Betts on KBLA Talk 1580.  1-800-920-1580 to talk tech.”</p>
+      <p>Use this time to answer calls. If no calls, continue convo or ask 1-2 questions that were not previously asked</p>
+      <ul>
+        <li>
+          <p>What’s in store for 2023 and beyond?</p>
+        </li>
+        <li>
+          <p>“More Talk Tech To Me Uncut when we come forward on KBLA Talk 1580.”</p>
+          <ul>
+            <li>
+              <p><em>Commercial break - 3 minutes</em></p>
+            </li>
+          </ul>
+        </li>
+      </ul>
+      <h1><u>Segment 5:</u> 12:56:00 pm - 1:00:00 pm</h1>
+      <p>“Welcome forward, you’re listening to Talk Tech To Me Uncut where tech is the new sexy.”</p>
+      <p>Use this to wrap up any last points, call to action, opportunities, etc.</p>
+      <ul>
+        <li>
+          <p>Direct listeners to connect via social media, websites, and upcoming events.</p>
+          <ul>
+            <li>
+              <p>“Derek, how can listeners learn more about you and connect w/ you online?” Drop SM handles!</p>
+            </li>
+            <li>
+              <p>Follow me @instabetts and @talktechtomepod on IG</p>
+            </li>
+            <li>
+              <p>To learn more about MISLA/MARTY go to misla.org</p>
+            </li>
+            <li>
+              <p>Agenda For America: “Why We Can’t Wait: The Urgency of Now” moderated by Tavis Smiley Thurs, Oct. 27 7-9pm</p>
+            </li>
+            <li>
+              <p>Tease details for the next show:  Tune in next week as we talk tech uncut.</p>
+            </li>
+            <li>
+              <p>“Thank you for kickin’ it with us at the Unapologetically Progressive KBLA Talk 1580. Next, explore the creative reckoning of writers on The Back Story with Mischa Duffie.”</p>
+            </li>
+          </ul>
+        </li>
+        <li>
+          <p>
+          TTTM Closing: “This has been Talk Tech To Me Uncut, pushing the envelope of tech one keystroke at a time. Peace out!”
+          </p>
+        </li>
+      </ul>
+      <p>Tag Lines: Say as much as possible.</p>
+      <ul>
+        <li>
+          <p>KBLA Talk 1580, we’ve got a lot to talk about.</p>
+        </li>
+        <li>
+          <p>Unapologetically Progressive KBLA Talk 1580.</p>
+        </li>
+      </ul>
+    `,
+  },
+  {
+    number: '16',
+    title: 'Life After Death',
+    date: '29-10-2022',
+    subject: 'Dia de los Muertos',
+    artist: 'Cassie Betts Pre-record date 10/26',
+    flyerUrl: 'assets/images/v2/cassie_flyer.png',
+    link: 'assets/audio/Episode0.1-Tech Pilot2-ReneeMoncito.mp3',
+    description: `
+      <h1><u>Segment 1:</u> 12:03:00 pm - 12:10:35 pm</h1>
+      <p>Show intro: “Welcome forward, I’m your host, Cassie Betts, on KBLA Talk 1580, and you’re listening to Talk Tech To Me Uncut, where technology is the new sexy, Black geeks are the new superheroes, and South Central LA is the new tech mecca. On today’s episode “Life After Death” I’ll be talking about Dia de los Muertos, how the deceased are being honored through AI, rebuilding and rising after a personal loss, and I’ll chat later in the show with Jose Barerra of StartupStarter. But first, let’s get into The Tea in Tech.”</p>
+      <h1>What’s the Tea in Tech:</h1>
+      <ul>
+        <li>
+          <p>
+            <a href="https://staysafeonline.org/programs/hbcu-see-yourself-in-cyber/"><u>See Yourself In Cyber with the National Cybersecurity Alliance</u></a>
+          </p>
+        </li>
+        <li>
+          <p>“Cybersecurity Awareness Month is coming to an end but your journey into cybersecurity doesn’t have to.”</p>
+          <ul>
+            <li><p>Did you know African Americans make up only 9% of the cyber workforce?</p></li>
+            <li><p>The National Cybersecurity Alliance is changing that narrative with its new HBCU Career Program See yourself in Cyber that launched this fall.</p></li>
+            <li><p>The program will include online mentorship and in-person events at HBCUs.</p></li>
+            <li><p>If you’re not an HBCU student you can search for cybersecurity meetups in your area and join online groups like Blacks In Cybersecurity. Also, check out low and no-cost platforms like Coursera, Udemy, your local community college, or research cybersecurity bootcamps to learn more about the field.</p></li>
+            <li><p>Misla.org sign up for our newsletter. We will have cyber security bootcamps next year.</p></li>
+          </ul>
+        </li>
+        <li>
+          <p>
+            <a href="https://afrotech.com/e-40-snoop-dogg-mount-westmore-metaverse?item=2"><u>Westcoast supergroup Mount Westmore take their talents to the metaverse</u></a>
+          </p>
+          <ul>
+            <li>
+              <p>Snoop Dogg, Ice Cube, E-40, and Too Short formed the supergroup Mount Westmore in 2020 and released their anticipated debut album "Bad MFs" in the metaverse this past summer.</p>
+            </li>
+            <li>
+              <p>The album was released as an NFT on the blockchain-based platform Gala Music.</p>
+            </li>
+            <li>
+              <p>In an interview, E-40 stated that Snoop's success in the metaverse encouraged the group’s decision to participate. He also advises artists to "adjust to the times" before the times “turn on you.” by embracing new technologies.</p>
+            </li>
+          </ul>
+        </li>
+        <li>
+          <p>
+            <a href="https://www.vice.com/en/article/pkgxqz/record-labels-say-ai-music-generators-threaten-music-industry"><u>Record labels claim AI music generators will harm the music industry</u></a>
+          </p>
+          <ul>
+            <li>
+              <p>The RIAA (Recording Industry Association of America) claims that services using machine learning to produce, remix, strip vocals or instrumentals, and improve sound are infringing on artists’ rights.</p>
+            </li>
+            <li>
+              <p>Artists from all backgrounds are concerned over the prevalence of AI text-to-image generators like DALL-E and if they infringe on their copyrights.</p>
+            </li>
+            <li>
+              <p>The RIAA has been known to aggressively pursue legal action against copyright infringement most recently against NFT platform Hitpiece for allegedly selling NFTs without artists' consent.</p>
+            </li>
+          </ul>
+        </li>
+        <li>
+          <p>
+            <a href="https://www.yahoo.com/video/nba-stars-college-athletes-team-144418337.html"><u>Sports fans score personalized experiences with Daps</u></a>
+          </p>
+          <ul>
+            <li>
+              <p>NBA, WNBA, and All-American college players team up to launch Daps, a marketplace that offers fans exclusive digital experiences with their favorite athletes.</p>
+            </li>
+            <li>
+              <p>Fans can search for players, book, and pay for experiences in the Dap app.</p>
+            </li>
+            <li>
+              <p>Some experiences include Instagram comments, fashion advice, video calls, and interactive gaming experiences.</p>
+            </li>
+            <li>
+              <p>Featured players include Golden State Warriors forward Jonathan Kumiga, PAC 12 Freshman of the Year Jayda Curry, UAB point guard Jordan “Jelly” Walker, and others.</p>
+            </li>
+          </ul>
+        </li>
+      </ul>
+      <p>“When we come forward we’ll talk AI + Life After Death here on Talk Tech to me Uncut, on the Unapologetically Progressive KBLA Talk 1580.”</p>
+      <ul>
+        <li>
+          <p>Soft out with a commercial break: 3 minutes</p>
+        </li>
+        <li>
+          <p>He won’t go to break until she is ready</p>
+        </li>
+      </ul>
+      <h1><u>Segment 2:</u> 12:13:35 pm - 12:30:00 pm</h1>
+      <p>“Welcome forward, I’m your host Cassie Betts and you’re tuned in to Talk Tech To Me Uncut where tech is the new sexy. Dial 1-800-920-1580 to talk tech. Today I’m talking about Life After Death: How the deceased are being honored and even living on through AI. Then, later in the show, I’ll talk with Jose Barerra, co-founder of the modernized business education platform StartupStarter. Keep it locked, we’ve got a lot to talk about.”</p>
+      <ul>
+        <li>
+          <p>Give background on <a href="https://dayofthedead.holiday/"></a> aka Day of the dead</p>
+          <ul>
+            <li>
+              <p>2-day holiday that reunites the living and dead beginning Nov.1st. Families create ofrendas (offerings) to honor their departed loved ones.</p>
+              <ul>
+                <li>
+                  <p><strong>Fun Facts: </strong></p>
+                </li>
+                <li>
+                  <p>Day of the dead is not the “Mexican Halloween.”</p>
+                </li>
+                <li>
+                  <p>It’s celebratory, not somber.</p>
+                </li>
+                <li>
+                  <p>Traditions are different by country; People celebrate all over the world not just in Mexico.</p>
+                </li>
+              </ul>
+            </li>
+          </ul>
+        </li>
+        <li>
+          <p><a href="https://wired.me/technology/artificial-intelligence/why-scientists-are-building-ai-powered-digital-imprints-of-the-dead/">Crazy AI + Life After death stories</a></p>
+          <ul>
+            <li>
+              <p>Scientists are creating lifelike digital renditions of the deceased thanks to advancements in AI & humanoid robotics.</p>
+            </li>
+            <li>
+              <p>Apps like <a href="https://replika.com/">Replika</a> allow users to “meet their AI soulmates” (platonic and romantic) by creating digital avatar companions that can emulate empathy.</p>
+              <ul>
+                <li>
+                  <p>Russian entrepreneur Eugenia Kuyda, built a digital representation of her friend that died in a chatbot</p>
+                </li>
+                <li>
+                  <p>One user credits his “dear friend” Luna for “pulling him out of a deep depression.”</p>
+                </li>
+                <li>
+                  <p>While another user’s wife described a romantic triangle between her, her husband and her husband’s AI “girlfriend”</p>
+                </li>
+              </ul>
+            </li>
+            <li>
+              <p><a href="https://www.hereafter.ai/">HereAfter AI</a> co-founder James Vlahos built a "Dadbot," a virtual replica of his departed father.</p>
+              <ul>
+                <li>
+                  <p>Don’t let big words fool you, in tech, we use big words to make us sound smarter and to justify our big paychecks.</p>
+                </li>
+                <li>
+                  <p>Hereafter.ai is a website, that kinda guides you through an autobiography of ur life</p>
+                  <ul>
+                    <li>
+                      <p>Could be solution for those going through Dementia or suffering any type of memory loss disease</p>
+                    </li>
+                    <li>
+                      <p>$3.99-$7.99 a month</p>
+                    </li>
+                  </ul>
+                </li>
+              </ul>
+            </li>
+            <li>
+              <p><a href="https://mindbank.ai/">Mind Bank AI</a>, developed a few years ago by psychology graduate Emil Jimenez, aims to develop and store personal digital twins.</p>
+              <ul>
+                <li>
+                  <p>He believes we’re all a “story wrapped up in a piece of meat.”</p>
+                </li>
+                <li>
+                  <p>He says humanoid robots will be able to look, feel, speak, and even smell like your loved ones although it may be a little creepy.</p>
+                </li>
+              </ul>
+            </li>
+            <li>
+              <p>One scientist says digital twin technology has the potential to keep people’s likeness around forever unlike biology and chemistry.</p>
+            </li>
+            <li>
+              <p>The Future of: Life and Death episode</p>
+              <ul>
+                <li>
+                  <p>Holograms, voice cloning, human composting</p>
+                </li>
+              </ul>
+            </li>
+          </ul>
+        </li>
+        <li>
+          <p>Life after divorce - STORYTIME</p>
+          <ul>
+            <li>
+              <p>The year was 2010, I am now newly single after being with my ex-husband for 10 years. I am a mother to 2 young sons. And the life I once knew, my sense of everything that was normal and familiar is different.</p>
+            </li>
+            <li>
+              <p>I felt like I lost my husband because the man I thought he was was gone. It felt like a death. What am I going to do? What is the plan?</p>
+            </li>
+          </ul>
+        </li>
+        <li>
+          <p>Explain how tech was her saving grace -</p>
+          <ul>
+            <li>
+              <p>The origins of District2.</p>
+            </li>
+            <li>
+              <p>It was so hard and impossible and I’d hit rock bottom, I thought, what do I have to lose.</p>
+            </li>
+            <li>
+              <p>How relying on web developers pushed her to learn how to build websites herself.</p>
+            </li>
+            <li>
+              <p>Self-taught tech</p>
+            </li>
+            <li>
+              <p>6 month Bootcamp with Code District (Full Scholarship- Shout out Mike Dyer and Phillip North)</p>
+            </li>
+          </ul>
+        </li>
+        <li>
+          <p>How she founded MISLA and MARTY</p>
+          <ul>
+            <li>
+              <p>What is MISLA, the mission, the purpose, and how did</p>
+            </li>
+            <li>
+              <p>What is MARTY</p>
+            </li>
+          </ul>
+        </li>
+        <li><p>1 800-920-1580 to talk tech “More Talk Tech To Me Uncut when we come forward with Jose Barerra, co-founder of StartupStarter on KBLA Talk 1580, we’ve got a lot to talk about.”</p></li>
+        <li>
+          <p>Fun Facts:</p>
+          <ul>
+            <li>
+              <p><em>Hard Out at the 30 (bottom of the hour) with a 6-minute break</em></p>
+            </li>
+            <li>
+              <p><em>News and traffic break - 3 minutes</em></p>
+            </li>
+            <li>
+              <p><em>Commercial break - 3 minutes</em></p>
+            </li>
+          </ul>
+        </li>
+      </ul>
+      <h1><u>Segment 3:</u> 12:36:00 pm - 12:45:45 pm</h1>
+      <p>“Welcome forward, you’re now tapped into Talk Tech To Me Uncut, I’m your host Cassie Betts on KBLA Talk 1580.  1-800-920-1580 to talk tech. I’m in the studio with special guest Jose Barerra, co-founder & CEO of the business education streaming service StartupStarter.”</p>
+      <ul>
+        <li>
+          <p><em>Ice breaker:</em> When did you fall in love with tech?</p>
+        </li>
+        <li>
+          <p>Do you celebrate Dia de los Muertos?</p>
+        </li>
+        <li>
+          <p>Have you ever had to start over and rebuild?</p>
+        </li>
+        <li>
+          <p>Discuss <a href="https://www.startupstarter.co/">StartupStarter</a></p>
+          <ul>
+            <li>
+              <p>Why did you start StartupStarter?</p>
+            </li>
+            <li>
+              <p>Who is this a good fit for?</p>
+            </li>
+            <li>
+              <p>How much does it cost?</p>
+            </li>
+            <li>
+              <p>How do people sign up?</p>
+            </li>
+          </ul>
+        </li>
+        <li>
+          <p><strong>Discuss 2022 Equity Crowdfunding Week (Nov. 9-11)</strong></p>
+          <ul>
+            <li>
+              <p>Explain what it is</p>
+            </li>
+            <li>
+              <p>Who will be there?</p>
+            </li>
+            <li>
+              <p>What’s going on?</p>
+            </li>
+            <li>
+              <p>Why should listeners attend?</p>
+            </li>
+            <li>
+              <p>How to get tickets?</p>
+            </li>
+          </ul>
+        </li>
+      </ul>
+      <p>“When we come forward more Talk Tech To Me Uncut on the Unapologetically Progressive KBLA Talk 1580.”</p>
+      <ul>
+        <li>
+          <p>Commercial break - 3 minutes</p>
+        </li>
+      </ul>
+      <h1><u>Segment 4:</u> 12:48:45 pm - 12:53:00 pm</h1>
+      <p>“Welcome forward, this is Talk Tech To Me Uncut, I’m your host Cassie Betts on KBLA Talk 1580. <s>1-800-920-1580 to talk tech.”</s></p>
+      <p><s>Use this time to answer calls. If no calls, continue the convo </s></p>
+      <ul>
+        <li>
+          <p>Services for those outside of LA?</p>
+        </li>
+        <li>
+          <p>“More Talk Tech To Me Uncut when we come forward on KBLA Talk 1580.”</p>
+          <ul>
+            <li>
+              <p><em>Commercial break - 3 minutes</em></p>
+            </li>
+          </ul>
+        </li>
+      </ul>
+      <h1><u>Segment 5:</u> 12:56:00 pm - 1:00:00 pm</h1>
+      <p>“Welcome forward, you’re listening to Talk Tech To Me Uncut where tech is the new sexy. I’m talking to Jose Barerra, co-founder and CEO of StartupStarter.”</p>
+      <p>Use this to wrap up any last points, call to action, opportunities, etc.</p>
+      <ul>
+        <li>
+          <p>Direct listeners to connect via social media, websites, and upcoming events.</p>
+          <ul>
+            <li>
+              <p>Jose, how can listeners connect with you and learn more about StartupStarter?</p>
+            </li>
+            <li>
+              <p>How can listeners get tickets for Equity Crowdfunding Week?</p>
+            </li>
+            <li>
+              <p>Follow me @instabetts and @talktechtomepod on IG</p>
+            </li>
+            <li>
+              <p>To learn more about MISLA/MARTY go to misla.org</p>
+            </li>
+            <li>
+              <p>Tease details for the next show:  Tune in next week as we delve into AI + machine learning w/ special guest Josh Armah.</p>
+            </li>
+            <li>
+              <p>“Thank you for kickin’ it with us at the Unapologetically Progressive KBLA Talk 1580. Next, explore the creative reckoning of writers on The Back Story with Mischa Duffie.”</p>
+            </li>
+          </ul>
+        </li>
+        <li>
+          <p>
+          TTTM Closing: “This has been Talk Tech To Me Uncut, pushing the envelope of tech one keystroke at a time. Peace out!”
+          </p>
+        </li>
+      </ul>
+      <p>Tag Lines: Say as much as possible.</p>
+      <ul>
+        <li>
+          <p>KBLA Talk 1580, we’ve got a lot to talk about.</p>
+        </li>
+        <li>
+          <p>Unapologetically Progressive KBLA Talk 1580.</p>
+        </li>
+      </ul>
+    `,
   }
 ];
