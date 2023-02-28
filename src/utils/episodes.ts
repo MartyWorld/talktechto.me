@@ -4362,5 +4362,228 @@ export const episodesList = [
         </li>
       </ul>
     `,
+  },
+  {
+    number: '17',
+    title: 'Life After Death Pt. 2',
+    date: '05-11-2022',
+    subject: 'Artificial Intelligence',
+    artist: 'Josh Armah',
+    flyerUrl: 'assets/images/v2/Joshua-flyer.png',
+    link: 'assets/audio/Episode0.1-Tech Pilot2-ReneeMoncito.mp3',
+    description: `
+      <h1><u>Segment 1:</u> 12:03:00 pm - 12:10:35 pm</h1>
+      <p>Show intro: “Welcome forward, I’m your host, Cassie Betts, on KBLA Talk 1580, and you’re listening to Talk Tech To Me Uncut, where technology is the new sexy, Black geeks are the new superheroes, and South Central LA is the new tech mecca. On today’s episode “Life After Death, PT. 2 ” we’ll be talking about life after transformative experiences, all about AI, and why you should get on board with special guest AI expert and entrepreneur Joshua Armah.</p>
+      <p>We will also have a ticket giveaway for our LA listeners later on in the show for an exclusive screening of Wakanda Forever Wednesday, Nov 9th before it opens nationally, so keep it locked for more details. But first, let’s get into The Tea in Tech.”</p>
+      <h1>What’s the Tea in Tech:</h1>
+      <ul>
+        <li>
+          <p>
+            <a href="https://www.washingtonpost.com/technology/2022/11/04/twitter-layoffs-musk/"><u>“Messy Musky” buys Twitter and things get messy</u></a>
+          </p>
+          <ul>
+            <li>
+              <p>Mass layoffs started on Friday with the bird app’s workforce of 7,500 slashed nearly in half. A class action suit has been filed by employees laid off without proper notice.</p>
+            </li>
+            <li>
+              <p>After taking out a large loan to purchase the site (reportedly $12B), which Musk claims he overpaid for he is under intense pressure to increase Twitter's revenue. (the site is valued at $25B and he paid $44B).</p>
+            </li>
+            <li>
+              <p>Since Musk's ownership was revealed, there have been more racist tweets, infuriating activist groups like the NAACP, which have asked advertisers to stop running ads on the site.</p>
+            </li>
+            <li>
+              <p>Charge $8 a month for blue check verification</p>
+            </li>
+            <li>
+              <p>Twitter’s workplace once known for being "laid back and welcoming," is now being described by staff as "cruel and toxic," as Musk is infamous for creating tough work environments.</p>
+            </li>
+          </ul>
+        </li>
+        <li>
+          <p>
+            <a href="https://www.yahoo.com/video/slutty-vegan-founder-filed-trademark-190056799.html"><u>Slutty Vegan will be cooking in the metaverse</u></a>
+          </p>
+          <ul>
+            <li>
+              <p>Aisha “Pinky” Cole, founder of the popular vegan restaurant chain Slutty Vegan has filed trademark applications to run her business in the metaverse.</p>
+            </li>
+            <li>
+              <p>The trademarks cover online retail, virtual food & beverage products, and online ordering services providing take-out & delivery, NFTs, and other digital collectibles.</p>
+            </li>
+            <li>
+              <p>Cole has partnered with numerous major brands, including The Lip Bar and Steve Madden, to create vegan cosmetics and a footwear line.</p>
+            </li>
+          </ul>
+        </li>
+        <li>
+          <p>
+            <a href="https://www.theverge.com/2022/11/2/23437774/meta-mint-sell-nfts-polygon-creators-monetization"><u>NFTs are coming to Meta</u></a>
+          </p>
+          <ul>
+            <li>
+              <p>A small number of creators in the US will be the first to test minting and selling NFTs on Instagram, according to a statement from Meta.</p>
+            </li>
+            <li>
+              <p>People can create NFTs on the Polygon blockchain using Meta's digital collectibles toolkit and then sell them either on Instagram or off the platform. </p>
+            </li>
+            <li>
+              <p>This is a part of Meta’s efforts to expand its monetization options for creators.</p>
+            </li>
+          </ul>
+        </li>
+        <li>
+          <p>
+            <a href="https://www.yahoo.com/now/early-makerdao-developer-stablecoin-pioneer-183407312.html?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAAEQgYLfojcNWjeo9a_SMb2WRiHZgzquAutxw-5mABIQ-nM_-XaucDqmsPhPcGQk1K3S_OrTl6YYfFnWeDmocHgJECuRHsDgEiDmgi6hglJPyNEfT0CYiMR0i52W7EccrQD4I4e0DNj9tFwPz6NZLtrXSOKXCTBivJ0hjDgX_-RsD"><u>Stablecoin Pioneer dies mysteriously in Puerto Rico after chilling tweet</u></a>
+          </p>
+          <ul>
+            <li>
+              <p>Nikolai Mushegian (pronounced moo-she-gyan), a 29 y.o technical co-founder of MakerDAO (DAI stablecoin), the biggest decentralized finance protocol, and contributor to numerous crypto projects was found dead in San Juan, Puerto Rico Friday, Oct. 28.</p>
+            </li>
+            <li>
+              <p>According to a press release, he was dragged by water currents near Condado Beach, which is known for its dangerous currents that have caused several deaths.</p>
+            </li>
+            <li>
+              <p>Beach patrol recovered his body just hours after he posted a chilling tweet that read: <strong>“CIA and Mossad (pronounced moe-sod) and pedo elite are running some kind of sex trafficking entrapment blackmail ring out of Puerto Rico and Caribbean islands. They are going to frame me with a laptop planted by my ex gf who was a spy. They will torture me to death.”</strong></p>
+            </li>
+            <li>
+              <p>This is the highest-profile death in tech since John McAfee (Mac-afee) in 2021, who also had bizarre circumstances surrounding his death.</p>
+            </li>
+          </ul>
+        </li>
+      </ul>
+      <p>“When we come forward we’ll talk tech with AI expert & tech founder Joshua Armah here on Talk Tech to me Uncut, on the Unapologetically Progressive KBLA Talk 1580.”</p>
+      <ul>
+        <li>
+          <p>Soft out with a commercial break: 3 minutes</p>
+        </li>
+        <li>
+          <p>He won’t go to break until she is ready</p>
+        </li>
+      </ul>
+      <h1><u>Segment 2:</u> 12:13:35 pm - 12:30:00 pm</h1>
+      <p>“Welcome forward, I’m your host Cassie Betts and you’re tuned in to Talk Tech To Me Uncut where tech is the new sexy. 800-920-1580 call in    <strong>ticket giveaway for our LA listeners later on in the show for an exclusive screening of Wakanda Forever Wednesday Nov 9th in LA at the Grove</strong>. Last week, our show was about Life After Death, where we touched on AI advancements and how they’re used to honor the dead. Today, we're delving deeper into AI, what it is, and why you should jump on the wave with our special guest Joshua Armah, a talented computer scientist, product leader, serial entrepreneur, and founder of Armah Studio. He has worked on innovative projects ranging from blockchain protocol development to high-performance software products for global brands in NYC, ATL, and Silicon Valley. Please welcome Joshua Armah."</p>
+      <ul>
+        <li>
+          <p><em><strong>TTTM Icebreaker:</strong> </em>When did you fall in love with tech?</p>
+        </li>
+        <li>
+          <p>Background: What do you do in the AI space? How did you get to this point in your career?</p>
+        </li>
+        <li>
+          <p>What is AI + Machine Learning for those who don’t know?</p>
+        </li>
+        <li>
+          <p>Why should Black folks care about it?</p>
+        </li>
+        <li>
+          <p><strong>We have 4 tickets to giveaway for the upcoming Black Panther: Wakanda Forever Movie, Presented by Blacks in Tech LA Chapter</strong></p>
+          <ul>
+            <li>
+              <p>How can you get your pair of tickets? LA listeners, call us now at 800-920-1580 and be caller number 5 and number 8, to claim your pair of tickets for a special showing of Wakanda Forever this Wednesday, November 9th, at The Grove in Los Angeles. We'll announce the winners at 12:50, so make sure to stay tuned.</p>
+            </li>
+          </ul>
+        </li>
+      </ul>
+      <p>1 800-920-1580 to talk tech “More with Josh Armah when we come forward on KBLA Talk 1580, we’ve got a lot to talk about.”</p>
+      <ul>
+        <li>
+          <p>Hard Out at the 30 (bottom of the hour) with a 6-minute break</p>
+        </li>
+        <li>
+          <p>News and traffic break - 3 minutes</p>
+        </li>
+        <li>
+          <p>Commercial break - 3 minutes</p>
+        </li>
+      </ul>
+      <h1><u>Segment 3:</u> 12:36:00 pm - 12:45:45 pm</h1>
+      <p>“Welcome forward, you’re now tapped into Talk Tech To Me Uncut, I’m your host Cassie Betts on KBLA Talk 1580.  1-800-920-1580 to talk tech and for Wakanda Forever tickets sponsored by Blacks in Tech- LA Chapter. I’m in the studio with Josh Armah, founder of Armah Studio.</p>
+      <ul>
+        <li>
+          <p>What are the benefits of AI?</p>
+        </li>
+        <li>
+          <p>What jobs/career paths are available? Salary potential?</p>
+        </li>
+        <li>
+          <p>Upcoming projects he’s working on via Armah Studio</p>
+          <ul>
+            <li><p>There were several games to be released soon per the website</p></li>
+          </ul>
+        </li>
+        <li><p>What is the future of AI and how do you see it being used?</p></li>
+        <li><p>Ethical concerns</p></li>
+        <li><p>How to stay protected from privacy, surveillance, and discrimination violations</p></li>
+      </ul>
+      <p>“When we come forward more Talk Tech To Me Uncut on the Unapologetically Progressive KBLA Talk 1580.”</p>
+      <ul>
+        <li>
+          <p>Commercial break - 3 minutes</p>
+        </li>
+      </ul>
+      <h1><u>Segment 4:</u> 12:48:45 pm - 12:53:00 pm</h1>
+      <p>“Welcome forward, this is Talk Tech To Me Uncut, I’m your host Cassie Betts on KBLA Talk 1580.  1-800-920-1580 to talk tech.”</p>
+      <ul>
+        <li>
+          <p>Ethical Concerns</p>
+        </li>
+        <li>
+          <p>The Blacks In Tech Foundation is the largest community of Black people in the technology industry. Through community-focused activities, events, and outreach, The Blacks In Technology (BIT) Foundation is “Stomping the Divide” by providing resources, guidance, networking, and opportunities for members to share their expertise and advance their careers</p>
+        </li>
+        <li>
+          <p>The Los Angeles chapter of Blacks in Tech is sponsoring two pairs of tickets for our listeners to attend a special screening of the upcoming blockbuster sequel to Black Panther, Wakanda Forever. </p>
+        </li>
+        <li>
+          <p>And the winners are….Robert White and Marshall Sheppard!! Thank you to everyone who called in and Congratulations to our listeners who won! We look forward to seeing you at The Grove this Wednesday</p>
+        </li>
+        <li>
+          <p>“More Talk Tech To Me Uncut when we come forward on KBLA Talk 1580.”</p>
+          <ul>
+            <li>
+              <p><em>Commercial break - 3 minutes</em></p>
+            </li>
+          </ul>
+        </li>
+      </ul>
+      <h1><u>Segment 5:</u> 12:56:00 pm - 1:00:00 pm</h1>
+      <p>“Welcome forward, you’re listening to Talk Tech To Me Uncut where tech is the new sexy.”</p>
+      <p>Use this to wrap up any last points, call to action, opportunities, etc.</p>
+      <ul>
+        <li>
+          <p>Direct listeners to connect via social media, websites, and upcoming events.</p>
+          <ul>
+            <li>
+              <p>“Joshua, how can listeners learn more about you and connect w/ you online?” Drop SM handles!</p>
+            </li>
+            <li>
+              <p>Follow me @instabetts and @talktechtomepod on IG</p>
+            </li>
+            <li>
+              <p>To learn more about MISLA/MARTY go to misla.org</p>
+            </li>
+            <li>
+              <p>Tease details for the next show:  Tune in next week as we talk tech with IT maven Monica Parker.</p>
+            </li>
+            <li>
+              <p>“Thank you for kickin’ it with us at the Unapologetically Progressive KBLA Talk 1580. Next, explore the creative reckoning of writers on The Back Story with Mischa Duffie.”</p>
+            </li>
+          </ul>
+        </li>
+        <li>
+          <p>
+          TTTM Closing: “This has been Talk Tech To Me Uncut, pushing the envelope of tech one keystroke at a time. Peace out!”
+          </p>
+        </li>
+      </ul>
+      <p>Tag Lines: Say as much as possible.</p>
+      <ul>
+        <li>
+          <p>KBLA Talk 1580, we’ve got a lot to talk about.</p>
+        </li>
+        <li>
+          <p>Unapologetically Progressive KBLA Talk 1580.</p>
+        </li>
+      </ul>
+    `,
   }
 ];
