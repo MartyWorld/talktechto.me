@@ -4585,5 +4585,537 @@ export const episodesList = [
         </li>
       </ul>
     `,
+  },
+  {
+    number: '18',
+    title: 'Secret Life of a SysAdmin',
+    date: '12-11-2022',
+    subject: 'System Administration',
+    artist: 'Monica Parker',
+    flyerUrl: 'assets/images/v2/Monica-Flyer.png',
+    link: 'assets/audio/Episode0.1-Tech Pilot2-ReneeMoncito.mp3',
+    description: `
+      <h1><u>Segment 1:</u> 12:03:00 pm - 12:10:35 pm</h1>
+      <p>Show intro: “Welcome forward, I’m your host, Cassie Betts, on KBLA Talk 1580, and you’re listening to Talk Tech To Me Uncut, where technology is the new sexy, Black geeks are the new superheroes, and South Central LA is the new tech mecca. On today’s episode “Secret Life of a SysAdmin” I’ll be talking tech with Monica Parker, a pioneering top system administrator. She’ll dissect one of the most critical roles in tech, she’ll explain why you need a SysAdmin on your team, how to break into the field, and a whole lot more! But first, let’s get into The Tea in Tech.”</p>
+      <h1>What’s the Tea in Tech:</h1>
+      <ul>
+        <li>
+          <p>
+            <a href="https://techcrunch.com/2022/11/11/ftx-files-for-bankruptcy-ceo-sam-bankman-fried-steps-down/"><u>FTX’s house of cards crashes and its young billionaire founder goes broke</u></a>
+          </p>
+          <ul>
+            <li>
+              <p>Disgraced crypto darling Sam Bankman-Fried a/k/a SBF, the 30 y.o founder & former CEO of FTX Crypto Exchange admits he “f-cked up and should have done better,” via a 22 Tweet apology thread as FTX crashes.</p>
+            </li>
+            <li>
+              <p>It’s giving Ponzi scheme: SBF is struggling to pay customers and stakeholders after experiencing a liquidity crisis as a result of lending out more than half of FTX's $16B in assets to his crypto trading firm Alameda Research.</p>
+            </li>
+            <li>
+              <p>The world’s largest crypto exchange Binance backed out of a nonbinding agreement to acquire FTX after reviewing its books, mishandling of customer funds, and alleged federal investigations.</p>
+            </li>
+            <li>
+              <p>FTX, FTX.US, and Alameda Research have filed for Chapter 11 bankruptcy protection. </p>
+            </li>
+            <li>
+              <p>On Friday SBF stepped down as CEO with Enron liquidator Jon J. Ray III replacing him.</p>
+            </li>
+            <li>
+              <p>SBF lost his billionaire status after losing <a href="https://www.coindesk.com/business/2022/11/09/sam-bankman-fried-no-longer-a-billionaire-after-146b-overnight-wipe-out/"><u>$14.6B (94%)</u></a> of his total net worth.</p>
+            </li>
+          </ul>
+        </li>
+        <li>
+          <p>
+            <a href="https://www.cnbc.com/2022/11/09/tech-layoffs-2022.html"><u>Massive tech layoffs continue as the holiday season nears</u></a>
+          </p>
+          <ul>
+            <li>
+              <p>Just days after Elon Musk slashed 3,700 jobs at Twitter, Meta announced the layoff of 11,000 employees in the largest tech layoff of 2022.</p>
+            </li>
+            <li>
+              <p>Meta had been hit by competition from TikTok and a decline in ad spending.</p>
+            </li>
+            <li>
+              <p>In a letter to staff, Zuckerberg said that those laid off would receive 16 weeks of pay plus two weeks for each year of service, and 6 months of health coverage.</p>
+            </li>
+            <li>
+              <p>Rising inflation and reduced ad spending from digital advertisers has impacted other tech giants like Lyft, Tesla, Coinbase, Netflix, and others who cut jobs just months prior.</p>
+            </li>
+            <li>
+              <p>Black people are resilient</p>
+            </li>
+          </ul>
+        </li>
+        <li>
+          <p>
+            <a href="https://www.forbes.com/sites/paultassi/2022/11/08/oculus-founder-makes-vr-headset-that-will-actually-kill-you-if-you-die-in-a-game/?sh=1afb917775a1"><u>Game Over: New VR headset will kill you in real life if you lose</u></a>
+          </p>
+          <ul>
+            <li>
+              <p>Palmer Luckey, Oculus VR's original founder who sold his firm to Facebook has created a new headset he claims will kill a player if they die in the video game.</p>
+            </li>
+            <li>
+              <p>The headset is loaded with charges that would explode "killing the user's brain" if they cause an "appropriate game over" screen to appear.</p>
+            </li>
+            <li>
+              <p>The anime series Sword Art Online where users of a multiplayer game get trapped in its simulation and must fight to stay alive and escape inspired Luckey’s headset design. </p>
+            </li>
+            <li>
+              <p>The game in the fictional series is powered by “NerveGear” tech that mimics the user’s nervous system.</p>
+            </li>
+            <li>
+              <p>Lucky says he’s only halfway to designing real “NerveGear” and his headset is only an “office prop” for now.</p>
+            </li>
+          </ul>
+        </li>
+        <li>
+          <p>
+            <a href="https://www.blackenterprise.com/black-female-owned-health-tech-startup-reaches-status-of-1-billion/"><u>National Entrepreneurship Month Spotlight: Black woman-owned health tech startup hits unicorn status</u></a>
+          </p>
+          <ul>
+            <li>
+              <p>After raising $80M in series B funding Incredible Health, a healthcare career marketplace reached billion-dollar status.</p>
+            </li>
+            <li>
+              <p>Dr. Iman Abuzeid, co-founder and CEO of Incredible Health is the 4th Black woman to own a company worth more than $1 billion.</p>
+            </li>
+            <li>
+              <p>Abuzeid says Incredible Health has transformed the way nurses are hired and she plans to build upon her work to combat the national nursing shortage.</p>
+            </li>
+            <li>
+              <p>Incredible Health currently has a valuation of $1.65 billion.</p>
+            </li>
+          </ul>
+        </li>
+      </ul>
+      <p>“When we come forward we’ll talk tech with system administrator Monica Parker here on Talk Tech to me Uncut, KBLA Talk 1580. We’ve got a lot to talk about.”</p>
+      <ul>
+        <li>
+          <p>Soft out with a commercial break: 3 minutes</p>
+        </li>
+        <li>
+          <p>He won’t go to break until she is ready</p>
+        </li>
+      </ul>
+      <h1><u>Segment 2:</u> 12:13:35 pm - 12:30:00 pm</h1>
+      <p>“Welcome forward, I’m your host Cassie Betts and you’re tuned in to Talk Tech To Me Uncut where tech is the new sexy. 800-920-1580 to call in. On today’s show “Secret Life of a SysAdmin,” we're decoding the life of a system administrator with the lovely Monica Parker. Monica is a brilliant System Administrator and contractor for the government. She holds a bachelor's degree in computer science from Millikin University and is a pioneer in the tech field with over 20 years of experience, paving the way for many others to follow. Please welcome Monica Parker.”</p>
+      <ul>
+        <li>
+          <p><em><strong>TTTM Icebreaker:</strong> </em>When did you fall in love with tech?</p>
+        </li>
+        <li>
+          <p>Background: Can you tell us about yourself and what you do?</p>
+        </li>
+        <li>
+          <p>Why did you decide to major in computer science?</p>
+        </li>
+        <li>
+          <p>How did you overcome the challenges you faced while pursuing your CS degree?</p>
+        </li>
+        <li>
+          <p>Is a degree mandatory to enter this field today?</p>
+          <ul>
+            <li>
+              <p>Google & Coursera have an IT Support Certificate is that sufficient?</p>
+            </li>
+          </ul>
+        </li>
+        <li>
+          <p>What skills & personality traits do SysAdmins need to succeed?</p>
+        </li>
+        <li>
+          <p>What is the average salary?</p>
+        </li>
+        <li>
+          <p>What state/country did you enjoy working in the most? Which is best for SysAdmins? (She has worked in DC/Baltimore area, CA, TX, NV, AZ, AK, WA & the UK)</p>
+        </li>
+        <li>
+          <p><strong>*Why are SysAdmins so important to organizations?</strong></p>
+        </li>
+      </ul>
+      <p>1 800-920-1580 to talk tech “More with Monica Parker when we come forward on KBLA Talk 1580, we’ve got a lot to talk about.”</p>
+      <ul>
+        <li>
+          <p>Hard Out at the 30 (bottom of the hour) with a 6-minute break</p>
+        </li>
+        <li>
+          <p>News and traffic break - 3 minutes</p>
+        </li>
+        <li>
+          <p>Commercial break - 3 minutes</p>
+        </li>
+      </ul>
+      <h1><u>Segment 3:</u> 12:36:00 pm - 12:45:45 pm</h1>
+      <p>“Welcome forward, you’re now tapped into Talk Tech To Me Uncut, I’m your host Cassie Betts on KBLA Talk 1580.  1-800-920-1580 to talk tech. I’m in the studio with SysAdmin maven Monica Parker.</p>
+      <ul>
+        <li>
+          <p>As a Black woman, how do you navigate a white male-dominated industry?</p>
+        </li>
+        <li>
+          <p>Currently, 10.5% of SysAdmins are Black and 17.3% are female. Women earn 96 cents for every dollar earned by men. What do you think can be done to improve these stats?</p>
+        </li>
+        <li>
+          <p><strong>System Administrator Appreciation Day (Jul. 28) was created to highlight the critical work of SysAdmins that often gets overlooked. Have you ever felt like your work was underappreciated?</strong></p>
+        </li>
+        <li><p>How has working in uncertain economic conditions affected your work as a SysAdmin?</p></li>
+        <li><p><strong>*There has been buzz about cloud computing and automation possibly eliminating SysAdmin jobs, can you set the record straight about the job outlook?</strong></p></li>
+      </ul>
+      <p>“When we come forward more Talk Tech To Me Uncut on the Unapologetically Progressive KBLA Talk 1580.”</p>
+      <ul>
+        <li>
+          <p>Commercial break - 3 minutes</p>
+        </li>
+      </ul>
+      <h1><u>Segment 4:</u> 12:48:45 pm - 12:53:00 pm</h1>
+      <p>“Welcome forward, this is Talk Tech To Me Uncut, I’m your host Cassie Betts on KBLA Talk 1580.  1-800-920-1580 to talk tech.”</p>
+      <ul>
+        <li>
+          <p>What resources have helped you most along the way?</p>
+        </li>
+        <li>
+          <p><strong>*What's the biggest takeaway you hope listeners learn?</strong></p>
+        </li>
+        <li>
+          <p><strong>In the news tech industry seems to be going up in flames, how is it in the government sector?</strong></p>
+        </li>
+        <li>
+          <p>“More Talk Tech To Me Uncut when we come forward on KBLA Talk 1580.”</p>
+          <ul>
+            <li>
+              <p><em>Commercial break - 3 minutes</em></p>
+            </li>
+          </ul>
+        </li>
+      </ul>
+      <h1><u>Segment 5:</u> 12:56:00 pm - 1:00:00 pm</h1>
+      <p>“Welcome forward, you’re listening to Talk Tech To Me Uncut where tech is the new sexy.”</p>
+      <p>Use this to wrap up any last points, call to action, opportunities, etc.</p>
+      <ul>
+        <li>
+          <p>Direct listeners to connect via social media, websites, and upcoming events.</p>
+          <ul>
+            <li>
+              <p>“Monica, how can listeners learn more about you and connect w/ you online?” Drop SM handles!</p>
+            </li>
+            <li>
+              <p>Follow me @instabetts and @talktechtomepod on IG</p>
+            </li>
+            <li>
+              <p>To learn more about MISLA/MARTY go to misla.org</p>
+            </li>
+            <li>
+              <p>Tease details for the next show:  Tune in next week as we talk tech and mental health with Kandee Lewis of Positive Results Center.</p>
+            </li>
+            <li>
+              <p>“Thank you for kickin’ it with us at the Unapologetically Progressive KBLA Talk 1580. Next, explore the creative reckoning of writers on The Back Story with Mischa Duffie.”</p>
+            </li>
+          </ul>
+        </li>
+        <li>
+          <p>
+          TTTM Closing: “This has been Talk Tech To Me Uncut, pushing the envelope of tech one keystroke at a time. Peace out!”
+          </p>
+        </li>
+      </ul>
+      <p>Tag Lines: Say as much as possible.</p>
+      <ul>
+        <li>
+          <p>KBLA Talk 1580, we’ve got a lot to talk about.</p>
+        </li>
+        <li>
+          <p>Unapologetically Progressive KBLA Talk 1580.</p>
+        </li>
+      </ul>
+    `,
+  },
+  {
+    number: '19',
+    title: 'Full Stack Overload',
+    date: '19-11-2022',
+    subject: 'Mental health crisis in tech',
+    artist: 'Kandee Lewis',
+    flyerUrl: 'assets/images/v2/Kandee-Lewis.png',
+    link: 'assets/audio/Episode0.1-Tech Pilot2-ReneeMoncito.mp3',
+    description: `
+      <h1><u>Segment 1:</u> 12:03:00 pm - 12:10:35 pm</h1>
+      <p>Show intro: “Welcome forward, I’m your host, Cassie Betts, on KBLA Talk 1580, and you’re listening to Talk Tech To Me Uncut, where technology is the new sexy, Black geeks are the new superheroes, and South Central LA is the new tech mecca. On today's episode of "Full Stack Overload," I'll be speaking with Kandee Lewis, Trauma Awareness Expert and CEO of Positive Results Center, about a serious topic that is silently plaguing the tech community: Mental health. We'll talk about the causes, impacts, and practical solutions you can use right away. But first, let's talk about "The Tea in Tech."</p>
+      <h1>What’s the Tea in Tech:</h1>
+      <ul>
+        <li>
+          <p>
+            <a href="https://www.theverge.com/2022/11/14/23458247/elon-musk-fires-engineer-correcting-twitter"><u>Shots fired: “Messy Musky” fires a Twitter engineer who publicly corrected him</u></a>
+          </p>
+          <ul>
+            <li>
+              <p>After a turbulent two weeks filled with drama and layoffs, Elon Musk fires another Twitter employee, and this time it’s personal.</p>
+              <ul>
+                <li>
+                  <p>The Deets: Musk tweeted out an apology for Twitter’s app running “super slow in many countries.” He said the app is doing >1000 RPCs (remote procedure calls).</p>
+                </li>
+                <li>
+                  <p>A Twitter engineer named Eric Frohnhoefer, who has been working on Twitter’s android app for 6 years responded that that was incorrect.</p>
+                </li>
+                <li>
+                  <p>The public spat went on for hours and got really messy.</p>
+                </li>
+                <li>
+                  <p>A commenter in the thread replied that Musk probably doesn’t want Frohnhoefer on his team after suggesting he should’ve asked questions privately about the app’s slowness. Musk replied “He’s fired.”</p>
+                </li>
+              </ul>
+            </li>
+            <li>
+              <p>Frohnhoefer admits he shouldn’t have confronted Musk the way that he did but he’s not concerned about being fired and even has a job offer from Reddit.</p>
+            </li>
+          </ul>
+        </li>
+        <li>
+          <p>
+            <a href="https://afrotech.com/kevin-harts-gran-coramino-tequila-launches-entrepreneur-fund"><u>Kevin Heart x Gran Coramino launch entrepreneur fund</u></a>
+          </p>
+          <ul>
+            <li>
+              <p>Kevin Hart’s Gran Coramino Tequila brand has officially launched The Coramino Fund, a nationwide small business grant program to support Black and LatinX entrepreneurs.</p>
+            </li>
+            <li>
+              <p>Gran Coramino has partnered with LISC to lead the fund which consists of $500,000 and learning opportunities.</p>
+            </li>
+            <li>
+              <p>The fund is offering $10,000 grants for entrepreneurs to expand and nurture their business.</p>
+            </li>
+            <li>
+              <p>Apply by MON Nov. 21 11:59PM at lisc.org/grancoramino</p>
+            </li>
+          </ul>
+        </li>
+        <li>
+          <p>
+            <a href="https://www.npr.org/2022/11/14/1136521305/google-settlement-location-tracking-data-privacy"><u>Google pays nearly $392 mill to settle location tracking lawsuit</u></a>
+          </p>
+          <ul>
+            <li>
+              <p>Google has agreed to pay nearly $392M in a settlement with 40 states for allegedly tracking people through their devices after location tracking had been turned off.</p>
+            </li>
+            <li>
+              <p>Since  2014 Google misled users and broke consumer protection laws by secretly recording their movements.</p>
+            </li>
+            <li>
+              <p>Google then offered the data to digital marketers to sell ads, which is how Google makes almost all of its revenue.</p>
+            </li>
+            <li>
+              <p>As part of the deal Google has agreed to be more transparent about its location tracking practices.</p>
+            </li>
+            <li>
+              <p>According to the attorney general, this is the largest-ever multistate privacy settlement.</p>
+            </li>
+          </ul>
+        </li>
+        <li>
+          <p>
+          National Entrepreneurship Month Spotlight: <a href="https://www.blackenterprise.com/marsai-martin-announces-new-digital-fashion-collection-on-genies-studio-app/"><u>Marsai Martin steps into the metaverse</u></a>
+          </p>
+          <ul>
+            <li>
+              <p>Black-ish star Marsai (Mar-sigh) Martin launched her first ever digital fashion collection with the Genies Studio App.</p>
+            </li>
+            <li>
+              <p>The Genies Studio App is a digital studio where users can create their own avatars, customize them, and share with friends.</p>
+            </li>
+            <li>
+              <p>She shared her fashion forward avatar on her Instagram account rocking one of her signature looks</p>
+            </li>
+            <li>
+              <p>Martin said she created the collection so that fans can feel confident in their own skin and manifest the life of their dreams.</p>
+            </li>
+          </ul>
+        </li>
+      </ul>
+      <p>“When we come forward we’ll talk tech with Trauma Awareness Expert Kandee Lewis here on Talk Tech to me Uncut, KBLA Talk 1580. We’ve got a lot to talk about.”</p>
+      <ul>
+        <li>
+          <p>Soft out with a commercial break: 3 minutes</p>
+        </li>
+        <li>
+          <p>He won’t go to break until she is ready</p>
+        </li>
+      </ul>
+      <h1><u>Segment 2:</u> 12:13:35 pm - 12:30:00 pm</h1>
+      <p>“Welcome forward, I’m your host Cassie Betts and you’re tuned in to Talk Tech To Me Uncut where tech is the new sexy. 800-920-1580 to call in. On today’s show “Full Stack Overload,” [clarify meaning of “full stack” for those who don’t know] we’re exploring a sensitive topic silently plaguing the tech community: Mental health with special guest Kandee Lewis. Kandee is a masterful trainer, Certified Domestic Violence & Sexual Assualt Prevention Advocate who specializes in trauma awareness, teen dating violence, healthy relationships, leadership AND developing youth to be Peer Advocates and Safety Partners. Kandee has received numerous prestigious awards and honors for her work. She is the CEO of Postive Results Center, a nonprofit that addresses trauma from a cultural and age perspective. Please welcome Kandee Lewis.”</p>
+      <ul>
+        <li>
+          <p><em><strong>TTTM Icebreaker:</strong> </em>When did you fall in love with tech?</p>
+        </li>
+        <li>
+          <p>Background: Can you tell us about yourself and what you do?</p>
+        </li>
+        <li>
+          <p>How did you get started in the mental health space?</p>
+        </li>
+        <li>
+          <p><strong>Over 51% of techies are suffering silently from mental health conditions</strong></p>
+          <ul>
+            <li>
+              <p>Depression</p>
+            </li>
+            <li>
+              <p>Anxiety</p>
+            </li>
+            <li>
+              <p>ADHD</p>
+            </li>
+            <li>
+              <p>Isolation</p>
+            </li>
+            <li>
+              <p>Lack of work-life balance</p>
+            </li>
+            <li>
+              <p>Burnout</p>
+            </li>
+            <li>
+              <p><strong>Problems:</strong> “Crunch” culture- demanding work w/ short turnaround times</p>
+            </li>
+            <li>
+              <p>irregular sleeping hours, tight deadlines, and late nights.</p>
+            </li>
+          </ul>
+        </li>
+        <li>
+          <p>What are some solutions?</p>
+        </li>
+        <li>
+          <p>Tips for dealing w/ seasonal depression?</p>
+        </li>
+        <li>
+          <p>The holidays are approaching, how can we deal w/ difficult family? Loneliness?</p>
+        </li>
+      </ul>
+      <p>1 800-920-1580 to talk tech “More with Kandee Lewis when we come forward on KBLA Talk 1580, we’ve got a lot to talk about.”</p>
+      <ul>
+        <li>
+          <p>Hard Out at the 30 (bottom of the hour) with a 6-minute break</p>
+        </li>
+        <li>
+          <p>News and traffic break - 3 minutes</p>
+        </li>
+        <li>
+          <p>Commercial break - 3 minutes</p>
+        </li>
+      </ul>
+      <h1><u>Segment 3:</u> 12:36:00 pm - 12:45:45 pm</h1>
+      <p>“Welcome forward, you’re now tapped into Talk Tech To Me Uncut, I’m your host Cassie Betts on KBLA Talk 1580.  1-800-920-1580 to talk tech. And today to talk Tech Trauma. I’m in the studio with Kandee Lewis, CEO of Positive Results Center.”</p>
+      <ul>
+        <li>
+          <p>Discuss the work she does w/ Black women (Victim/survivor support and empowerment)</p>
+          <ul>
+            <li>
+              <p>Domestic violence + healing BW</p>
+            </li>
+          </ul>
+        </li>
+        <li>
+          <p>Are there parallels between the techniques you offer people in tech to the techniques you offer BW dealing with stress and trauma?</p>
+        </li>
+        <li>
+          <p>Discuss experience working with the MISLA bootcamps</p>
+        </li>
+        <li>
+          <p>Youth programs- foster youth</p>
+          <ul>
+            <li>
+              <p>Do teens need more guidance navigating social media & online spaces than adults?</p>
+            </li>
+            <li>
+              <p>Can you offer tips for dealing w/ cyberbullying?</p>
+            </li>
+            <li>
+              <p>How can we all stay safe and have positive experiences online?</p>
+            </li>
+          </ul>
+        </li>
+      </ul>
+      <p>“When we come forward more Talk Tech To Me Uncut on the Unapologetically Progressive KBLA Talk 1580.”</p>
+      <ul>
+        <li>
+          <p>Commercial break - 3 minutes</p>
+        </li>
+      </ul>
+      <h1><u>Segment 4:</u> 12:48:45 pm - 12:53:00 pm</h1>
+      <p>“Welcome forward, this is Talk Tech To Me Uncut, I’m your host Cassie Betts on KBLA Talk 1580.  1-800-920-1580 to talk tech.”</p>
+      <ul>
+        <li>
+          <p>How can we all heal during times of crisis?</p>
+        </li>
+        <li>
+          <p>Where can listeners sign up for your workshops?</p>
+        </li>
+        <li>
+          <p>“More Talk Tech To Me Uncut when we come forward on KBLA Talk 1580.”</p>
+          <ul>
+            <li>
+              <p><em>Commercial break - 3 minutes</em></p>
+            </li>
+          </ul>
+        </li>
+      </ul>
+      <h1><u>Segment 5:</u> 12:56:00 pm - 1:00:00 pm</h1>
+      <p>“Welcome forward, you’re listening to Talk Tech To Me Uncut where tech is the new sexy.”</p>
+      <p>Use this to wrap up any last points, call to action, opportunities, etc.</p>
+      <ul>
+        <li>
+          <p>Direct listeners to connect via social media, websites, and upcoming events.</p>
+          <ul>
+            <li>
+              <p>"Kandee, how can listeners learn more about you and connect w/ you online?” Drop SM handles!</p>
+            </li>
+            <li>
+              <p>Follow me @instabetts and @talktechtomepod on IG</p>
+            </li>
+            <li>
+              <p>To learn more about MISLA/MARTY go to misla.org</p>
+            </li>
+            <li>
+              <p>Tease details for the next show: Next week, we'll present the "Best of Talk Tech To Me Uncut," which features KBLA's very own "Crypto Queen" Najah Roberts in the episode "WiFi Money."</p>
+            </li>
+            <li>
+              <p>“Thank you for kickin’ it with us at the Unapologetically Progressive KBLA Talk 1580. Next, explore the creative reckoning of writers on The Back Story with Mischa Duffie.”</p>
+            </li>
+          </ul>
+        </li>
+        <li>
+          <p>
+          TTTM Closing: “This has been Talk Tech To Me Uncut, pushing the envelope of tech one keystroke at a time. Peace out!”
+          </p>
+        </li>
+      </ul>
+      <p>Tag Lines: Say as much as possible.</p>
+      <ul>
+        <li>
+          <p>KBLA Talk 1580, we’ve got a lot to talk about.</p>
+        </li>
+        <li>
+          <p>Unapologetically Progressive KBLA Talk 1580.</p>
+        </li>
+      </ul>
+    `,
+  },
+  {
+    number: '20',
+    title: 'How Can We Get to the Yamz?',
+    date: '03-12-2022',
+    subject: 'Getting paid as a digital creative',
+    artist: 'Josh Sykes',
+    flyerUrl: 'assets/images/v2/josh-skyes_1-1.png',
+    link: 'assets/audio/Episode0.1-Tech Pilot2-ReneeMoncito.mp3',
+    description: "",
+  },
+  {
+    number: '21',
+    title: 'Behind the Game',
+    date: '17-12-2022',
+    subject: 'The future of gaming',
+    artist: 'Eric Elder',
+    flyerUrl: 'assets/images/v2/ERIC.png',
+    link: 'assets/audio/Episode0.1-Tech Pilot2-ReneeMoncito.mp3',
+    description: "",
   }
 ];
