@@ -11,7 +11,7 @@
               </a>
               <!-- <img src="assets/images/v2/Talk_Tech_to_Me_CASSIExFLIP_2 1.png" alt="featured" class="img-fluid w-25" /> -->
               <div class="featured-detail d-flex flex-column gap-3">
-                <div class="episodes-list d-flex gap-3">
+                <div class="episodes-list d-flex flex-wrap gap-3">
                   <a href="#" class="list-number">Season 01</a>
                   <a class="list-number" routerLink="/episode/{{featuredEpisode.title.split(' ').join('-') | lowercase}}" [state]="{episode: featuredEpisode}">Episode: {{featuredEpisode.number}}</a>
                 </div>

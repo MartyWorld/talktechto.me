@@ -12,17 +12,19 @@ export class LatestEpisodesComponent implements OnInit {
     constructor(
         public router: Router
     ) {}
-  episodes = episodesList;
+  episodesListArr = episodesList;
+  episodes!: Array<any>;
   sortEpisodes() {
-    // console.log(this.router.url, episodesList.reverse(), "router");
+    console.log(this.router.url, this.episodesListArr, "adlsjdlkasjda");
     if (this.router.url === "/") {
-        this.episodes = this.episodes.reverse().slice(0, 8)
+        this.episodes = this.episodesListArr.reverse().slice(0, 8)
     } else {
-        this.episodes = this.episodes.reverse();
+        this.episodes = this.episodesListArr.reverse();
     }
   }
   ngOnInit(): void {
-        this.sortEpisodes();
+      this.sortEpisodes();
+      console.log(this.episodes, "daslkdjaslkdjasldk")
     }
 
 }
