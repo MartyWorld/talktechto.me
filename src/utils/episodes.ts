@@ -1790,6 +1790,7 @@ export const episodesList = [
     artist: 'Andre Anthony',
     flyerUrl: 'assets/images/v2/Andree.png',
     link: 'assets/audio/Episode0.1-Tech Pilot2-ReneeMoncito.mp3',
+    iframeUrl: 'https://open.spotify.com/embed/episode/73VvKpr8lWbJf6b3qzC3nA?utm_source=generator',
     description: `
       <h1><u>Segment 1:</u> 12:03:00 pm - 12:10:35 pm</h1>
       <p>
@@ -2020,6 +2021,7 @@ export const episodesList = [
     artist: 'Miesha Robinson',
     flyerUrl: 'assets/images/v2/Meisha_Robinson.png',
     link: 'assets/audio/Episode0.1-Tech Pilot2-ReneeMoncito.mp3',
+    iframeUrl: 'https://open.spotify.com/embed/episode/3ux2H1HnSjJnOfrZs6N0uG?utm_source=generator',
     description: `
       <h1><u>Segment 1:</u> 12:03:00 pm - 12:10:35 pm</h1>
       <p>
@@ -2242,6 +2244,7 @@ export const episodesList = [
     artist: 'Dee Williams',
     flyerUrl: 'assets/images/v2/dee-williams.png',
     link: 'assets/audio/Episode0.1-Tech Pilot2-ReneeMoncito.mp3',
+    iframeUrl: 'https://open.spotify.com/embed/episode/1cZC4e6iq0nzTtoFo55gPG?utm_source=generator',
     description: `
       <h1><u>Segment 1:</u> 12:03:00 pm - 12:10:35 pm</h1>
       <p>
@@ -2488,6 +2491,7 @@ export const episodesList = [
     artist: 'Sam Scully',
     flyerUrl: 'assets/images/v2/sam-scully-latest.png',
     link: 'assets/audio/Episode0.1-Tech Pilot2-ReneeMoncito.mp3',
+    iframeUrl: 'https://open.spotify.com/embed/episode/3eJ5lRJxasIGVf8lr9ldWW?utm_source=generator',
     description: `
       <h1><u>Segment 1:</u> 12:03:00 pm - 12:10:35 pm</h1>
       <p>Show intro: “Welcome forward, I’m your host, Cassie Betts, on KBLA Talk 1580, and you’re listening to Talk Tech To Me Uncut, where technology is the new sexy, Black geeks are the new superheroes, and South Central LA is the new tech mecca.”</p>
@@ -2727,6 +2731,7 @@ export const episodesList = [
     artist: 'Cassandra Cooper',
     flyerUrl: 'assets/images/v2/cassandra-cooper.png',
     link: 'assets/audio/Episode0.1-Tech Pilot2-ReneeMoncito.mp3',
+    iframeUrl: 'https://open.spotify.com/embed/episode/0CkI7rVuz0yaTUqIB5UVOS?utm_source=generator',
     description: `
       <h1><u>Segment 1:</u> 12:03:00 pm - 12:10:35 pm</h1>
       <p>Show intro: “Welcome forward, I’m your host, Cassie Betts, on KBLA Talk 1580, and you’re listening to Talk Tech To Me Uncut, where technology is the new sexy, Black geeks are the new superheroes, and South Central LA is the new tech mecca. On today’s episode “Fight the Power,” we’ll be delving into the power of multimedia, how to break into the industry, how to control our narratives, and fight racism and social injustice via multimedia. But first, let’s get into What’s the Tea in Tech.”</p>
@@ -2982,6 +2987,7 @@ export const episodesList = [
     artist: 'Omari Bakari',
     flyerUrl: 'assets/images/v2/Omari-Bakari-and-Dr.-Mario-Hemsley.png',
     link: 'assets/audio/Episode0.1-Tech Pilot2-ReneeMoncito.mp3',
+    iframeUrl: 'https://open.spotify.com/embed/episode/73yDA8t8WDURwtCmrs9u4k?utm_source=generator',
     description: `
       <h1><u>Segment 1:</u> 12:03:00 pm - 12:10:35 pm</h1>
       <p>Show intro: “Welcome forward, I’m your host, Cassie Betts, on KBLA Talk 1580, and you’re listening to Talk Tech To Me Uncut, where technology is the new sexy, Black geeks are the new superheroes, and South Central LA is the new tech mecca. On today’s episode “Blacks in Tech: The $28 Billion Conversation,” we’ll be chatting with Omari Bakari, a pioneer in the tech game, self-made entrepreneur, and chapter president of BIT Los Angeles. But first, let’s get into What’s the Tea in Tech.”</p>
@@ -3213,6 +3219,7 @@ export const episodesList = [
     artist: 'Zenobia Millet',
     flyerUrl: 'assets/images/v2/Zenobia-Millet.png',
     link: 'assets/audio/Episode0.1-Tech Pilot2-ReneeMoncito.mp3',
+    iframeUrl: 'https://open.spotify.com/embed/episode/6kDYjsFYMga4Jj3rGEEmVh?utm_source=generator',
     description: `
       <h1><u>Segment 1:</u> 12:03:00 pm - 12:10:35 pm</h1>
       <p>Show intro: “Welcome forward, I’m your host, Cassie Betts, on KBLA Talk 1580, and you’re listening to Talk Tech To Me Uncut, where technology is the new sexy, Black geeks are the new superheroes, and South Central LA is the new tech mecca. On today's episode “Tea Tech & Tequila” we’ll be chatting with tech diva Zenobia Millet, who is a media technologies maven, fintech funding boss, and serial entrepreneur. But first, let’s get into The Tea in Tech.”</p>
@@ -3473,6 +3480,7 @@ export const episodesList = [
     artist: 'Lisa Gillett',
     flyerUrl: 'assets/images/v2/Lisa-Gillett.png',
     link: 'assets/audio/Episode0.1-Tech Pilot2-ReneeMoncito.mp3',
+    iframeUrl: 'https://open.spotify.com/embed/episode/2IVDkmObu4fiHAKAjLTfyr?utm_source=generator',
     description: `
       <h1><u>Segment 1:</u> 12:03:00 pm - 12:10:35 pm</h1>
       <p>Show intro: “Welcome forward, I’m your host, Cassie Betts, on KBLA Talk 1580, and you’re listening to Talk Tech To Me Uncut, where technology is the new sexy, Black geeks are the new superheroes, and South Central LA is the new tech mecca. Today we’ll be chatting with a real superhero, Real Estate Super Agent Lisa Gillet. But first, let’s get into The Tea in Tech.”</p>
