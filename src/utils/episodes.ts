@@ -19,7 +19,8 @@ export const episodesList = [
     flyerUrl:
       'assets/images/v2/Talk_Tech_to_Me_NicolethePole_episode%20copy%202.png',
     link: 'assets/audio/Episode0.1-Tech Pilot2-ReneeMoncito.mp3',
-    description: ``,
+    iframeUrl: 'https://open.spotify.com/embed/episode/61Jm6w5eNmC9w9DAkFcBVw?utm_source=generator',
+    description: ``
   },
   {
     number: '1',
@@ -29,6 +30,7 @@ export const episodesList = [
     artist: 'Jeremiah "Flip" Benjamin',
     flyerUrl: 'assets/images/v2/Talk_Tech_to_Me_CASSIExFLIP_2.jpg',
     link: 'assets/audio/Episode0.1-Tech Pilot2-ReneeMoncito.mp3',
+    iframeUrl: 'https://open.spotify.com/embed/episode/6FtFieTtkurQmDm2nWKmBq?utm_source=generator',
     description: `
       <h1>12:03:00 pm - 12:10:35 pm (Segment 1)</h1>
       <p>
@@ -280,6 +282,7 @@ export const episodesList = [
     artist: 'Jen Lashley',
     flyerUrl: 'assets/images/v2/Talk_Tech_to_Me_CASSIExJEN_LASHLEY_2 copy.jpg',
     link: 'assets/audio/Episode0.1-Tech Pilot2-ReneeMoncito.mp3',
+    iframeUrl: 'https://open.spotify.com/embed/episode/4i2ol8kYZt0yGSlXFFHkpT?utm_source=generator',
     description: `
       <h1><u>Segment 1:</u> 12:03:00 pm - 12:10:35 pm</h1>
       <p>
@@ -651,6 +654,7 @@ export const episodesList = [
     artist: 'Najah Roberts',
     flyerUrl: 'assets/images/v2/Talk_Tech_to_Me_NajahRoberts_episode_2ndart.jpg',
     link: 'assets/audio/Episode0.1-Tech Pilot2-ReneeMoncito.mp3',
+    iframeUrl: 'https://open.spotify.com/embed/episode/1T3VTt2Lh3i9Y8Ko9PDoQc?utm_source=generator',
     description: `
       <h1><u>Segment 1:</u> 12:03:00 pm - 12:10:35 pm</h1>
       <p>
@@ -916,6 +920,7 @@ export const episodesList = [
     artist: 'Nicole "The Pole" Williams',
     flyerUrl: 'assets/images/v2/Talk_Tech_to_Me_NicolethePole_episode copy 2.jpg',
     link: 'assets/audio/Episode0.1-Tech Pilot2-ReneeMoncito.mp3',
+    iframeUrl: 'https://open.spotify.com/embed/episode/61e0woY2egmHnvSV4dz9Fs?utm_source=generator',
     description: `
       <h1><u>Segment 1:</u> 12:03:00 pm - 12:10:35 pm</h1>
       <p>
@@ -1205,6 +1210,7 @@ export const episodesList = [
     artist: 'STIX',
     flyerUrl: 'assets/images/v2/Stix Graphic 8.13.22.png',
     link: 'assets/audio/Episode0.1-Tech Pilot2-ReneeMoncito.mp3',
+    iframeUrl: 'https://open.spotify.com/embed/episode/7ht4Z6w1YQzqf51hpNfffg?utm_source=generator',
     description: `
       <h1><u>Segment 1:</u> 12:03:00 pm - 12:10:35 pm</h1>
       <p>
@@ -1525,8 +1531,9 @@ export const episodesList = [
     date: '19-08-2022 to 20-08-2022',
     subject: 'The Family That Codes Together...',
     artist: 'Phillip Banks Keila Banks',
-    flyerUrl: 'assets/images/v2/Andree.png',
+    flyerUrl: 'assets/images/v2/Talk_Tech_to_Me_Phil_KeilaBanks_episode.jpg',
     link: 'assets/audio/Episode0.1-Tech Pilot2-ReneeMoncito.mp3',
+    iframeUrl: 'https://open.spotify.com/embed/episode/4hfNxXPd5p24Y0TwnWu0sc?utm_source=generator',
     description: `
       <h1><u>Segment 1:</u> 12:03:00 pm - 12:10:35 pm</h1>
       <p>

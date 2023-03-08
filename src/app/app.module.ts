@@ -58,6 +58,7 @@ import { HomeDemoFiveComponent } from './components/pages/home-demo-five/home-de
 import { VideoEpisodesComponent } from './components/common/video-episodes/video-episodes.component';
 import { HomefiveBannerComponent } from './components/pages/home-demo-five/homefive-banner/homefive-banner.component';
 import { SingleVideoEpisodePageComponent } from './components/pages/single-video-episode-page/single-video-episode-page.component';
+import { SafePipe } from './safe.pipe';
 
 @NgModule({
 	declarations: [
@@ -109,6 +110,7 @@ import { SingleVideoEpisodePageComponent } from './components/pages/single-video
   VideoEpisodesComponent,
   HomefiveBannerComponent,
   SingleVideoEpisodePageComponent,
+  SafePipe,
 	],
 	imports: [
         BrowserModule,

@@ -15,11 +15,10 @@ export class LatestEpisodesComponent implements OnInit {
   episodesListArr = episodesList;
   episodes!: Array<any>;
   sortEpisodes() {
-    console.log(this.router.url, this.episodesListArr, "adlsjdlkasjda");
     if (this.router.url === "/") {
-        this.episodes = this.episodesListArr.reverse().slice(0, 8)
+        this.episodes = this.episodesListArr.slice(0, 8)
     } else {
-        this.episodes = this.episodesListArr.reverse();
+        this.episodes = this.episodesListArr;
     }
   }
   ngOnInit(): void {
