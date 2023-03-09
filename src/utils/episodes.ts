@@ -3788,6 +3788,7 @@ export const episodesList = [
     artist: 'Derek Smith',
     flyerUrl: 'assets/images/v2/Derek-Smith-.png',
     link: 'assets/audio/Episode0.1-Tech Pilot2-ReneeMoncito.mp3',
+    iframeUrl: 'https://open.spotify.com/embed/episode/60d2K7clT1sZxw44AKQZTV?utm_source=generator',
     description: `
       <h1><u>Segment 1:</u> 12:03:00 pm - 12:10:35 pm</h1>
       <p>Show intro: “Welcome forward, I’m your host, Cassie Betts, on KBLA Talk 1580, and you’re listening to Talk Tech To Me Uncut, where technology is the new sexy, Black geeks are the new superheroes, and South Central LA is the new tech mecca. On today’s episode “Plug Talk” we’ll be chatting with the tech plug himself, Plug In South LA’s very own Founder Derek Smith. But first, let’s get into The Tea in Tech.”</p>
@@ -4035,6 +4036,7 @@ export const episodesList = [
     artist: 'Cassie Betts Pre-record date 10/26',
     flyerUrl: 'assets/images/v2/cassie_flyer.png',
     link: 'assets/audio/Episode0.1-Tech Pilot2-ReneeMoncito.mp3',
+    iframeUrl: 'https://open.spotify.com/embed/episode/6V2JsuHNXAY9DrjLfG0EqT?utm_source=generator',
     description: `
       <h1><u>Segment 1:</u> 12:03:00 pm - 12:10:35 pm</h1>
       <p>Show intro: “Welcome forward, I’m your host, Cassie Betts, on KBLA Talk 1580, and you’re listening to Talk Tech To Me Uncut, where technology is the new sexy, Black geeks are the new superheroes, and South Central LA is the new tech mecca. On today’s episode “Life After Death” I’ll be talking about Dia de los Muertos, how the deceased are being honored through AI, rebuilding and rising after a personal loss, and I’ll chat later in the show with Jose Barerra of StartupStarter. But first, let’s get into The Tea in Tech.”</p>
@@ -4386,6 +4388,7 @@ export const episodesList = [
     artist: 'Josh Armah',
     flyerUrl: 'assets/images/v2/Joshua-flyer.png',
     link: 'assets/audio/Episode0.1-Tech Pilot2-ReneeMoncito.mp3',
+    iframeUrl: 'https://open.spotify.com/embed/episode/6zfTTHbVU7YApzT9pnwYbD?utm_source=generator',
     description: `
       <h1><u>Segment 1:</u> 12:03:00 pm - 12:10:35 pm</h1>
       <p>Show intro: “Welcome forward, I’m your host, Cassie Betts, on KBLA Talk 1580, and you’re listening to Talk Tech To Me Uncut, where technology is the new sexy, Black geeks are the new superheroes, and South Central LA is the new tech mecca. On today’s episode “Life After Death, PT. 2 ” we’ll be talking about life after transformative experiences, all about AI, and why you should get on board with special guest AI expert and entrepreneur Joshua Armah.</p>
@@ -4609,6 +4612,7 @@ export const episodesList = [
     artist: 'Monica Parker',
     flyerUrl: 'assets/images/v2/Monica-Flyer.png',
     link: 'assets/audio/Episode0.1-Tech Pilot2-ReneeMoncito.mp3',
+    iframeUrl: 'https://open.spotify.com/embed/episode/3FrO3dmAu8fQ82Y3nsPuj7?utm_source=generator',
     description: `
       <h1><u>Segment 1:</u> 12:03:00 pm - 12:10:35 pm</h1>
       <p>Show intro: “Welcome forward, I’m your host, Cassie Betts, on KBLA Talk 1580, and you’re listening to Talk Tech To Me Uncut, where technology is the new sexy, Black geeks are the new superheroes, and South Central LA is the new tech mecca. On today’s episode “Secret Life of a SysAdmin” I’ll be talking tech with Monica Parker, a pioneering top system administrator. She’ll dissect one of the most critical roles in tech, she’ll explain why you need a SysAdmin on your team, how to break into the field, and a whole lot more! But first, let’s get into The Tea in Tech.”</p>
@@ -4851,6 +4855,7 @@ export const episodesList = [
     artist: 'Kandee Lewis',
     flyerUrl: 'assets/images/v2/Kandee-Lewis.png',
     link: 'assets/audio/Episode0.1-Tech Pilot2-ReneeMoncito.mp3',
+    iframeUrl: 'https://open.spotify.com/embed/episode/1EfDVe7ECUJuNHXlBziMpc?utm_source=generator',
     description: `
       <h1><u>Segment 1:</u> 12:03:00 pm - 12:10:35 pm</h1>
       <p>Show intro: “Welcome forward, I’m your host, Cassie Betts, on KBLA Talk 1580, and you’re listening to Talk Tech To Me Uncut, where technology is the new sexy, Black geeks are the new superheroes, and South Central LA is the new tech mecca. On today's episode of "Full Stack Overload," I'll be speaking with Kandee Lewis, Trauma Awareness Expert and CEO of Positive Results Center, about a serious topic that is silently plaguing the tech community: Mental health. We'll talk about the causes, impacts, and practical solutions you can use right away. But first, let's talk about "The Tea in Tech."</p>
@@ -5121,6 +5126,7 @@ export const episodesList = [
     artist: 'Josh Sykes',
     flyerUrl: 'assets/images/v2/josh-skyes_1-1.png',
     link: 'assets/audio/Episode0.1-Tech Pilot2-ReneeMoncito.mp3',
+    iframeUrl: 'https://open.spotify.com/embed/episode/0hOUBItwN9kB8Zbq7shoby?utm_source=generator',
     description: "",
   },
   {
@@ -5131,6 +5137,7 @@ export const episodesList = [
     artist: 'Eric Elder',
     flyerUrl: 'assets/images/v2/ERIC.png',
     link: 'assets/audio/Episode0.1-Tech Pilot2-ReneeMoncito.mp3',
+    iframeUrl: 'https://open.spotify.com/embed/episode/4lRYTo131lOiP7oJqmATLI?utm_source=generator',
     description: "",
   }
 ];
