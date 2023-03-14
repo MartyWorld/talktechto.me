@@ -32,21 +32,6 @@ export const episodesList = [
     link: 'assets/audio/Episode0.1-Tech Pilot2-ReneeMoncito.mp3',
     iframeUrl: 'https://open.spotify.com/embed/episode/6FtFieTtkurQmDm2nWKmBq?utm_source=generator',
     description: `
-      <h1>12:03:00 pm - 12:10:35 pm (Segment 1)</h1>
-      <p>
-        Show intro: Welcome forward, I am your host Cassie Betts on
-        KBLA Talk 1580 and you’re listening to
-        Talk Tech To Me, where Technology is the new sexy. Black
-        Geeks are the new superheroes and South Central LA is the new Tech Mecca.
-      </p>
-      <ul>
-        <li>
-          <p>A brief overview of the show (purpose + goal)</p>
-        </li>
-        <li>
-          <p>About me</p>
-        </li>
-      </ul>
       <h1>What’s the Tea in Tech</h1>
       <ul>
         <li>
@@ -111,21 +96,8 @@ export const episodesList = [
             <li>
               <p>Follow @EmojiAwards on Twitter July 17th to see what new and upcoming emoji get crowned for 2022!</p>
             </li>
-            <li>
-              <p>
-                <em>Soft out with a commercial break: 3 minutes</em>
-              </p>
-            </li>
-            <li>
-              <p>
-                <em>He won’t go to break until she is ready</em>
-              </p>
-            </li>
           </ul>
         </li>
-      </ul>
-      <h1>12:13:35 pm - 12:30:00 pm (Segment 2)</h1>
-      <ul>
         <li>
           <p>Introduce special guest Jeremiah “Flip” Benjamin, Metaverse Architect and Founder of 88 Ideas and Pod Labs</p>
         </li>
@@ -152,21 +124,7 @@ export const episodesList = [
         </li>
         <li>
           <p>What would you say to Web3 skeptics, those on the fence about the metaverse, NFTs, crypto, and other emerging technologies?</p>
-          <ul>
-            <li>
-              <p><em>Hard Out at the 30 (bottom of the hour) with a 6-minute break</em></p>
-            </li>
-            <li>
-              <p><em>News and traffic break - 3 minutes</em></p>
-            </li>
-            <li>
-              <p><em>Commercial break - 3 minutes</em></p>
-            </li>
-          </ul>
         </li>
-      </ul>
-      <h1>12:36:00 pm - 12:45:45 pm (Segment 3)</h1>
-      <ul>
         <li>
           <p>What role does being a South Central LA native play in your creative process and the way you approach projects?</p>
         </li>
@@ -184,92 +142,12 @@ export const episodesList = [
         </li>
         <li>
           <p>What are some Web3/design learning resources and conferences listeners can attend to learn more?</p>
-          <ul>
-            <li>
-              <p><em>Commercial break - 3 minutes</em></p>
-            </li>
-          </ul>
         </li>
-      </ul>
-      <h1>12:48:45 pm - 12:53:00 pm (Segment 4)</h1>
-      <ul>
         <li>
           <p>What has helped you get to where you are and what advice would you have for others who want to set off in a similar direction?</p>
         </li>
         <li>
           <p>What’s the question you are most tired of hearing on this subject, and what would you like to say about it, so you never have to answer it again?</p>
-          <ul>
-            <li>
-              <p><em>Commercial break - 3 minutes</em></p>
-            </li>
-          </ul>
-        </li>
-      </ul>
-      <h1>12:56:00 pm - 1:00:00 pm (Segment 5)</h1>
-      <p>Use this to wrap up any last points, call to action, opportunities, etc.</p>
-      <ul>
-        <li>
-          <p>Promote MISLA Billionaire Bootcamps (For Billionaire Bootcamps follow @therealmisla)</p>
-        </li>
-        <li>
-          <p>Talk to Flip about doing a Metaverse Bootcamp</p>
-        </li>
-        <li>
-          <p>Tease details for the next show</p>
-        </li>
-        <li>
-          <p>Direct listeners to connect with Flip and me on social media, company/personal websites, and at any upcoming events</p>
-          <ul>
-            <li>
-              <p>Flip, how can the people connect w/ you? Drop SM!</p>
-            </li>
-            <li>
-              <p>Follow @talktechtomepod on IG</p>
-            </li>
-            <li>
-              <p>Follow me @instabetts</p>
-            </li>
-            <li>
-              <p>To learn more about MISLA/MARTY go to misla.org</p>
-            </li>
-          </ul>
-        </li>
-        <li>
-          <p>
-            Thank you for hanging with us at the Unapologetically Progressive KBLA Talk 1580. When we come forward, you’ll be
-            listening to The Back Story with Mischa Duffy. Backstory of films, songs, books…
-          </p>
-        </li>
-        <li>
-          <p>
-            TTTM Closing: This has been Talk Tech To Me, pushing the envelope of tech one keystroke at a time, peace out!
-          </p>
-        </li>
-      </ul>
-      <p>Tag Lines: Say as much as possible. </p>
-      <ul>
-        <li>
-          <p>KBLA Talk 1580, we’ve got a lot to talk about.</p>
-        </li>
-        <li>
-          <p>Unapologetically Progressive KBLA Talk 1580.</p>
-          <ul>
-            <li>
-              <p>No CURSING!</p>
-            </li>
-          </ul>
-        </li>
-      </ul>
-      <p>Retrospective:</p>
-      <ul>
-        <li>
-          <p>Don’t call the guests “co-hosts”</p>
-        </li>
-        <li>
-          <p>When guest comes on, part of the convo we can geek out, but most of the convo has to be had as though we are explaining it to a 5 year old</p>
-        </li>
-        <li>
-          <p>To get guests to call in, don’t ask them to call, just say, Welcome Forward, 800-920-1580…</p>
         </li>
       </ul>
     `,
@@ -284,10 +162,6 @@ export const episodesList = [
     link: 'assets/audio/Episode0.1-Tech Pilot2-ReneeMoncito.mp3',
     iframeUrl: 'https://open.spotify.com/embed/episode/4i2ol8kYZt0yGSlXFFHkpT?utm_source=generator',
     description: `
-      <h1><u>Segment 1:</u> 12:03:00 pm - 12:10:35 pm</h1>
-      <p>
-        Show intro: Welcome forward, I am your host Cassie Betts on KBLA Talk 1580, and you’re listening to Talk Tech To Me, where Technology is the new sexy, Black Geeks are the new superheroes, and South Central LA is the new Tech Mecca.
-      </p>
       <ul>
         <li>
           <p>
@@ -401,23 +275,7 @@ export const episodesList = [
                 Remote learning during pandemic may have turned them off
               </p>
             </li>
-            <li>
-              <p>
-                <em>Soft out with a commercial break: 3 minutes</em>
-              </p>
-            </li>
-            <li>
-              <p>
-                <em>He won’t go to break until she is ready</em>
-              </p>
-            </li>
           </ul>
-        </li>
-      </ul>
-      <h1><u>Segment 2:</u> 12:13:35 pm - 12:30:00 pm</h1>
-      <ul>
-        <li>
-          <p>Welcome forward <strong>1 800-920-1580</strong>. You’re listening to Talk Tech To Me with your host, Cassie Betts on “Unapologetically Progressive KBLA Talk 1580”.</p>
         </li>
         <li>
           <p>Introduce special guest Jennifer Lashley, Executive Director of South LA Robotics</p>
@@ -436,21 +294,7 @@ export const episodesList = [
         </li>
         <li>
           <p>What is robotics? What is a robot? Types of robots? How do they function? How are they used? Are they coming for our jobs?</p>
-          <ul>
-            <li>
-              <p><em>Hard Out at the 30 (bottom of the hour) with a 6-minute break</em></p>
-            </li>
-            <li>
-              <p><em>News and traffic break - 3 minutes</em></p>
-            </li>
-            <li>
-              <p><em>Commercial break - 3 minutes</em></p>
-            </li>
-          </ul>
         </li>
-      </ul>
-      <h1><u>Segment 3:</u> 12:36:00 pm - 12:45:45 pm</h1>
-      <ul>
         <li>
           <p>Discuss career paths in robotics. I love Robotics because there are so many different career paths that can segway into Robotics. Mechanical, electrical, computer science- coding!</p>
         </li>
@@ -491,157 +335,6 @@ export const episodesList = [
         </li>
         <li>
           <p>Elaborate on the future of robotics</p>
-          <ul>
-            <li>
-              <p>Commercial break - 3 minutes</p>
-            </li>
-          </ul>
-        </li>
-      </ul>
-      <h1><u>Segment 4:</u> 12:48:45 pm - 12:53:00 pm</h1>
-      <ul>
-        <li>
-          <p>Use this time to answer calls. If no calls, continue convo or ask 1-2 questions that were not asked previously</p>
-          <ul>
-            <li>
-              <p><em>Commercial break - 3 minutes</em></p>
-            </li>
-          </ul>
-        </li>
-      </ul>
-      <h1><u>Segment 5:</u> 12:56:00 pm - 1:00:00 pm</h1>
-      <p>Use this to wrap up any last points, call to action, opportunities, etc.</p>
-      <ul>
-        <li>
-          <p>Promote MISLA Billionaire Bootcamps (For Billionaire Bootcamps follow @therealmisla)</p>
-        </li>
-        <li>
-          <p>Tease details for the next show</p>
-        </li>
-        <li>
-          <p>Direct listeners to connect with Flip and me on social media, company/personal websites, and at any upcoming events</p>
-          <ul>
-            <li>
-              <p>Jen, how can the people connect w/ you? Drop SM!</p>
-            </li>
-            <li>
-              <p>Follow @talktechtomepod on IG</p>
-            </li>
-            <li>
-              <p>Follow me @instabetts</p>
-            </li>
-            <li>
-              <p>To learn more about MISLA/MARTY go to misla.org</p>
-            </li>
-          </ul>
-        </li>
-        <li>
-          <p>
-            NFT Expoverse 2022: The largest blockchain expo in LA goes down July 29-31 at LA Convention Center; Get tix at nftexpoverse.com
-          </p>
-        </li>
-        <li>
-          <p>
-            Thank you for hanging with us at the Unapologetically Progressive KBLA Talk 1580. When we come forward, you’ll be
-            listening to The Back Story with Mischa Duffy. Backstory of films, songs, books…
-          </p>
-        </li>
-        <li>
-          <p>
-            TTTM Closing: This has been Talk Tech To Me, pushing the envelope of tech one keystroke at a time, peace out!
-          </p>
-        </li>
-      </ul>
-      <p>Tag Lines: Say as much as possible. </p>
-      <ul>
-        <li>
-          <p>KBLA Talk 1580, we’ve got a lot to talk about.</p>
-        </li>
-        <li>
-          <p>Unapologetically Progressive KBLA Talk 1580.</p>
-          <ul>
-            <li>
-              <p>No CURSING!</p>
-            </li>
-          </ul>
-        </li>
-      </ul>
-      <p>Retrospective:</p>
-      <ul>
-        <li>
-          <p>Don’t call the guests “co-hosts”</p>
-        </li>
-        <li>
-          <p>When guest comes on, part of the convo we can geek out, but most of the convo has to be had as though we are explaining it to a 5 year old</p>
-        </li>
-        <li>
-          <p>To get guests to call in, don’t ask them to call, just say, Welcome Forward, 800-920-1580…</p>
-        </li>
-      </ul>
-      <p>RETRO- Listen to the tape</p>
-      <ul>
-        <li>
-          <p>Need to introduce the guest when u bring them in. Who are they?!</p>
-        </li>
-        <li>
-          <p>Bring the Guest into the second segment</p>
-        </li>
-        <li>
-          <p>My time is never up in my first segment. I missed some of the tea. I can go over a bit.</p>
-        </li>
-        <li>
-          <p>Stop trying to remember the clock. Let the engineer guide me.</p>
-        </li>
-        <li>
-          <p>Look at the board for callers.</p>
-        </li>
-        <li>
-          <p>Love the Tea in Tech… What’s missing is an editorial about the news… What do I think about it. Comment on the Tea. Why am I telling you about this news from Cassie’s perspective? Why does it matter to us (Black People).</p>
-        </li>
-        <li>
-          <p>Gen Z likes to do cuz it skews younger</p>
-        </li>
-        <li>
-          <p>Get outta your head! She asked how am I and I didn’t answer.</p>
-        </li>
-        <li>
-          <p>Charitable Listening</p>
-        </li>
-        <li>
-          <p>Get off the page. Come in with just bullets</p>
-        </li>
-        <li>
-          <p>Be open and transparent. Connect with the Audience</p>
-        </li>
-        <li>
-          <p>When done w/ Caller. Thank the caller. Use their name, when I’m done or at the beginning of my comment. Write the name of the caller I spoke to if I need to refer back to that person.</p>
-        </li>
-        <li>
-          <p>Eugene wasn’t rambling</p>
-        </li>
-        <li>
-          <p>Connect the humanity of the person I’m talking to</p>
-        </li>
-        <li>
-          <p>I’m a tech evangelist. How tech has impacted your life. How has technology changed your world. It’s not either or, it’s both/ and</p>
-        </li>
-        <li>
-          <p>Ah ha moment for the listener</p>
-        </li>
-        <li>
-          <p>At the bottom and the top, turn my body towards the monitor while I’m talking. To follow the clock.</p>
-        </li>
-        <li>
-          <p>Syndicate the program- Make the show for everyone across the country.</p>
-        </li>
-        <li>
-          <p>Sales: Don’t make it a numbers game. Make it about ur demographic, etc…</p>
-        </li>
-        <li>
-          <p>We the most trusted, credible, reliable, women. Demographic Profile…</p>
-        </li>
-        <li>
-          <p>360 Presentation. In the coming year. Here’s what we’re doing. Lay out all the things. What pieces do you want… $3M from Walmart...</p>
         </li>
       </ul>
     `,
