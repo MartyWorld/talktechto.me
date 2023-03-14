@@ -125,30 +125,6 @@ export const episodesList = [
         <li>
           <p>What would you say to Web3 skeptics, those on the fence about the metaverse, NFTs, crypto, and other emerging technologies?</p>
         </li>
-        <li>
-          <p>What role does being a South Central LA native play in your creative process and the way you approach projects?</p>
-        </li>
-        <li>
-          <p>What are some of the most satisfying projects you’ve worked on?</p>
-        </li>
-        <li>
-          <p>What is your <em>“why”</em> for starting your design company 88 Ideas?</p>
-        </li>
-        <li>
-          <p>How can creators protect their intellectual property in the metaverse and ensure they're being properly compensated for their digital art?</p>
-        </li>
-        <li>
-          <p>What was the biggest challenge you have faced and how did you overcome it?</p>
-        </li>
-        <li>
-          <p>What are some Web3/design learning resources and conferences listeners can attend to learn more?</p>
-        </li>
-        <li>
-          <p>What has helped you get to where you are and what advice would you have for others who want to set off in a similar direction?</p>
-        </li>
-        <li>
-          <p>What’s the question you are most tired of hearing on this subject, and what would you like to say about it, so you never have to answer it again?</p>
-        </li>
       </ul>
     `,
   },
@@ -295,47 +271,6 @@ export const episodesList = [
         <li>
           <p>What is robotics? What is a robot? Types of robots? How do they function? How are they used? Are they coming for our jobs?</p>
         </li>
-        <li>
-          <p>Discuss career paths in robotics. I love Robotics because there are so many different career paths that can segway into Robotics. Mechanical, electrical, computer science- coding!</p>
-        </li>
-        <li>
-          <p>Top 7 careers defining the industry</p>
-          <ul>
-            <li>
-              <p>Design Engineer ($68k)- designs the visual look of the robot</p>
-            </li>
-            <li>
-              <p>Software Engineer ($86k)- designs the robot software</p>
-            </li>
-            <li>
-              <p>Hardware Engineer ($88k)- responsible for computer hardware robots use to function</p>
-            </li>
-            <li>
-              <p>UX Designer ($105k)- responsible for user experience; how customers interact w/ robot (engineers may overlook this aspect)</p>
-            </li>
-            <li>
-              <p>Data Scientist ($106k)- designs data modeling processes and creates the algorithms and predictive models on which the data is gathered and interpreted. Algorithms, Math, Statistics, Marketing, Monteyyyy.</p>
-            </li>
-            <li>
-              <p>Machine Learning Engineer ($112k)- responsible for the automation aspect</p>
-            </li>
-            <li>
-              <p>Algorithm Engineer ($121k)- research, dev, and tests algorithms the robots run on</p>
-            </li>
-          </ul>
-        </li>
-        <li>
-          <p>What that type of education and certs are required?</p>
-        </li>
-        <li>
-          <p>Earning potential?</p>
-        </li>
-        <li>
-          <p>Why should Black people get into this field? Talk about face recognition technology. How they fail to recognize black faces</p>
-        </li>
-        <li>
-          <p>Elaborate on the future of robotics</p>
-        </li>
       </ul>
     `,
   },
@@ -349,10 +284,6 @@ export const episodesList = [
     link: 'assets/audio/Episode0.1-Tech Pilot2-ReneeMoncito.mp3',
     iframeUrl: 'https://open.spotify.com/embed/episode/1T3VTt2Lh3i9Y8Ko9PDoQc?utm_source=generator',
     description: `
-      <h1><u>Segment 1:</u> 12:03:00 pm - 12:10:35 pm</h1>
-      <p>
-        Show intro: Welcome forward, I am your host Cassie Betts on KBLA Talk 1580, and you’re listening to Talk Tech To Me, where Technology is the new sexy, Black Geeks are the new superheroes, and South Central LA is the new Tech Mecca.
-      </p>
       <h1>What’s the Tea in Tech</h1>
       <ul>
         <li>
@@ -452,26 +383,8 @@ export const episodesList = [
               <p>
               Ishan Wahi and his brother Nikhil Wahi were taken into custody at the airport, trying to catch a flight to India. Sameer Ramani, Wahi's buddy and partner, is still at large.
               </p>
-              <h3>CASSIE’S THOUGHTS</h3>
-              <ol>
-                <li>
-                  <p>First of all, caught at the airport? Don’t you have a private jet, sir? All that money and you tried to fly commercial?</p>
-                </li>
-                <li>
-                  <p>Soft out with a commercial break: 3 minutes</p>
-                </li>
-                <li>
-                  <p>He won’t go to break until she is ready</p>
-                </li>
-              </ol>
             </li>
           </ul>
-        </li>
-      </ul>
-      <h1><u>Segment 2:</u> 12:13:35 pm - 12:30:00 pm</h1>
-      <ul>
-        <li>
-          <p>Welcome forward <strong>1 800-920-1580</strong>. You’re listening to Talk Tech To Me with your host, Cassie Betts on “Unapologetically Progressive KBLA Talk 1580”.</p>
         </li>
         <li>
           <p>
@@ -518,89 +431,6 @@ export const episodesList = [
         </li>
         <li>
           <p>Tesla recently dumped 75% of its Bitcoin holdings, what effect will this have on the market? Is Elon Musk trying to short the market?</p>
-          <ul>
-            <li>
-              <p>Hard Out at the 30 (bottom of the hour) with a 6-minute break</p>
-            </li>
-            <li>
-              <p>News and traffic break - 3 minutes</p>
-            </li>
-            <li>
-              <p>Commercial break - 3 minutes</p>
-            </li>
-          </ul>
-        </li>
-      </ul>
-      <h1><u>Segment 3:</u> 12:36:00 pm - 12:45:45 pm</h1>
-      <ul>
-        <li>
-          <p>Najah and Cassie talk experience working together at the crypto bootcamp</p>
-        </li>
-        <li>
-          <p>Commercial break - 3 minutes</p>
-        </li>
-      </ul>
-      <h1><u>Segment 4:</u> 12:48:45 pm - 12:53:00 pm</h1>
-      <ul>
-        <li>
-          <p>Use this time to answer calls. If no calls, continue convo or ask 1-2 questions that were not asked previously</p>
-          <ul>
-            <li>
-              <p><em>Commercial break - 3 minutes</em></p>
-            </li>
-          </ul>
-        </li>
-      </ul>
-      <h1><u>Segment 5:</u> 12:56:00 pm - 1:00:00 pm</h1>
-      <p>Use this to wrap up any last points, call to action, opportunities, etc.</p>
-      <ul>
-        <li>
-          <p>Promote MISLA Billionaire Bootcamps (For Billionaire Bootcamps follow @therealmisla)</p>
-        </li>
-        <li>
-          <p>Tease details for the next show: Next week we’ll talk sex in tech w/ Nicole the Pole</p>
-        </li>
-        <li>
-          <p>Direct listeners to connect with Najah and Cassie on social media, company/personal websites, and at any upcoming events</p>
-          <ul>
-            <li>
-              <p>Najah, how can the people connect w/ you? Drop SM!</p>
-            </li>
-            <li>
-              <p>Follow @talktechtomepod on IG</p>
-            </li>
-            <li>
-              <p>Follow me @instabetts</p>
-            </li>
-            <li>
-              <p>To learn more about MISLA/MARTY go to misla.org</p>
-            </li>
-          </ul>
-        </li>
-        <li>
-          <p>
-            NFT Expoverse 2022: The largest blockchain expo in LA goes down July 29-31 at LA Convention Center; Get tix at nftexpoverse.com
-          </p>
-        </li>
-        <li>
-          <p>
-            Thank you for hanging with us at the Unapologetically Progressive KBLA Talk 1580. When we come forward, you’ll be
-            listening to The Back Story with Mischa Duffy. Backstory of films, songs, books…
-          </p>
-        </li>
-        <li>
-          <p>
-            TTTM Closing: This has been Talk Tech To Me, pushing the envelope of tech one keystroke at a time, peace out!
-          </p>
-        </li>
-      </ul>
-      <p>Tag Lines: Say as much as possible. </p>
-      <ul>
-        <li>
-          <p>KBLA Talk 1580, we’ve got a lot to talk about.</p>
-        </li>
-        <li>
-          <p>Unapologetically Progressive KBLA Talk 1580.</p>
         </li>
       </ul>
     `,
@@ -615,10 +445,6 @@ export const episodesList = [
     link: 'assets/audio/Episode0.1-Tech Pilot2-ReneeMoncito.mp3',
     iframeUrl: 'https://open.spotify.com/embed/episode/61e0woY2egmHnvSV4dz9Fs?utm_source=generator',
     description: `
-      <h1><u>Segment 1:</u> 12:03:00 pm - 12:10:35 pm</h1>
-      <p>
-      Show intro: Welcome forward, I am your host Cassie Betts on KBLA Talk 1580, and you’re listening to Talk Tech To Me, where Technology is the new sexy, Black Geeks are the new superheroes, and South Central LA is the new Tech Mecca.
-      </p>
       <h1>What’s the Tea in Tech</h1>
       <p>Moment of Silence for those who died…</p>
       <p>The pregnant woman was the sister of one of my students</p>
@@ -731,22 +557,6 @@ export const episodesList = [
             </li>
           </ul>
         </li>
-      </ul>
-      <p>When we come forward on Talk Tech To Me… Balancing Act: Can professional women be sexy in the digital realm?” with special guest Nicole “The Pole” Williams the Unapologetically Progressive KBLA Talk 1580</p>
-      <p>CASSIE’S THOUGHTS</p>
-      <ul>
-        <li>
-          <p>Soft out with a commercial break: 3 minutes</p>
-        </li>
-        <li>
-          <p>He won’t go to break until she is ready</p>
-        </li>
-      </ul>
-      <h1><u>Segment 2:</u> 12:13:35 pm - 12:30:00 pm</h1>
-      <ul>
-        <li>
-          <p>Welcome forward <strong>1 800-920-1580</strong>. You’re listening to Talk Tech To Me with your host, Cassie Betts on “Unapologetically Progressive KBLA Talk 1580”.</p>
-        </li>
         <li>
           <p>
             Introduce guest: Nicole “The Pole” Williams is an entrepreneur, innovator in pole dancing and fitness, spiritual life coach, Master Reiki practitioner, and early adopter of technology. She has graced your favorite music videos, toured with the biggest artists in the game, and owns one of LA’s premier pole dance studios Allure Dance & Fitness.
@@ -793,104 +603,7 @@ export const episodesList = [
             <li>
               <p>Early T.V appearance on BET’s Played by Fame episode with Ludacris (2009) Fans get to go on a day date w/ their fave celeb but the date is filled w/ pranks unbeknownst to the fan</p>
             </li>
-            <li>
-              <p><em>Hard Out at the 30 (bottom of the hour) with a 6-minute break</em></p>
-            </li>
-            <li>
-              <p><em>News and traffic break - 3 minutes</em></p>
-            </li>
-            <li>
-              <p><em>Commercial break - 3 minutes</em></p>
-            </li>
           </ul>
-        </li>
-      </ul>
-      <h1><u>Segment 3:</u> 12:36:00 pm - 12:45:45 pm</h1>
-      <ul>
-        <li>
-          <p>Nicole “The Soul”</p>
-          <ul>
-            <li>
-              <p>Discuss segue into becoming a spiritual life coach</p>
-            </li>
-            <li>
-              <p>Becoming a Reiki Master healer</p>
-              <ul>
-                <li>
-                  <p>What is Reiki? What does it treat? Benefits?</p>
-                </li>
-              </ul>
-            </li>
-          </ul>
-        </li>
-        <li>
-          <p>What are some books that changed your life?</p>
-        </li>
-        <li>
-          <p>How did you manifest the life you have?</p>
-        </li>
-        <li>
-          <p>Discuss the power of positive thinking & meditation</p>
-        </li>
-        <li>
-          <p>Commercial break - 3 minutes</p>
-        </li>
-      </ul>
-      <h1><u>Segment 4:</u> 12:48:45 pm - 12:53:00 pm</h1>
-      <ul>
-        <li>
-          <p>Use this time to answer calls. If no calls, continue convo or ask 1-2 questions that were not asked previously</p>
-          <ul>
-            <li>
-              <p><em>Commercial break - 3 minutes</em></p>
-            </li>
-          </ul>
-        </li>
-      </ul>
-      <h1><u>Segment 5:</u> 12:56:00 pm - 1:00:00 pm</h1>
-      <p>Use this to wrap up any last points, call to action, opportunities, etc.</p>
-      <ul>
-        <li>
-          <p>Promote MISLA Billionaire Bootcamps (For Billionaire Bootcamps follow @therealmisla)</p>
-        </li>
-        <li>
-          <p>Tease details for the next show: Next week we’ll talk about Art in Tech w/ Watts’ very own STIX</p>
-        </li>
-        <li>
-          <p>Direct listeners to connect with Nicole and Cassie on social media, company/personal websites, and at any upcoming events</p>
-          <ul>
-            <li>
-              <p>Nicole, how can the people connect w/ you? Drop SM!</p>
-            </li>
-            <li>
-              <p>Follow @talktechtomepod on IG</p>
-            </li>
-            <li>
-              <p>Follow me @instabetts</p>
-            </li>
-            <li>
-              <p>To learn more about MISLA/MARTY go to misla.org</p>
-            </li>
-          </ul>
-        </li>
-        <li>
-          <p>
-            Thank you for hanging with us at the Unapologetically Progressive KBLA Talk 1580. You’ll listen to The Back Story with Mischa Duffy when we come forward. The backstory of films, songs, books…
-          </p>
-        </li>
-        <li>
-          <p>
-            TTTM Closing: This has been Talk Tech To Me, pushing the envelope of tech one keystroke at a time. Peace out!
-          </p>
-        </li>
-      </ul>
-      <p>Tag Lines: Say as much as possible. </p>
-      <ul>
-        <li>
-          <p>KBLA Talk 1580, we’ve got a lot to talk about.</p>
-        </li>
-        <li>
-          <p>Unapologetically Progressive KBLA Talk 1580.</p>
         </li>
       </ul>
     `,
@@ -905,10 +618,6 @@ export const episodesList = [
     link: 'assets/audio/Episode0.1-Tech Pilot2-ReneeMoncito.mp3',
     iframeUrl: 'https://open.spotify.com/embed/episode/7ht4Z6w1YQzqf51hpNfffg?utm_source=generator',
     description: `
-      <h1><u>Segment 1:</u> 12:03:00 pm - 12:10:35 pm</h1>
-      <p>
-      Show intro: Welcome forward, I am your host Cassie Betts on KBLA Talk 1580, and you’re listening to Talk Tech To Me, where Technology is the new sexy, Black Geeks are the new superheroes, and South Central LA is the new Tech Mecca.
-      </p>
       <h1>Let’s get into the Tea in Tech: piping hot tech news curated for the culture</h1>
       <p><u>Got an opinion u want to share? 800-920-1580 is our #</u></p>
       <ul>
@@ -1015,22 +724,6 @@ export const episodesList = [
             <li><p>Speaking of life stories, when we come forward, we’ll be chatting with a man who’s life story is movie worthy.</p></li>
           </ul>
         </li>
-      </ul>
-      <p>This episode of Talk Tech To Me… “Tech4Good” with special guest STIX / watts Stix of Think Watts on the Unapologetically Progressive KBLA Talk 1580</p>
-      <p>CASSIE’S THOUGHTS</p>
-      <ul>
-        <li>
-          <p>Soft out with a commercial break: 3 minutes</p>
-        </li>
-        <li>
-          <p>He won’t go to break until she is ready</p>
-        </li>
-      </ul>
-      <h1><u>Segment 2:</u> 12:13:35 pm - 12:30:00 pm</h1>
-      <ul>
-        <li>
-          <p>Welcome forward <strong>1 800-920-1580</strong>. You’re listening to Talk Tech To Me with your host, Cassie Betts on “Unapologetically Progressive KBLA Talk 1580”.</p>
-        </li>
         <li>
           <p>
             <b>Introduce guest:</b> STIX is a multidimensional hip-hop artist, activist, community builder, entrepreneur, father, and husband. His passion and love for his community are undeniable. He puts on for Watts and it shows in everything that he does from music to apparel and the social impact programs implemented through his Think Watts Foundation.
@@ -1106,114 +799,7 @@ export const episodesList = [
             <li>
               <p>2021- STIX received the key to the city of Watts</p>
             </li>
-            <li>
-              <p><em>Hard Out at the 30 (bottom of the hour) with a 6-minute break</em></p>
-            </li>
-            <li>
-              <p><em>News and traffic break - 3 minutes</em></p>
-            </li>
-            <li>
-              <p><em>Commercial break - 3 minutes</em></p>
-            </li>
           </ul>
-        </li>
-      </ul>
-      <h1><u>Segment 3:</u> 12:36:00 pm - 12:45:45 pm</h1>
-      <ul>
-        <li>
-          <p>How to create strategic partnerships with companies?</p>
-          <ul>
-            <li>
-              <p>He’s the first artist to partner w/ 4 major sports leagues: LA Clippers, LA Rams, LAFC (LA Football Club), and LA Dodgers</p>
-            </li>
-          </ul>
-        </li>
-        <li>
-          <p>Tips on securing funding?</p>
-        </li>
-        <li>
-          <p>How to build a solid team?</p>
-        </li>
-        <li>
-          <p>Productivity hacks?</p>
-        </li>
-        <li>
-          <p>What does your morning routine consist of?</p>
-        </li>
-        <li>
-          <p>Discuss veganism + wellness tips for success</p>
-        </li>
-        <li>
-          <p>How does someone start a nonprofit? What tools, resources, and essentials are needed?</p>
-        </li>
-        <li>
-          <p>What is one piece of practical advice you would give to someone starting out?</p>
-        </li>
-        <li>
-          <p>Future of Think Watts?</p>
-        </li>
-        <li>
-          <p>Vision for the city of Watts?</p>
-        </li>
-        <li>
-          <p>Commercial break - 3 minutes</p>
-        </li>
-      </ul>
-      <h1><u>Segment 4:</u> 12:48:45 pm - 12:53:00 pm</h1>
-      <ul>
-        <li>
-          <p>Use this time to answer calls. If no calls, continue convo or ask 1-2 questions that were not asked previously</p>
-          <ul>
-            <li>
-              <p><em>Commercial break - 3 minutes</em></p>
-            </li>
-          </ul>
-        </li>
-      </ul>
-      <h1><u>Segment 5:</u> 12:56:00 pm - 1:00:00 pm</h1>
-      <p>Use this to wrap up any last points, call to action, opportunities, etc.</p>
-      <ul>
-        <li>
-          <p>Promote MISLA Billionaire Bootcamps (For Billionaire Bootcamps follow @therealmisla)</p>
-        </li>
-        <li>
-          <p>Tease details for the next show: Next week we’ll talk about “Black Families in Tech”  w/ Phillip Banks & family</p>
-        </li>
-        <li>
-          <p>Direct listeners to connect with STIX and Cassie on social media, company/personal websites, and at any upcoming events</p>
-          <ul>
-            <li>
-              <p>STIX, how can the people connect w/ you? Drop SM!</p>
-            </li>
-            <li>
-              <p>Follow @talktechtomepod on IG</p>
-            </li>
-            <li>
-              <p>Follow me @instabetts</p>
-            </li>
-            <li>
-              <p>To learn more about MISLA/MARTY go to misla.org</p>
-            </li>
-          </ul>
-        </li>
-        <li>
-          <p>
-            Thank you for hanging with us at the Unapologetically Progressive KBLA Talk 1580. You’ll listen to The Back Story with Mischa Duffy when we come forward. The backstory of films, songs, books…
-          </p>
-        </li>
-        <li>
-          <p>
-            TTTM Closing: This has been Talk Tech To Me, pushing the envelope of tech one keystroke at a time. Peace out!
-          </p>
-        </li>
-      </ul>
-      <p>Tag Lines: Say as much as possible. </p>
-      <ul>
-        <li>
-          <p>KBLA Talk 1580, we’ve got a lot to talk about.</p>
-        </li>
-        <li>
-          <p>Unapologetically Progressive KBLA Talk 1580.</p>
         </li>
       </ul>
     `,
@@ -1228,10 +814,6 @@ export const episodesList = [
     link: 'assets/audio/Episode0.1-Tech Pilot2-ReneeMoncito.mp3',
     iframeUrl: 'https://open.spotify.com/embed/episode/4hfNxXPd5p24Y0TwnWu0sc?utm_source=generator',
     description: `
-      <h1><u>Segment 1:</u> 12:03:00 pm - 12:10:35 pm</h1>
-      <p>
-      Show intro: Welcome forward, I am your host Cassie Betts on KBLA Talk 1580, and you’re listening to Talk Tech To Me, where Technology is the new sexy, Black Geeks are the new superheroes, and South Central LA is the new Tech Mecca.
-      </p>
       <h1>What’s the Tea in Tech:</h1>
       <ul>
         <li>
@@ -1303,21 +885,6 @@ export const episodesList = [
             </li>
           </ul>
         </li>
-      </ul>
-      <p>When we come forward on Talk Tech To Me… “The Family That Codes Together, Gets Dough Together” with special guests Phillip & Keila Banks on the Unapologetically Progressive KBLA Talk 1580</p>
-      <ul>
-        <li>
-          <p>Soft out with a commercial break: 3 minutes</p>
-        </li>
-        <li>
-          <p>He won’t go to break until she is ready</p>
-        </li>
-      </ul>
-      <h1><u>Segment 2:</u> 12:13:35 pm - 12:30:00 pm</h1>
-      <ul>
-        <li>
-          <p>Welcome forward <strong>1 800-920-1580</strong>. You’re listening to Talk Tech To Me with your host, Cassie Betts on “Unapologetically Progressive KBLA Talk 1580”.</p>
-        </li>
         <li>
           <p>
             <b>Introduce guest:</b> Phillip Banks Sr., also known as Big Cyber, is the CEO and co-founder of Banks Family Tech, together with his daughter Keila and sons Phillip Jr., David, and Hunter. The Banks family has a passion for tech, business, and the arts. They have redefined what Black parenting and Black families could look like through tech, entrepreneurship, and speaking at the largest conferences in the world.
@@ -1387,90 +954,7 @@ export const episodesList = [
             <li>
               <p>Phillip knows how to build computers from scratch</p>
             </li>
-            <li>
-              <p><em>Hard Out at the 30 (bottom of the hour) with a 6-minute break</em></p>
-            </li>
-            <li>
-              <p><em>News and traffic break - 3 minutes</em></p>
-            </li>
-            <li>
-              <p><em>Commercial break - 3 minutes</em></p>
-            </li>
           </ul>
-        </li>
-      </ul>
-      <h1><u>Segment 3:</u> 12:36:00 pm - 12:45:45 pm</h1>
-      <p>Fun Facts (Keila): Read as an intro to the next segment</p>
-      <p>Script: Welcome forward 1 800-920-1580. You’re listening to Talk Tech To Me with your host, Cassie Betts on “Unapologetically Progressive KBLA Talk 1580.” I want to introduce our next guest. Keila Banks</p>
-      <ul>
-        <li><p>Keila started blogging at 6 years old</p></li>
-        <li><p>Learned HTML at 9 years old</p></li>
-        <li><p>First keynote was at SCALE (Southern California Linux Expo) at 11 years old</p></li>
-        <li><p>Presented at the White House at 14 years old (during Obama Administration)</p></li>
-        <li>
-          <p>Received full ride scholarship to Howard University</p>
-          <ul>
-            <li><p>What is your origin story?</p></li>
-            <li><p>What are you majoring in at Howard?</p></li>
-            <li><p>Once you graduate from school, do you plan to keep working to build the Banks Family Empire, or do you want to strike out on your own?</p></li>
-            <li><p><em>Commercial break - 3 minutes</em></p></li>
-          </ul>
-        </li>
-      </ul>
-      <h1><u>Segment 4:</u> 12:48:45 pm - 12:53:00 pm</h1>
-      <ul>
-        <li>
-          <p>Use this time to answer calls. If no calls, continue convo or ask 1-2 questions that were not asked previously</p>
-          <ul>
-            <li>
-              <p><em>Commercial break - 3 minutes</em></p>
-            </li>
-          </ul>
-        </li>
-      </ul>
-      <h1><u>Segment 5:</u> 12:56:00 pm - 1:00:00 pm</h1>
-      <p>Use this to wrap up any last points, call to action, opportunities, etc.</p>
-      <ul>
-        <li>
-          <p>Direct listeners to connect with Phillip, Keila, and Cassie on social media, company/personal websites, and at any upcoming events</p>
-          <ul>
-            <li>
-              <p>Phillip & Keila, how can the people connect w/ you? Drop SM!</p>
-            </li>
-            <li>
-              <p>Follow @talktechtomepod on IG</p>
-            </li>
-            <li>
-              <p>Follow me @instabetts</p>
-            </li>
-            <li>
-              <p>To learn more about MISLA/MARTY go to misla.org</p>
-              <ul>
-                <li>
-                  <p>Tease details for the next show:  Be sure to tune in to next week’s episode “Tech Saved Me,” featuring Andre Anthony.</p>
-                </li>
-              </ul>
-            </li>
-          </ul>
-        </li>
-        <li>
-          <p>
-            Thank you for hanging with us at the Unapologetically Progressive KBLA Talk 1580. You’ll listen to The Back Story with Mischa Duffy when we come forward. The backstory of films, songs, books…
-          </p>
-        </li>
-        <li>
-          <p>
-            TTTM Closing: This has been Talk Tech To Me, pushing the envelope of tech one keystroke at a time. Peace out!
-          </p>
-        </li>
-      </ul>
-      <p>Tag Lines: Say as much as possible. </p>
-      <ul>
-        <li>
-          <p>KBLA Talk 1580, we’ve got a lot to talk about.</p>
-        </li>
-        <li>
-          <p>Unapologetically Progressive KBLA Talk 1580.</p>
         </li>
       </ul>
     `,
@@ -1485,10 +969,6 @@ export const episodesList = [
     link: 'assets/audio/Episode0.1-Tech Pilot2-ReneeMoncito.mp3',
     iframeUrl: 'https://open.spotify.com/embed/episode/73VvKpr8lWbJf6b3qzC3nA?utm_source=generator',
     description: `
-      <h1><u>Segment 1:</u> 12:03:00 pm - 12:10:35 pm</h1>
-      <p>
-      Show intro: Welcome forward, I am your host Cassie Betts on KBLA Talk 1580, and you’re listening to Talk Tech To Me, where Technology is the new sexy, Black Geeks are the new superheroes, and South Central LA is the new Tech Mecca.
-      </p>
       <p>Talk about interesting life updates before Tea in Tech</p>
       <h1>What’s the Tea in Tech:</h1>
       <ul>
@@ -1561,21 +1041,6 @@ export const episodesList = [
             </li>
           </ul>
         </li>
-      </ul>
-      <p>When we come forward on Talk Tech To Me… “Tech Saved Me” with Andre Anthony on the Unapologetically Progressive KBLA Talk 1580</p>
-      <ul>
-        <li>
-          <p>Soft out with a commercial break: 3 minutes</p>
-        </li>
-        <li>
-          <p>He won’t go to break until she is ready</p>
-        </li>
-      </ul>
-      <h1><u>Segment 2:</u> 12:13:35 pm - 12:30:00 pm</h1>
-      <ul>
-        <li>
-          <p>Welcome forward 1 800-920-1580. You’re listening to Talk Tech To Me with your host, Cassie Betts on “Unapologetically Progressive KBLA Talk 1580.”</p>
-        </li>
         <li>
           <p>
             <b>Introduce guest:</b> Andre Anthony is a Deep East Oakland-bred former at-risk teen turned techie with a big heart. With the odds stacked against him at such a young age, he took charge of his story because he was determined to avoid the fates of his peers. Andre has since crafted a rewarding profession as a Territory Relationship Manager at Best Buy, as well as found meaning in mentoring children who have faced similar challenges as he has.
@@ -1620,89 +1085,6 @@ export const episodesList = [
         <li>
           <p><strong>Talk about you and Andre’s shared connection:</strong> crazy life story, nontraditional path into tech, Best Buy Teen Tech Center & MISLA partnership, and role in bringing South LA BBTTC into fruition</p>
         </li>
-        <li>
-          <p>Fun Facts:</p>
-          <ul>
-            <li>
-              <p><em>Hard Out at the 30 (bottom of the hour) with a 6-minute break</em></p>
-            </li>
-            <li>
-              <p><em>News and traffic break - 3 minutes</em></p>
-            </li>
-            <li>
-              <p><em>Commercial break - 3 minutes</em></p>
-            </li>
-          </ul>
-        </li>
-      </ul>
-      <h1><u>Segment 3:</u> 12:36:00 pm - 12:45:45 pm</h1>
-      <p>Now it’s time to play a round of <strong>“Fill in the Blank”</strong> with Andre Anthony</p>
-      <ul>
-        <li><p>"I should have never ______."</p></li>
-        <li><p>"I can't live without _____."</p></li>
-        <li><p>"_______ annoys me."</p></li>
-        <li><p>"I always have ______ with me."</p></li>
-        <li><p>"I miss _____."</p></li>
-        <li><p>"When I'm bored I ______."</p></li>
-        <li><p>"I'm the happiest when _______."</p></li>
-        <li><p>"I want to travel to ______."</p></li>
-        <li><p>Commercial break - 3 minutes</p></li>
-      </ul>
-      <h1><u>Segment 4:</u> 12:48:45 pm - 12:53:00 pm</h1>
-      <ul>
-        <li>
-          <p>Use this time to answer calls. If no calls, continue convo or ask 1-2 questions that were not asked previously</p>
-          <ul>
-            <li>
-              <p><em>Commercial break - 3 minutes</em></p>
-            </li>
-          </ul>
-        </li>
-      </ul>
-      <h1><u>Segment 5:</u> 12:56:00 pm - 1:00:00 pm</h1>
-      <p>Use this to wrap up any last points, call to action, opportunities, etc.</p>
-      <ul>
-        <li>
-          <p>Direct listeners to connect with Andre and Cassie on social media, company/personal websites, and at any upcoming events</p>
-          <ul>
-            <li>
-              <p>Andre, how can the people connect w/ you? Drop SM!</p>
-            </li>
-            <li>
-              <p>Follow @talktechtomepod on IG</p>
-            </li>
-            <li>
-              <p>Follow me @instabetts</p>
-            </li>
-            <li>
-              <p>To learn more about MISLA/MARTY go to misla.org</p>
-              <ul>
-                <li>
-                  <p>Tease details for the next show:  Be sure to tune in to next week’s episode featuring branding, marketing, and content expert Miesha Robinson.</p>
-                </li>
-              </ul>
-            </li>
-          </ul>
-        </li>
-        <li>
-          <p>
-            Thank you for hanging with us at the Unapologetically Progressive KBLA Talk 1580. Up next is The Back Story with Mischa Duffy when we come forward. (The backstory of films, songs, books, etc.)
-          </p>
-        </li>
-        <li>
-          <p>
-            TTTM Closing: This has been Talk Tech To Me, pushing the envelope of tech one keystroke at a time. Peace out!
-          </p>
-        </li>
-      </ul>
-      <p>Tag Lines: Say as much as possible.</p>
-      <ul>
-        <li>
-          <p>KBLA Talk 1580, we’ve got a lot to talk about.</p>
-        </li>
-        <li>
-          <p>Unapologetically Progressive KBLA Talk 1580.</p>
-        </li>
       </ul>
     `,
   },
@@ -1716,10 +1098,6 @@ export const episodesList = [
     link: 'assets/audio/Episode0.1-Tech Pilot2-ReneeMoncito.mp3',
     iframeUrl: 'https://open.spotify.com/embed/episode/3ux2H1HnSjJnOfrZs6N0uG?utm_source=generator',
     description: `
-      <h1><u>Segment 1:</u> 12:03:00 pm - 12:10:35 pm</h1>
-      <p>
-      Show intro: Welcome forward, I am your host, Cassie Betts, on KBLA Talk 1580, and you’re listening to Talk Tech To Me, where technology is the new sexy, Black Geeks are the new superheroes, and South Central LA is the new Tech Mecca.
-      </p>
       <p>Talk about interesting life updates before “Tea in Tech”</p>
       <h1>What’s the Tea in Tech:</h1>
       <ul>
@@ -1796,21 +1174,6 @@ export const episodesList = [
             </li>
           </ul>
         </li>
-      </ul>
-      <p>When we come forward on Talk Tech To Me… “Social Proof” with Miesha Robinson on the Unapologetically Progressive KBLA Talk 1580</p>
-      <ul>
-        <li>
-          <p>Soft out with a commercial break: 3 minutes</p>
-        </li>
-        <li>
-          <p>He won’t go to break until she is ready</p>
-        </li>
-      </ul>
-      <h1><u>Segment 2:</u> 12:13:35 pm - 12:30:00 pm</h1>
-      <ul>
-        <li>
-          <p>Welcome forward 1 800-920-1580. You’re listening to Talk Tech To Me with your host, Cassie Betts on “Unapologetically Progressive KBLA Talk 1580.”</p>
-        </li>
         <li>
           <p>
             <b>Introduce guest:</b> Miesha Robinson is an ambitious serial entrepreneur, visionary, and coach committed to building generational wealth through entrepreneurship. She founded the non-profit organization Level Up LA, the online clothes retailer Twenty21 & Co., the digital ticketing startup Ucrowd, and Miesha Robinson Consulting, a comprehensive marketing agency and coaching firm. Miesha is a founding member of Black Women In Tech Inc., holds a bachelor's degree in marketing, and currently serves as the Chief Marketing Officer at MARTY.
@@ -1849,83 +1212,6 @@ export const episodesList = [
         <li>
           <p>What would you say to those who don’t know what content to post and how often?</p>
         </li>
-        <li>
-          <p>Fun Facts:</p>
-          <ul>
-            <li>
-              <p><em>Hard Out at the 30 (bottom of the hour) with a 6-minute break</em></p>
-            </li>
-            <li>
-              <p><em>News and traffic break - 3 minutes</em></p>
-            </li>
-            <li>
-              <p><em>Commercial break - 3 minutes</em></p>
-            </li>
-          </ul>
-        </li>
-      </ul>
-      <h1><u>Segment 3:</u> 12:36:00 pm - 12:45:45 pm</h1>
-      <ul>
-        <li><p>Discuss how you and Miesha met and how she became CMO of MARTY</p></li>
-        <li><p>Discuss the LevelUp LA</p></li>
-        <li><p>What’s in store for the future?</p></li>
-        <li><p>Commercial break - 3 minutes</p></li>
-      </ul>
-      <h1><u>Segment 4:</u> 12:48:45 pm - 12:53:00 pm</h1>
-      <ul>
-        <li>
-          <p>Use this time to answer calls. If no calls, continue convo or ask 1-2 questions that were not asked previously</p>
-          <ul>
-            <li>
-              <p><em>Commercial break - 3 minutes</em></p>
-            </li>
-          </ul>
-        </li>
-      </ul>
-      <h1><u>Segment 5:</u> 12:56:00 pm - 1:00:00 pm</h1>
-      <p>Use this to wrap up any last points, call to action, opportunities, etc.</p>
-      <ul>
-        <li>
-          <p>Direct listeners to connect with Miesha and Cassie on social media, company/personal websites, and at any upcoming events</p>
-          <ul>
-            <li>
-              <p>Miesha, how can the people connect w/ you? Drop SM!</p>
-            </li>
-            <li>
-              <p>Follow @talktechtomepod on IG</p>
-            </li>
-            <li>
-              <p>Follow me @instabetts</p>
-            </li>
-            <li>
-              <p>To learn more about MISLA/MARTY go to misla.org</p>
-              <ul>
-                <li>
-                  <p>Tease details for the next show:  Be sure to tune in to next week’s episode about Cannabis + Tech featuring Dee Williams</p>
-                </li>
-              </ul>
-            </li>
-          </ul>
-        </li>
-        <li>
-          <p>
-            Thank you for hanging with us at the Unapologetically Progressive KBLA Talk 1580. Up next is The Back Story with Mischa Duffy when we come forward. (The backstory of films, songs, books, etc.)
-          </p>
-        </li>
-        <li>
-          <p>
-            TTTM Closing: This has been Talk Tech To Me, pushing the envelope of tech one keystroke at a time. Peace out!
-          </p>
-        </li>
-      </ul>
-      <p>Tag Lines: Say as much as possible.</p>
-      <ul>
-        <li>
-          <p>KBLA Talk 1580, we’ve got a lot to talk about.</p>
-        </li>
-        <li>
-          <p>Unapologetically Progressive KBLA Talk 1580.</p>
-        </li>
       </ul>
     `,
   },
@@ -1939,10 +1225,6 @@ export const episodesList = [
     link: 'assets/audio/Episode0.1-Tech Pilot2-ReneeMoncito.mp3',
     iframeUrl: 'https://open.spotify.com/embed/episode/1cZC4e6iq0nzTtoFo55gPG?utm_source=generator',
     description: `
-      <h1><u>Segment 1:</u> 12:03:00 pm - 12:10:35 pm</h1>
-      <p>
-      Show intro: “Welcome forward, I’m your host, Cassie Betts, on KBLA Talk 1580, and you’re listening to Talk Tech To Me Uncut, where technology is the new sexy, Black geeks are the new superheroes, and South Central LA is the new tech mecca.”
-      </p>
       <p>Talk about interesting life updates before “Tea in Tech”</p>
       <h1>What’s the Tea in Tech:</h1>
       <ul>
@@ -2029,21 +1311,6 @@ export const episodesList = [
             </li>
           </ul>
         </li>
-      </ul>
-      <p>“When we come forward we’ll talk CannaTech with Dee Williams on the Unapologetically Progressive KBLA Talk 1580.”</p>
-      <ul>
-        <li>
-          <p>Soft out with a commercial break: 3 minutes</p>
-        </li>
-        <li>
-          <p>He won’t go to break until she is ready</p>
-        </li>
-      </ul>
-      <h1><u>Segment 2:</u> 12:13:35 pm - 12:30:00 pm</h1>
-      <ul>
-        <li>
-          <p>“Welcome forward, I’m your host Cassie Betts and this is Talk Tech To Me Uncut where technology is the new sexy, Black geeks are the new superheroes, and South Central LA is the new tech mecca.”</p>
-        </li>
         <li>
           <p>
             <b>Introduce guest:</b> Dee Williams is a multi-hyphenate entrepreneur who has worked in the professional staffing market for over 20 years. As an unconventional staffingpreneur, best-selling author, speaker, business strategist, and success coach, Dee has carved her own path. She is the founder and CEO of Identifize Consulting and The Cannabis Job Board, just two of the companies that make up the Dee Williams brand.
@@ -2076,103 +1343,6 @@ export const episodesList = [
         <li>
           <p>1 800-920-1580 “More with Dee Williams when we come forward. This is KBLA Talk 1580, we’ve got a lot to talk about.” How to get into tech…</p>
         </li>
-        <li>
-          <p>Fun Facts:</p>
-          <ul>
-            <li>
-              <p><em>Hard Out at the 30 (bottom of the hour) with a 6-minute break</em></p>
-            </li>
-            <li>
-              <p><em>News and traffic break - 3 minutes</em></p>
-            </li>
-            <li>
-              <p><em>Commercial break - 3 minutes</em></p>
-            </li>
-          </ul>
-        </li>
-      </ul>
-      <h1><u>Segment 3:</u> 12:36:00 pm - 12:45:45 pm</h1>
-      <p>“Welcome forward, you’re now tapped into Talk Tech To Me Uncut, I’m your host Cassie Betts on KBLA Talk 1580.  1 800-920-1580 to talk tech.”</p>
-      <ul>
-        <li><p>REad job responsibilities page and cater resume to it…</p></li>
-        <li><p>What kind of jobs are available? What skills and/or characteristics do you look for in candidates?</p></li>
-        <li><p>What is the earning potential for entry-level and up in this industry</p></li>
-        <li><p>Are cannabis companies addressing those incarcerated for marijuana charges? Funding programs? Initiating change?</p></li>
-        <li><p>Moplando…</p></li>
-      </ul>
-      <p>“When we come forward more Talk Tech To Me Uncut on the Unapologetically Progressive KBLA Talk 1580.”</p>
-      <ul>
-        <li>
-          <p>Commercial break - 3 minutes</p>
-        </li>
-      </ul>
-      <h1><u>Segment 4:</u> 12:48:45 pm - 12:53:00 pm</h1>
-      <p>“Welcome forward, this is Talk Tech To Me Uncut, I’m your host Cassie Betts on KBLA Talk 1580.  1-800-920-1580 to talk tech.”</p>
-      <p>Use this time to answer calls. If no calls, continue convo or ask 1-2 questions that were not asked previously</p>
-      <ul>
-        <li><p>Moplando</p></li>
-        <li><p>“Mark time”- Clip here… Reskillify…</p></li>
-        <li><p>As a staffing professional, how do you think our “9 to 5 hotties” and “corporate baddies” can become “recession-proof” in these uncertain times?</p></li>
-      </ul>
-      <ul>
-        <li>
-          <p>Stafingpreneurship… The cannabis job board… “More Talk Tech To Me Uncut when we come forward on KBLA Talk 1580.”</p>
-          <ul>
-            <li>
-              <p><em>Commercial break - 3 minutes</em></p>
-            </li>
-          </ul>
-        </li>
-      </ul>
-      <h1><u>Segment 5:</u> 12:56:00 pm - 1:00:00 pm</h1>
-      <p>“Welcome forward, you’re listening to Talk Tech To Me Uncut where technology is the new sexy, Black geeks are the new superheroes, and South Central LA is the new tech mecca.”</p>
-      <p>Use this to wrap up any last points, call to action, opportunities, etc.</p>
-      <ul>
-        <li>
-          <p>Celebrities & chocolate people… Al Harrington…</p>
-        </li>
-        <li>
-          <p>Marty.world..</p>
-        </li>
-        <li>
-          <p>Direct listeners to connect with Dee and Cassie on social media, company/personal websites, and at any upcoming events</p>
-          <ul>
-            <li>
-              <p>Dee, how can the people connect w/ you? Drop SM!</p>
-            </li>
-            <li>
-              <p>Follow @talktechtomepod on IG</p>
-            </li>
-            <li>
-              <p>Follow me @instabetts</p>
-            </li>
-            <li>
-              <p>To learn more about MISLA/MARTY go to misla.org</p>
-              <ul>
-                <li>
-                  <p>Tease details for the next show:  Be sure to tune in next week as we delve into the life of a female drone pilot with special guest Sam Scully.</p>
-                </li>
-                <li>
-                  <p>Thank you for kickin’ it with us at the Unapologetically Progressive KBLA Talk 1580. Up next is The Back Story with Mischa Duffy. (The backstory of films, songs, books, etc.)</p>
-                </li>
-              </ul>
-            </li>
-          </ul>
-        </li>
-        <li>
-          <p>
-          TTTM Closing: “This has been Talk Tech To Me Uncut, pushing the envelope of tech one keystroke at a time. Peace out!”
-          </p>
-        </li>
-      </ul>
-      <p>Tag Lines: Say as much as possible.</p>
-      <ul>
-        <li>
-          <p>KBLA Talk 1580, we’ve got a lot to talk about.</p>
-        </li>
-        <li>
-          <p>Unapologetically Progressive KBLA Talk 1580.</p>
-        </li>
       </ul>
     `,
   },
@@ -2186,8 +1356,6 @@ export const episodesList = [
     link: 'assets/audio/Episode0.1-Tech Pilot2-ReneeMoncito.mp3',
     iframeUrl: 'https://open.spotify.com/embed/episode/3eJ5lRJxasIGVf8lr9ldWW?utm_source=generator',
     description: `
-      <h1><u>Segment 1:</u> 12:03:00 pm - 12:10:35 pm</h1>
-      <p>Show intro: “Welcome forward, I’m your host, Cassie Betts, on KBLA Talk 1580, and you’re listening to Talk Tech To Me Uncut, where technology is the new sexy, Black geeks are the new superheroes, and South Central LA is the new tech mecca.”</p>
       <p>Talk about exciting life updates before “Tea in Tech”</p>
       <h1>What’s the Tea in Tech:</h1>
       <ul>
@@ -2272,21 +1440,6 @@ export const episodesList = [
             </li>
           </ul>
         </li>
-      </ul>
-      <p>“When we come forward we’ll get into the “Game of Drones” with Sam Scully on the Unapologetically Progressive KBLA Talk 1580.”</p>
-      <ul>
-        <li>
-          <p>Soft out with a commercial break: 3 minutes</p>
-        </li>
-        <li>
-          <p>He won’t go to break until she is ready</p>
-        </li>
-      </ul>
-      <h1><u>Segment 2:</u> 12:13:35 pm - 12:30:00 pm</h1>
-      <ul>
-        <li>
-          <p>“Welcome forward, I’m your host Cassie Betts and this is Talk Tech To Me Uncut where technology is the new sexy, Black geeks are the new superheroes, and South Central LA is the new tech mecca.”</p>
-        </li>
         <li>
           <p>
             <b>Introduce guest (<a href="https://www.linkedin.com/in/samscully/overlay/experience/1792146869/multiple-media-viewer/?treasuryMediaId=1635460129695">link to bio</a>):</b> Sam Scully is a remarkable woman, entrepreneur, and FAA Part 107 certified drone pilot who brings a feminine touch to the IT and drone industries. She is the founder and principal of Scully Staffing, Inc., a certified veteran-owned, women-and minority-owned human resources firm with a global presence. Ms. Scully has been bridging the gap between businesses and highly talented individuals for over 20 years. She is also an influential leader, philanthropist, US Navy veteran, and mother.
@@ -2324,95 +1477,6 @@ export const episodesList = [
         <li>
           <p>1 800-920-1580 to talk tech “More with Sam Scully when we come forward on KBLA Talk 1580, we’ve got a lot to talk about.”</p>
         </li>
-        <li>
-          <p>Fun Facts:</p>
-          <ul>
-            <li>
-              <p><em>Hard Out at the 30 (bottom of the hour) with a 6-minute break</em></p>
-            </li>
-            <li>
-              <p><em>News and traffic break - 3 minutes</em></p>
-            </li>
-            <li>
-              <p><em>Commercial break - 3 minutes</em></p>
-            </li>
-          </ul>
-        </li>
-      </ul>
-      <h1><u>Segment 3:</u> 12:36:00 pm - 12:45:45 pm</h1>
-      <p>“Welcome forward, you’re now tapped into Talk Tech To Me Uncut, I’m your host Cassie Betts on KBLA Talk 1580.  1-800-920-1580 to talk tech.”</p>
-      <ul>
-        <li><p>What job opportunities are available in the drone industry?</p></li>
-        <li><p>What’s the average salary for drone pilots? What are the highest-paid drone jobs?</p></li>
-        <li><p>What is the most crucial trait someone needs to possess in your field?</p></li>
-        <li><p>What are the most helpful resources that have helped you along the way?</p></li>
-        <li><p>How will drones shape our future?</p></li>
-      </ul>
-      <p>“When we come forward more Talk Tech To Me Uncut on the Unapologetically Progressive KBLA Talk 1580.”</p>
-      <ul>
-        <li>
-          <p>Commercial break - 3 minutes</p>
-        </li>
-      </ul>
-      <h1><u>Segment 4:</u> 12:48:45 pm - 12:53:00 pm</h1>
-      <p>“Welcome forward, this is Talk Tech To Me Uncut, I’m your host Cassie Betts on KBLA Talk 1580.  1-800-920-1580 to talk tech.”</p>
-      <p>Use this time to answer calls. If no calls, continue convo or ask 1-2 questions that were not asked previously</p>
-      <ul>
-        <li><p>Drones can’t fly beyond pilot’s line of sight.</p></li>
-        <li><p>As a staffing pro, how do you think our listeners can become “recession-proof” in these uncertain times?</p></li>
-        <li><p>What’s next for you?</p></li>
-      </ul>
-      <ul>
-        <li>
-          <p>“More Talk Tech To Me Uncut when we come forward on KBLA Talk 1580.”</p>
-          <ul>
-            <li>
-              <p><em>Commercial break - 3 minutes</em></p>
-            </li>
-          </ul>
-        </li>
-      </ul>
-      <h1><u>Segment 5:</u> 12:56:00 pm - 1:00:00 pm</h1>
-      <p>“Welcome forward, you’re listening to Talk Tech To Me Uncut where tech is the new sexy.”</p>
-      <p>Use this to wrap up any last points, call to action, opportunities, etc.</p>
-      <ul>
-        <li>
-          <p>Direct listeners to connect via social media, websites, and upcoming events.</p>
-          <ul>
-            <li>
-              <p>“Sam, how can listeners connect w/ you online?” Drop SM handles!</p>
-            </li>
-            <li>
-              <p>Podcast, clubhouse</p>
-            </li>
-            <li>
-              <p>Follow me @instabetts and @talktechtomepod on IG</p>
-            </li>
-            <li>
-              <p>To learn more about MISLA/MARTY go to misla.org</p>
-            </li>
-            <li>
-              <p>Tease details for the next show:  Tune in next week as we discuss mental health + tech with special guest Kandee Lewis.</p>
-            </li>
-            <li>
-              <p>“Thank you for kickin’ it with us at the Unapologetically Progressive KBLA Talk 1580. Next, explore the creative reckoning of writers on The Back Story with Mischa Duffie.”</p>
-            </li>
-          </ul>
-        </li>
-        <li>
-          <p>
-          TTTM Closing: “This has been Talk Tech To Me Uncut, pushing the envelope of tech one keystroke at a time. Peace out!”
-          </p>
-        </li>
-      </ul>
-      <p>Tag Lines: Say as much as possible.</p>
-      <ul>
-        <li>
-          <p>KBLA Talk 1580, we’ve got a lot to talk about.</p>
-        </li>
-        <li>
-          <p>Unapologetically Progressive KBLA Talk 1580.</p>
-        </li>
       </ul>
     `,
   },
@@ -2426,8 +1490,6 @@ export const episodesList = [
     link: 'assets/audio/Episode0.1-Tech Pilot2-ReneeMoncito.mp3',
     iframeUrl: 'https://open.spotify.com/embed/episode/0CkI7rVuz0yaTUqIB5UVOS?utm_source=generator',
     description: `
-      <h1><u>Segment 1:</u> 12:03:00 pm - 12:10:35 pm</h1>
-      <p>Show intro: “Welcome forward, I’m your host, Cassie Betts, on KBLA Talk 1580, and you’re listening to Talk Tech To Me Uncut, where technology is the new sexy, Black geeks are the new superheroes, and South Central LA is the new tech mecca. On today’s episode “Fight the Power,” we’ll be delving into the power of multimedia, how to break into the industry, how to control our narratives, and fight racism and social injustice via multimedia. But first, let’s get into What’s the Tea in Tech.”</p>
       <h1>What’s the Tea in Tech:</h1>
       <ul>
         <li>
@@ -2503,21 +1565,6 @@ export const episodesList = [
             </li>
           </ul>
         </li>
-      </ul>
-      <p>“When we come forward we’ll show you how to “Fight the Power” using multimedia with media mogul Cassandra Cooper on the Unapologetically Progressive KBLA Talk 1580.”</p>
-      <ul>
-        <li>
-          <p>Soft out with a commercial break: 3 minutes</p>
-        </li>
-        <li>
-          <p>He won’t go to break until she is ready</p>
-        </li>
-      </ul>
-      <h1><u>Segment 2:</u> 12:13:35 pm - 12:30:00 pm</h1>
-      <ul>
-        <li>
-          <p>“Welcome forward, I’m your host Cassie Betts and this is Talk Tech To Me Uncut where technology is the new sexy. Today we’re talking about the power of multimedia, how to break into the industry, control our own narratives, and how multimedia is the #1 most effective way to fight racism and injustice with media mogul Cassandra Cooper.”</p>
-        </li>
         <li>
           <p>
             <b>Introduce guest:</b> Cassandra Cooper is a visionary, futurist, writer, producer, and the founder and chief operating officer of the multiplatform Ova Media Group, a media outlet developed exclusively for women of color. She is an authority in  film/TV production, digital distribution, content management, and acquisition.
@@ -2561,114 +1608,6 @@ export const episodesList = [
           <p>Tips on how to get paid what you’re worth?</p>
         </li>
         <li><p>1 800-920-1580 to talk tech “More with Cassandra Cooper when we come forward on KBLA Talk 1580, we’ve got a lot to talk about.”</p></li>
-        <li>
-          <p>Fun Facts:</p>
-          <ul>
-            <li>
-              <p><em>Hard Out at the 30 (bottom of the hour) with a 6-minute break</em></p>
-            </li>
-            <li>
-              <p><em>News and traffic break - 3 minutes</em></p>
-            </li>
-            <li>
-              <p><em>Commercial break - 3 minutes</em></p>
-            </li>
-          </ul>
-        </li>
-      </ul>
-      <h1><u>Segment 3:</u> 12:36:00 pm - 12:45:45 pm</h1>
-      <p>“Welcome forward, you’re now tapped into Talk Tech To Me Uncut, I’m your host Cassie Betts on KBLA Talk 1580.  1-800-920-1580 to talk tech. I’m in the studio with media mogul Cassandra Cooper</p>
-      <ul>
-        <li>
-          <p><strong>Tools to use?</strong></p>
-        </li>
-        <li>
-          <p>Podcasts- What’s going on in your world of Podcasting. What is an RSS feed and how can it be used in multimedia?</p>
-        </li>
-        <li>
-          <p>Do you have any gear recommendations?</p>
-        </li>
-      </ul>
-      <ul>
-        <li><p>Do you have any tips for consistent content creation?</p></li>
-        <li><p>What makes you passionate and keeps you motivated?</p></li>
-        <li><p>How do you define success in your field?</p></li>
-        <li><p>What's the best advice a mentor ever gave you about the industry?</p></li>
-        <li><p>What do you wish you knew before starting your career?</p></li>
-      </ul>
-      <p>“When we come forward more Talk Tech To Me Uncut on the Unapologetically Progressive KBLA Talk 1580.”</p>
-      <ul>
-        <li>
-          <p>Commercial break - 3 minutes</p>
-        </li>
-      </ul>
-      <h1><u>Segment 4:</u> 12:48:45 pm - 12:53:00 pm</h1>
-      <p>“Welcome forward, this is Talk Tech To Me Uncut, I’m your host Cassie Betts on KBLA Talk 1580.  1-800-920-1580 to talk tech.”</p>
-      <p>Use this time to answer calls. If no calls, continue convo or ask 1-2 questions that were not previously asked</p>
-      <ul>
-        <li><p>Do you have any program recommendations for those wanting to pursue a career in your field?</p>
-          <ul>
-            <li>
-              <p>Menton KITS program</p>
-            </li>
-            <li>
-              <p>Crenshaw H.S has a visual and performing arts magnet pathway (including digital arts, media, and graphic design)</p>
-            </li>
-            <li>
-              <p>Cinema/ TV production at LA City College (one of the best programs in the city). Check with your local community college for program offerings. Eligible students may qualify for $0 tuition.</p>
-            </li>
-          </ul>
-        </li>
-        <li><p>What's the biggest takeaway you hope listeners learn?</p></li>
-      </ul>
-      <ul>
-        <li>
-          <p>“More Talk Tech To Me Uncut when we come forward on KBLA Talk 1580.”</p>
-          <ul>
-            <li>
-              <p><em>Commercial break - 3 minutes</em></p>
-            </li>
-          </ul>
-        </li>
-      </ul>
-      <h1><u>Segment 5:</u> 12:56:00 pm - 1:00:00 pm</h1>
-      <p>“Welcome forward, you’re listening to Talk Tech To Me Uncut where tech is the new sexy.”</p>
-      <p>Use this to wrap up any last points, call to action, opportunities, etc.</p>
-      <ul>
-        <li>
-          <p>Direct listeners to connect via social media, websites, and upcoming events.</p>
-          <ul>
-            <li>
-              <p>“Cassandra, how can listeners learn more about you connect w/ you online?” Drop SM handles!</p>
-            </li>
-            <li>
-              <p>Follow me @instabetts and @talktechtomepod on IG</p>
-            </li>
-            <li>
-              <p>To learn more about MISLA/MARTY go to misla.org</p>
-            </li>
-            <li>
-              <p>Tease details for the next show:  Tune in next week as we discuss Blacks in Tech with special guest Omari Bakari.</p>
-            </li>
-            <li>
-              <p>“Thank you for kickin’ it with us at the Unapologetically Progressive KBLA Talk 1580. Next, explore the creative reckoning of writers on The Back Story with Mischa Duffie.”</p>
-            </li>
-          </ul>
-        </li>
-        <li>
-          <p>
-          TTTM Closing: “This has been Talk Tech To Me Uncut, pushing the envelope of tech one keystroke at a time. Peace out!”
-          </p>
-        </li>
-      </ul>
-      <p>Tag Lines: Say as much as possible.</p>
-      <ul>
-        <li>
-          <p>KBLA Talk 1580, we’ve got a lot to talk about.</p>
-        </li>
-        <li>
-          <p>Unapologetically Progressive KBLA Talk 1580.</p>
-        </li>
       </ul>
     `,
   },
@@ -2682,8 +1621,6 @@ export const episodesList = [
     link: 'assets/audio/Episode0.1-Tech Pilot2-ReneeMoncito.mp3',
     iframeUrl: 'https://open.spotify.com/embed/episode/73yDA8t8WDURwtCmrs9u4k?utm_source=generator',
     description: `
-      <h1><u>Segment 1:</u> 12:03:00 pm - 12:10:35 pm</h1>
-      <p>Show intro: “Welcome forward, I’m your host, Cassie Betts, on KBLA Talk 1580, and you’re listening to Talk Tech To Me Uncut, where technology is the new sexy, Black geeks are the new superheroes, and South Central LA is the new tech mecca. On today’s episode “Blacks in Tech: The $28 Billion Conversation,” we’ll be chatting with Omari Bakari, a pioneer in the tech game, self-made entrepreneur, and chapter president of BIT Los Angeles. But first, let’s get into What’s the Tea in Tech.”</p>
       <h1>What’s the Tea in Tech:</h1>
       <ul>
         <li>
@@ -2759,21 +1696,6 @@ export const episodesList = [
             </li>
           </ul>
         </li>
-      </ul>
-      <p>“When we come forward we’ll talk Blacks in Tech with Omari Bakari on the Unapologetically Progressive KBLA Talk 1580.”</p>
-      <ul>
-        <li>
-          <p>Soft out with a commercial break: 3 minutes</p>
-        </li>
-        <li>
-          <p>He won’t go to break until she is ready</p>
-        </li>
-      </ul>
-      <h1><u>Segment 2:</u> 12:13:35 pm - 12:30:00 pm</h1>
-      <ul>
-        <li>
-          <p>“Welcome forward, I’m your host Cassie Betts and this is Talk Tech To Me Uncut. Today we’re talking to Omari Bakari, an OG in the tech movement! He is a Howard University alumni, who started out in the print and publishing world, before creating one of the first online directories with 11 million businesses in its database. He was part of the team that won the White House Innovation Award in 2013 and went on to develop government publishing platforms and modernize regulatory processes. He is currently the president of the LA Chapter for Blacks in Tech, helping to, and I’m quoting you here, “Create an Algorithm for Success.” Please welcome Mr. Omari Bakari.</p>
-        </li>
         <li>
           <p><em>TTTM Icebreaker:</em> Bakari. When did you fall in love with tech?</p>
         </li>
@@ -2790,117 +1712,6 @@ export const episodesList = [
           <p>Howard University recently created a partnership with Amazon and Hulu, was it Facebook or Google, to provide full semester internships? Can you tell us more about that ecosystem and the accelerators you want to build to create more opportunities for Black youth to learn more about digital literacy?</p>
         </li>
         <li><p>1 800-920-1580 to talk tech “More with Omari Bakari when we come forward on KBLA Talk 1580, we’ve got a lot to talk about.”</p></li>
-        <li>
-          <p>Fun Facts:</p>
-          <ul>
-            <li>
-              <p><em>Hard Out at the 30 (bottom of the hour) with a 6-minute break</em></p>
-            </li>
-            <li>
-              <p><em>News and traffic break - 3 minutes</em></p>
-            </li>
-            <li>
-              <p><em>Commercial break - 3 minutes</em></p>
-            </li>
-          </ul>
-        </li>
-      </ul>
-      <h1><u>Segment 3:</u> 12:36:00 pm - 12:45:45 pm</h1>
-      <p>“Welcome forward, you’re now tapped into Talk Tech To Me Uncut, I’m your host Cassie Betts on KBLA Talk 1580.  1-800-920-1580 to talk tech. I’m in the studio with Omari Bakari of BIT Los Angeles.”</p>
-      <ul>
-        <li>
-          <p>Tell us about Blacks in Tech. Who can join or participate and how?</p>
-        </li>
-        <li>
-          <p>How many Blacks in Tech chapters are there?</p>
-        </li>
-        <li>
-          <p>Are there any plans to expand Blacks in Tech globally?</p>
-        </li>
-        <li>
-          <p>Can you share more about the upcoming convention in Florida?</p>
-          <ul>
-            <li><p>Discuss the OneTen/BIT Foundation x Udacity Scholarship Program (Deadline Oct. 11, 2022).</p></li>
-            <li><p>3 pathways: Business analytics, digital marketing, and front web dev</p></li>
-          </ul>
-        </li>
-      </ul>
-      <p>“When we come forward more Talk Tech To Me Uncut on the Unapologetically Progressive KBLA Talk 1580.”</p>
-      <ul>
-        <li>
-          <p>Commercial break - 3 minutes</p>
-        </li>
-      </ul>
-      <h1><u>Segment 4:</u> 12:48:45 pm - 12:53:00 pm</h1>
-      <p>“Welcome forward, this is Talk Tech To Me Uncut, I’m your host Cassie Betts on KBLA Talk 1580.  1-800-920-1580 to talk tech.”</p>
-      <p>Use this time to answer calls. If no calls, continue convo or ask 1-2 questions that were not previously asked</p>
-      <ul>
-        <li><p>What were your reasons for starting your company, DIPS Technology?</p>
-          <ul>
-            <li>
-              <p>Their mission, to address the digital inequities in Black and Brown communities, sounds a lot like ours at MISLA and MARTY (discuss bootcamps and marketing).</p>
-            </li>
-          </ul>
-        </li>
-        <li><p>So, how do you help to nurture the next generation of techies?</p>
-          <ul>
-            <li>
-              <p>Talk about his future plans. (Tech Talk & Tequila. Monthly tech round table for BIPOC, bringing tech companies to the table, providing upward mobility for the community)</p>
-            </li>
-          </ul>
-        </li>
-      </ul>
-      <ul>
-        <li>
-          <p>“More Talk Tech To Me Uncut when we come forward on KBLA Talk 1580.”</p>
-          <ul>
-            <li>
-              <p><em>Commercial break - 3 minutes</em></p>
-            </li>
-          </ul>
-        </li>
-      </ul>
-      <h1><u>Segment 5:</u> 12:56:00 pm - 1:00:00 pm</h1>
-      <p>“Welcome forward, you’re listening to Talk Tech To Me Uncut where tech is the new sexy.”</p>
-      <p>Use this to wrap up any last points, call to action, opportunities, etc.</p>
-      <ul>
-        <li>
-          <p><u>Fun question: You visited the White House during the Obama Administration and the Trump Administration. Were there any differences between the two visits?</u></p>
-        </li>
-        <li>
-          <p>Direct listeners to connect via social media, websites, and upcoming events.</p>
-          <ul>
-            <li>
-              <p>“Omari, how can listeners learn more about you and connect w/ you online?” Drop SM handles!</p>
-            </li>
-            <li>
-              <p>Follow me @instabetts and @talktechtomepod on IG</p>
-            </li>
-            <li>
-              <p>To learn more about MISLA/MARTY go to misla.org</p>
-            </li>
-            <li>
-              <p>Tease details for the next show:  Tune in next week as we talk tech with serial entrepreneur & funding boss Zenobia Millet.</p>
-            </li>
-            <li>
-              <p>“Thank you for kickin’ it with us at the Unapologetically Progressive KBLA Talk 1580. Next, explore the creative reckoning of writers on The Back Story with Mischa Duffie.”</p>
-            </li>
-          </ul>
-        </li>
-        <li>
-          <p>
-          TTTM Closing: “This has been Talk Tech To Me Uncut, pushing the envelope of tech one keystroke at a time. Peace out!”
-          </p>
-        </li>
-      </ul>
-      <p>Tag Lines: Say as much as possible.</p>
-      <ul>
-        <li>
-          <p>KBLA Talk 1580, we’ve got a lot to talk about.</p>
-        </li>
-        <li>
-          <p>Unapologetically Progressive KBLA Talk 1580.</p>
-        </li>
       </ul>
     `,
   },
@@ -2914,8 +1725,6 @@ export const episodesList = [
     link: 'assets/audio/Episode0.1-Tech Pilot2-ReneeMoncito.mp3',
     iframeUrl: 'https://open.spotify.com/embed/episode/6kDYjsFYMga4Jj3rGEEmVh?utm_source=generator',
     description: `
-      <h1><u>Segment 1:</u> 12:03:00 pm - 12:10:35 pm</h1>
-      <p>Show intro: “Welcome forward, I’m your host, Cassie Betts, on KBLA Talk 1580, and you’re listening to Talk Tech To Me Uncut, where technology is the new sexy, Black geeks are the new superheroes, and South Central LA is the new tech mecca. On today's episode “Tea Tech & Tequila” we’ll be chatting with tech diva Zenobia Millet, who is a media technologies maven, fintech funding boss, and serial entrepreneur. But first, let’s get into The Tea in Tech.”</p>
       <h1>What’s the Tea in Tech:</h1>
       <ul>
         <li>
@@ -3019,21 +1828,6 @@ export const episodesList = [
         <li><p><strong>Promote the OneTen/BIT Foundation x Udacity Scholarship Program (Deadline Oct. 11, 2022).</strong></p></li>
         <li><p><strong>3 pathways: Business analytics, digital marketing, and front web dev</strong></p></li>
         <li><p><strong>To apply go to www.udacity.com/scholarships/oneten-bit-scholarship</strong></p></li>
-      </ul>
-      <p>“When we come forward we’ll talk Tea Tech & Tequila with Zenobia Millet on the Unapologetically Progressive KBLA Talk 1580.”</p>
-      <ul>
-        <li>
-          <p>Soft out with a commercial break: 3 minutes</p>
-        </li>
-        <li>
-          <p>He won’t go to break until she is ready</p>
-        </li>
-      </ul>
-      <h1><u>Segment 2:</u> 12:13:35 pm - 12:30:00 pm</h1>
-      <ul>
-        <li>
-          <p>“Welcome forward, I’m your host Cassie Betts and this is Talk Tech To Me Uncut. Today we’re talking to the incomparable Zenobia Millet, a tech diva, award-winning media technologies maven, fintech funding specialist, and serial entrepreneur with over 30 years of experience. She is the founder of The Media Technologies Group, a conglomerate that drives growth and sustainability through technologies, and The Funding Boutique, which provides alternative business funding. She is the hostess & curator of the Tea Tech & Tequila Immersive Salon, a mixed reality networking event, and she hosts a jazz broadcast. She has smashed glass ceilings by becoming the first African-American chapter chair of the prestigious International Audio Engineering Society. She is also the first female member of the illustrious Sapphire Group. Please welcome Ms. Zenobia Millet.”</p>
-        </li>
         <li>
           <p><em>TTTM Icebreaker:</em> Bakari. When did you fall in love with tech?</p>
         </li>
@@ -3065,103 +1859,6 @@ export const episodesList = [
           <p>Note: Interests include finance, fashion, lifestyle, and huge jazz lover</p>
         </li>
         <li><p>1 800-920-1580 to talk tech “More with Zenobia Millet when we come forward on KBLA Talk 1580, we’ve got a lot to talk about.”</p></li>
-        <li>
-          <p>Fun Facts:</p>
-          <ul>
-            <li>
-              <p><em>Hard Out at the 30 (bottom of the hour) with a 6-minute break</em></p>
-            </li>
-            <li>
-              <p><em>News and traffic break - 3 minutes</em></p>
-            </li>
-            <li>
-              <p><em>Commercial break - 3 minutes</em></p>
-            </li>
-          </ul>
-        </li>
-      </ul>
-      <h1><u>Segment 3:</u> 12:36:00 pm - 12:45:45 pm</h1>
-      <p>“Welcome forward, you’re now tapped into Talk Tech To Me Uncut, I’m your host Cassie Betts on KBLA Talk 1580.  1-800-920-1580 to talk tech. I’m in the studio with Zenobia Millet</p>
-      <ul>
-        <li>
-          <p>Discuss tips for new tech founders and pitching advice (conducts founder evaluations)</p>
-        </li>
-        <li>
-          <p>Tell us about the <strong>Tea Tech & Tequila Immersive Salon</strong></p>
-          <ul>
-            <li><p><strong>Promote upcoming Tea Tech & Tequila event- happening next Saturday Oct. 15th- Cassie is being presented with the Champion of Change Pioneer Award</strong></p></li>
-          </ul>
-        </li>
-        <li>
-          <p>Why was it important to create an event like this?</p>
-        </li>
-        <li>
-          <p>What networking methods have worked for you?</p>
-        </li>
-      </ul>
-      <p>“When we come forward more Talk Tech To Me Uncut on the Unapologetically Progressive KBLA Talk 1580.”</p>
-      <ul>
-        <li>
-          <p>Commercial break - 3 minutes</p>
-        </li>
-      </ul>
-      <h1><u>Segment 4:</u> 12:48:45 pm - 12:53:00 pm</h1>
-      <p>“Welcome forward, this is Talk Tech To Me Uncut, I’m your host Cassie Betts on KBLA Talk 1580.  1-800-920-1580 to talk tech.”</p>
-      <p>Use this time to answer calls. If no calls, continue convo or ask 1-2 questions that were not previously asked</p>
-      <ul>
-        <li>
-          <p>What advice would you give Black people, especially Black women that want to navigate this industry and reach their goals as you have?</p>
-        </li>
-        <li>
-          <p>What trends do you see happening in the future?</p>
-        </li>
-        <li>
-          <p>“More Talk Tech To Me Uncut when we come forward on KBLA Talk 1580.”</p>
-          <ul>
-            <li>
-              <p><em>Commercial break - 3 minutes</em></p>
-            </li>
-          </ul>
-        </li>
-      </ul>
-      <h1><u>Segment 5:</u> 12:56:00 pm - 1:00:00 pm</h1>
-      <p>“Welcome forward, you’re listening to Talk Tech To Me Uncut where tech is the new sexy.”</p>
-      <p>Use this to wrap up any last points, call to action, opportunities, etc.</p>
-      <ul>
-        <li>
-          <p>Direct listeners to connect via social media, websites, and upcoming events.</p>
-          <ul>
-            <li>
-              <p>“Zenobia, how can listeners learn more about you and connect w/ you online?” Drop SM handles!</p>
-            </li>
-            <li>
-              <p>Follow me @instabetts and @talktechtomepod on IG</p>
-            </li>
-            <li>
-              <p>To learn more about MISLA/MARTY go to misla.org</p>
-            </li>
-            <li>
-              <p>Tease details for the next show:  Tune in next week as we talk real estate + tech with Lisa Gillet.</p>
-            </li>
-            <li>
-              <p>“Thank you for kickin’ it with us at the Unapologetically Progressive KBLA Talk 1580. Next, explore the creative reckoning of writers on The Back Story with Mischa Duffie.”</p>
-            </li>
-          </ul>
-        </li>
-        <li>
-          <p>
-          TTTM Closing: “This has been Talk Tech To Me Uncut, pushing the envelope of tech one keystroke at a time. Peace out!”
-          </p>
-        </li>
-      </ul>
-      <p>Tag Lines: Say as much as possible.</p>
-      <ul>
-        <li>
-          <p>KBLA Talk 1580, we’ve got a lot to talk about.</p>
-        </li>
-        <li>
-          <p>Unapologetically Progressive KBLA Talk 1580.</p>
-        </li>
       </ul>
     `,
   },
@@ -3175,8 +1872,6 @@ export const episodesList = [
     link: 'assets/audio/Episode0.1-Tech Pilot2-ReneeMoncito.mp3',
     iframeUrl: 'https://open.spotify.com/embed/episode/2IVDkmObu4fiHAKAjLTfyr?utm_source=generator',
     description: `
-      <h1><u>Segment 1:</u> 12:03:00 pm - 12:10:35 pm</h1>
-      <p>Show intro: “Welcome forward, I’m your host, Cassie Betts, on KBLA Talk 1580, and you’re listening to Talk Tech To Me Uncut, where technology is the new sexy, Black geeks are the new superheroes, and South Central LA is the new tech mecca. Today we’ll be chatting with a real superhero, Real Estate Super Agent Lisa Gillet. But first, let’s get into The Tea in Tech.”</p>
       <h1>What’s the Tea in Tech:</h1>
       <ul>
         <li>
@@ -3277,21 +1972,6 @@ export const episodesList = [
             </li>
           </ul>
         </li>
-      </ul>
-      <p>“When we come forward we’ll talk tech with Real Estate Super Agent Lisa Gillet on the Unapologetically Progressive KBLA Talk 1580.”</p>
-      <ul>
-        <li>
-          <p>Soft out with a commercial break: 3 minutes</p>
-        </li>
-        <li>
-          <p>He won’t go to break until she is ready</p>
-        </li>
-      </ul>
-      <h1><u>Segment 2:</u> 12:13:35 pm - 12:30:00 pm</h1>
-      <ul>
-        <li>
-          <p>“Welcome forward, I’m your host Cassie Betts and you’re tuned in to Talk Tech To Me Uncut where tech is the new sexy. Today we’re talking to Lisa Gillet, real estate extraordinaire, professional agent trainer, national public educator, award-winning author, and speaker. They say “All heroes don’t wear capes,” but this one does. Please welcome Lisa Gillet.”</p>
-        </li>
         <li>
           <p><em>TTTM Icebreaker:</em> Bakari. When did you fall in love with tech?</p>
         </li>
@@ -3340,136 +2020,6 @@ export const episodesList = [
           </ul>
         </li>
         <li><p>1 800-920-1580 to talk tech “More with Lisa Gillet when we come forward on KBLA Talk 1580, we’ve got a lot to talk about.”</p></li>
-        <li>
-          <p>Fun Facts:</p>
-          <ul>
-            <li>
-              <p><em>Hard Out at the 30 (bottom of the hour) with a 6-minute break</em></p>
-            </li>
-            <li>
-              <p><em>News and traffic break - 3 minutes</em></p>
-            </li>
-            <li>
-              <p><em>Commercial break - 3 minutes</em></p>
-            </li>
-          </ul>
-        </li>
-      </ul>
-      <h1><u>Segment 3:</u> 12:36:00 pm - 12:45:45 pm</h1>
-      <p>“Welcome forward, you’re now tapped into Talk Tech To Me Uncut, I’m your host Cassie Betts on KBLA Talk 1580.  1-800-920-1580 to talk tech. I’m in the studio with Super Agent Lisa Gillet.”</p>
-      <ul>
-        <li>
-          <p>Discuss Lisa’s proptech company + app: Property Owner’s Edu</p>
-          <ul>
-            <li><p><strong>Courses</strong></p></li>
-          </ul>
-        </li>
-        <li>
-          <p><strong>Tech Trends</strong></p>
-          <ul>
-            <li><p><a href="https://matchboxdesigngroup.com/blog/how-web-3-0-will-impact-real-estate-marketing/">How will Web3 impact real estate marketing?</a></p></li>
-            <li>
-              <p><a href="https://www.entrepreneur.com/science-technology/how-nfts-could-change-real-estate/382816">How do NFTs work in the real estate space?</a></p>
-              <ul>
-                <li>
-                  <p>NFTs for fractional property ownership</p>
-                </li>
-                <li>
-                  <p>NFT Mortgages</p>
-                </li>
-              </ul>
-            </li>
-            <li><p><a href="https://www.bankrate.com/real-estate/buying-a-house-with-cryptocurrency/">Can you use crypto to buy property?</a></p></li>
-            <li><p><a href="https://www.reit.com/news/reit-magazine/november-december-2018/how-blockchain-could-transform-real-estate">How is blockchain affecting REITs + real estate investing?</a></p></li>
-            <li><p><a href="https://ascendixtech.com/proptech-real-estate-definition/">PropTech</a></p></li>
-          </ul>
-        </li>
-        <li>
-          <p>How to avoid online scams</p>
-          <ul>
-            <li><p>Real Estate gurus, online courses, get-rich-quick schemes</p></li>
-            <li><p>What to look out for if you’re vulnerable</p></li>
-          </ul>
-        </li>
-      </ul>
-      <p>“When we come forward more Talk Tech To Me Uncut on the Unapologetically Progressive KBLA Talk 1580.”</p>
-      <ul>
-        <li>
-          <p>Commercial break - 3 minutes</p>
-        </li>
-      </ul>
-      <h1><u>Segment 4:</u> 12:48:45 pm - 12:53:00 pm</h1>
-      <p>“Welcome forward, this is Talk Tech To Me Uncut, I’m your host Cassie Betts on KBLA Talk 1580.  1-800-920-1580 to talk tech.”</p>
-      <p>Use this time to answer calls. If no calls, continue convo or ask 1-2 questions that were not previously asked</p>
-      <ul>
-        <li>
-          <p><strong>How to avoid scams</strong></p>
-          <ul>
-            <li><p>Real Estate gurus, online courses, get-rich-quick schemes</p></li>
-            <li><p>What to look out for if you’re vulnerable</p></li>
-          </ul>
-        </li>
-        <li>
-          <p><strong>Is it a good time to buy?</strong></p>
-          <ul>
-            <li>
-              <p>Thoughts on financial experts who say purchasing a home is a bad investment? (i.e phantom costs, maintenance, repairs, etc)</p>
-            </li>
-            <li>
-              <p>Are we headed towards a similar housing crisis, reminiscent of the mortgage crash in 2008?</p>
-            </li>
-          </ul>
-        </li>
-        <li>
-          <p>“More Talk Tech To Me Uncut when we come forward on KBLA Talk 1580.”</p>
-          <ul>
-            <li>
-              <p><em>Commercial break - 3 minutes</em></p>
-            </li>
-          </ul>
-        </li>
-      </ul>
-      <h1><u>Segment 5:</u> 12:56:00 pm - 1:00:00 pm</h1>
-      <p>“Welcome forward, you’re listening to Talk Tech To Me Uncut where tech is the new sexy.”</p>
-      <p>Use this to wrap up any last points, call to action, opportunities, etc.</p>
-      <ul>
-        <li>
-          <p>Direct listeners to connect via social media, websites, and upcoming events.</p>
-          <ul>
-            <li>
-              <p>“Lisa, how can listeners learn more about you and connect w/ you online?” Drop SM handles!</p>
-            </li>
-            <li>
-              <p>Follow me @instabetts and @talktechtomepod on IG</p>
-            </li>
-            <li>
-              <p>To learn more about MISLA/MARTY go to misla.org</p>
-            </li>
-            <li>
-              <p>Agenda For America:</p>
-            </li>
-            <li>
-              <p>Tease details for the next show:  Tune in next week as we talk tech with Derek Smith of Plug In South LA</p>
-            </li>
-            <li>
-              <p>“Thank you for kickin’ it with us at the Unapologetically Progressive KBLA Talk 1580. Next, explore the creative reckoning of writers on The Back Story with Mischa Duffie.”</p>
-            </li>
-          </ul>
-        </li>
-        <li>
-          <p>
-          TTTM Closing: “This has been Talk Tech To Me Uncut, pushing the envelope of tech one keystroke at a time. Peace out!”
-          </p>
-        </li>
-      </ul>
-      <p>Tag Lines: Say as much as possible.</p>
-      <ul>
-        <li>
-          <p>KBLA Talk 1580, we’ve got a lot to talk about.</p>
-        </li>
-        <li>
-          <p>Unapologetically Progressive KBLA Talk 1580.</p>
-        </li>
       </ul>
     `,
   },
@@ -3483,8 +2033,6 @@ export const episodesList = [
     link: 'assets/audio/Episode0.1-Tech Pilot2-ReneeMoncito.mp3',
     iframeUrl: 'https://open.spotify.com/embed/episode/60d2K7clT1sZxw44AKQZTV?utm_source=generator',
     description: `
-      <h1><u>Segment 1:</u> 12:03:00 pm - 12:10:35 pm</h1>
-      <p>Show intro: “Welcome forward, I’m your host, Cassie Betts, on KBLA Talk 1580, and you’re listening to Talk Tech To Me Uncut, where technology is the new sexy, Black geeks are the new superheroes, and South Central LA is the new tech mecca. On today’s episode “Plug Talk” we’ll be chatting with the tech plug himself, Plug In South LA’s very own Founder Derek Smith. But first, let’s get into The Tea in Tech.”</p>
       <h1>What’s the Tea in Tech:</h1>
       <ul>
         <li>
@@ -3575,21 +2123,6 @@ export const episodesList = [
             </li>
           </ul>
         </li>
-      </ul>
-      <p>“When we come forward we’ll talk tech with Plug In South LA Founder Derek Smith here on Talk Tech to me Uncut, on the Unapologetically Progressive KBLA Talk 1580.”</p>
-      <ul>
-        <li>
-          <p>Soft out with a commercial break: 3 minutes</p>
-        </li>
-        <li>
-          <p>He won’t go to break until she is ready</p>
-        </li>
-      </ul>
-      <h1><u>Segment 2:</u> 12:13:35 pm - 12:30:00 pm</h1>
-      <ul>
-        <li>
-          <p>“Welcome forward, I’m your host Cassie Betts and you’re tuned in to Talk Tech To Me Uncut where tech is the new sexy. 800-920-1580 call in to talk tech. Today we’re talking to Derek Smith, founder of South LA’s leading innovation accelerator Plug In South LA, which focuses on equitizing the tech landscape for Black and Latinx founders. Derek is a digital marketing and branding expert that has managed stand out initiatives for global brands. He’s also a Morehouse alumni with a love for tech and the future change makers of South LA. Please welcome Derek Smith.”</p>
-        </li>
         <li>
           <p><em>TTTM Icebreaker:</em> When did you fall in love with tech?</p>
         </li>
@@ -3625,99 +2158,6 @@ export const episodesList = [
           <p>Top 3 things tech founders should do before 2022 is over?</p>
         </li>
         <li><p>1 800-920-1580 to talk tech “More with Derek Smith when we come forward on KBLA Talk 1580, we’ve got a lot to talk about.”</p></li>
-        <li>
-          <p>Fun Facts:</p>
-          <ul>
-            <li>
-              <p><em>Hard Out at the 30 (bottom of the hour) with a 6-minute break</em></p>
-            </li>
-            <li>
-              <p><em>News and traffic break - 3 minutes</em></p>
-            </li>
-            <li>
-              <p><em>Commercial break - 3 minutes</em></p>
-            </li>
-          </ul>
-        </li>
-      </ul>
-      <h1><u>Segment 3:</u> 12:36:00 pm - 12:45:45 pm</h1>
-      <p>“Welcome forward, you’re now tapped into Talk Tech To Me Uncut, I’m your host Cassie Betts on KBLA Talk 1580.  1-800-920-1580 to talk tech. I’m in the studio with Derek Smith, founder of Plug In South LA.</p>
-      <ul>
-        <li>
-          <p>UTC 2022 highlights (5th annual)</p>
-          <ul>
-            <li><p>Why is it important to attend conferences like UTC?</p></li>
-            <li><p>What does it take to put together a conference like this?</p></li>
-            <li><p>How did you select panelists and keynote speakers?</p></li>
-            <li><p>How to secure sponsors + partners?</p></li>
-            <li><p>Networking tips for introverts and/or those getting reacclimated post-shutdown?</p></li>
-            <li><p>How do you maintain strong relationships?</p></li>
-          </ul>
-        </li>
-      </ul>
-      <p>“When we come forward more Talk Tech To Me Uncut on the Unapologetically Progressive KBLA Talk 1580.”</p>
-      <ul>
-        <li>
-          <p>Commercial break - 3 minutes</p>
-        </li>
-      </ul>
-      <h1><u>Segment 4:</u> 12:48:45 pm - 12:53:00 pm</h1>
-      <p>“Welcome forward, this is Talk Tech To Me Uncut, I’m your host Cassie Betts on KBLA Talk 1580.  1-800-920-1580 to talk tech.”</p>
-      <p>Use this time to answer calls. If no calls, continue convo or ask 1-2 questions that were not previously asked</p>
-      <ul>
-        <li>
-          <p>What’s in store for 2023 and beyond?</p>
-        </li>
-        <li>
-          <p>“More Talk Tech To Me Uncut when we come forward on KBLA Talk 1580.”</p>
-          <ul>
-            <li>
-              <p><em>Commercial break - 3 minutes</em></p>
-            </li>
-          </ul>
-        </li>
-      </ul>
-      <h1><u>Segment 5:</u> 12:56:00 pm - 1:00:00 pm</h1>
-      <p>“Welcome forward, you’re listening to Talk Tech To Me Uncut where tech is the new sexy.”</p>
-      <p>Use this to wrap up any last points, call to action, opportunities, etc.</p>
-      <ul>
-        <li>
-          <p>Direct listeners to connect via social media, websites, and upcoming events.</p>
-          <ul>
-            <li>
-              <p>“Derek, how can listeners learn more about you and connect w/ you online?” Drop SM handles!</p>
-            </li>
-            <li>
-              <p>Follow me @instabetts and @talktechtomepod on IG</p>
-            </li>
-            <li>
-              <p>To learn more about MISLA/MARTY go to misla.org</p>
-            </li>
-            <li>
-              <p>Agenda For America: “Why We Can’t Wait: The Urgency of Now” moderated by Tavis Smiley Thurs, Oct. 27 7-9pm</p>
-            </li>
-            <li>
-              <p>Tease details for the next show:  Tune in next week as we talk tech uncut.</p>
-            </li>
-            <li>
-              <p>“Thank you for kickin’ it with us at the Unapologetically Progressive KBLA Talk 1580. Next, explore the creative reckoning of writers on The Back Story with Mischa Duffie.”</p>
-            </li>
-          </ul>
-        </li>
-        <li>
-          <p>
-          TTTM Closing: “This has been Talk Tech To Me Uncut, pushing the envelope of tech one keystroke at a time. Peace out!”
-          </p>
-        </li>
-      </ul>
-      <p>Tag Lines: Say as much as possible.</p>
-      <ul>
-        <li>
-          <p>KBLA Talk 1580, we’ve got a lot to talk about.</p>
-        </li>
-        <li>
-          <p>Unapologetically Progressive KBLA Talk 1580.</p>
-        </li>
       </ul>
     `,
   },
@@ -3731,8 +2171,6 @@ export const episodesList = [
     link: 'assets/audio/Episode0.1-Tech Pilot2-ReneeMoncito.mp3',
     iframeUrl: 'https://open.spotify.com/embed/episode/6V2JsuHNXAY9DrjLfG0EqT?utm_source=generator',
     description: `
-      <h1><u>Segment 1:</u> 12:03:00 pm - 12:10:35 pm</h1>
-      <p>Show intro: “Welcome forward, I’m your host, Cassie Betts, on KBLA Talk 1580, and you’re listening to Talk Tech To Me Uncut, where technology is the new sexy, Black geeks are the new superheroes, and South Central LA is the new tech mecca. On today’s episode “Life After Death” I’ll be talking about Dia de los Muertos, how the deceased are being honored through AI, rebuilding and rising after a personal loss, and I’ll chat later in the show with Jose Barerra of StartupStarter. But first, let’s get into The Tea in Tech.”</p>
       <h1>What’s the Tea in Tech:</h1>
       <ul>
         <li>
@@ -3801,19 +2239,6 @@ export const episodesList = [
             </li>
           </ul>
         </li>
-      </ul>
-      <p>“When we come forward we’ll talk AI + Life After Death here on Talk Tech to me Uncut, on the Unapologetically Progressive KBLA Talk 1580.”</p>
-      <ul>
-        <li>
-          <p>Soft out with a commercial break: 3 minutes</p>
-        </li>
-        <li>
-          <p>He won’t go to break until she is ready</p>
-        </li>
-      </ul>
-      <h1><u>Segment 2:</u> 12:13:35 pm - 12:30:00 pm</h1>
-      <p>“Welcome forward, I’m your host Cassie Betts and you’re tuned in to Talk Tech To Me Uncut where tech is the new sexy. Dial 1-800-920-1580 to talk tech. Today I’m talking about Life After Death: How the deceased are being honored and even living on through AI. Then, later in the show, I’ll talk with Jose Barerra, co-founder of the modernized business education platform StartupStarter. Keep it locked, we’ve got a lot to talk about.”</p>
-      <ul>
         <li>
           <p>Give background on <a href="https://dayofthedead.holiday/"></a> aka Day of the dead</p>
           <ul>
@@ -3942,134 +2367,6 @@ export const episodesList = [
           </ul>
         </li>
         <li><p>1 800-920-1580 to talk tech “More Talk Tech To Me Uncut when we come forward with Jose Barerra, co-founder of StartupStarter on KBLA Talk 1580, we’ve got a lot to talk about.”</p></li>
-        <li>
-          <p>Fun Facts:</p>
-          <ul>
-            <li>
-              <p><em>Hard Out at the 30 (bottom of the hour) with a 6-minute break</em></p>
-            </li>
-            <li>
-              <p><em>News and traffic break - 3 minutes</em></p>
-            </li>
-            <li>
-              <p><em>Commercial break - 3 minutes</em></p>
-            </li>
-          </ul>
-        </li>
-      </ul>
-      <h1><u>Segment 3:</u> 12:36:00 pm - 12:45:45 pm</h1>
-      <p>“Welcome forward, you’re now tapped into Talk Tech To Me Uncut, I’m your host Cassie Betts on KBLA Talk 1580.  1-800-920-1580 to talk tech. I’m in the studio with special guest Jose Barerra, co-founder & CEO of the business education streaming service StartupStarter.”</p>
-      <ul>
-        <li>
-          <p><em>Ice breaker:</em> When did you fall in love with tech?</p>
-        </li>
-        <li>
-          <p>Do you celebrate Dia de los Muertos?</p>
-        </li>
-        <li>
-          <p>Have you ever had to start over and rebuild?</p>
-        </li>
-        <li>
-          <p>Discuss <a href="https://www.startupstarter.co/">StartupStarter</a></p>
-          <ul>
-            <li>
-              <p>Why did you start StartupStarter?</p>
-            </li>
-            <li>
-              <p>Who is this a good fit for?</p>
-            </li>
-            <li>
-              <p>How much does it cost?</p>
-            </li>
-            <li>
-              <p>How do people sign up?</p>
-            </li>
-          </ul>
-        </li>
-        <li>
-          <p><strong>Discuss 2022 Equity Crowdfunding Week (Nov. 9-11)</strong></p>
-          <ul>
-            <li>
-              <p>Explain what it is</p>
-            </li>
-            <li>
-              <p>Who will be there?</p>
-            </li>
-            <li>
-              <p>What’s going on?</p>
-            </li>
-            <li>
-              <p>Why should listeners attend?</p>
-            </li>
-            <li>
-              <p>How to get tickets?</p>
-            </li>
-          </ul>
-        </li>
-      </ul>
-      <p>“When we come forward more Talk Tech To Me Uncut on the Unapologetically Progressive KBLA Talk 1580.”</p>
-      <ul>
-        <li>
-          <p>Commercial break - 3 minutes</p>
-        </li>
-      </ul>
-      <h1><u>Segment 4:</u> 12:48:45 pm - 12:53:00 pm</h1>
-      <p>“Welcome forward, this is Talk Tech To Me Uncut, I’m your host Cassie Betts on KBLA Talk 1580. <s>1-800-920-1580 to talk tech.”</s></p>
-      <p><s>Use this time to answer calls. If no calls, continue the convo </s></p>
-      <ul>
-        <li>
-          <p>Services for those outside of LA?</p>
-        </li>
-        <li>
-          <p>“More Talk Tech To Me Uncut when we come forward on KBLA Talk 1580.”</p>
-          <ul>
-            <li>
-              <p><em>Commercial break - 3 minutes</em></p>
-            </li>
-          </ul>
-        </li>
-      </ul>
-      <h1><u>Segment 5:</u> 12:56:00 pm - 1:00:00 pm</h1>
-      <p>“Welcome forward, you’re listening to Talk Tech To Me Uncut where tech is the new sexy. I’m talking to Jose Barerra, co-founder and CEO of StartupStarter.”</p>
-      <p>Use this to wrap up any last points, call to action, opportunities, etc.</p>
-      <ul>
-        <li>
-          <p>Direct listeners to connect via social media, websites, and upcoming events.</p>
-          <ul>
-            <li>
-              <p>Jose, how can listeners connect with you and learn more about StartupStarter?</p>
-            </li>
-            <li>
-              <p>How can listeners get tickets for Equity Crowdfunding Week?</p>
-            </li>
-            <li>
-              <p>Follow me @instabetts and @talktechtomepod on IG</p>
-            </li>
-            <li>
-              <p>To learn more about MISLA/MARTY go to misla.org</p>
-            </li>
-            <li>
-              <p>Tease details for the next show:  Tune in next week as we delve into AI + machine learning w/ special guest Josh Armah.</p>
-            </li>
-            <li>
-              <p>“Thank you for kickin’ it with us at the Unapologetically Progressive KBLA Talk 1580. Next, explore the creative reckoning of writers on The Back Story with Mischa Duffie.”</p>
-            </li>
-          </ul>
-        </li>
-        <li>
-          <p>
-          TTTM Closing: “This has been Talk Tech To Me Uncut, pushing the envelope of tech one keystroke at a time. Peace out!”
-          </p>
-        </li>
-      </ul>
-      <p>Tag Lines: Say as much as possible.</p>
-      <ul>
-        <li>
-          <p>KBLA Talk 1580, we’ve got a lot to talk about.</p>
-        </li>
-        <li>
-          <p>Unapologetically Progressive KBLA Talk 1580.</p>
-        </li>
       </ul>
     `,
   },
@@ -4083,9 +2380,6 @@ export const episodesList = [
     link: 'assets/audio/Episode0.1-Tech Pilot2-ReneeMoncito.mp3',
     iframeUrl: 'https://open.spotify.com/embed/episode/6zfTTHbVU7YApzT9pnwYbD?utm_source=generator',
     description: `
-      <h1><u>Segment 1:</u> 12:03:00 pm - 12:10:35 pm</h1>
-      <p>Show intro: “Welcome forward, I’m your host, Cassie Betts, on KBLA Talk 1580, and you’re listening to Talk Tech To Me Uncut, where technology is the new sexy, Black geeks are the new superheroes, and South Central LA is the new tech mecca. On today’s episode “Life After Death, PT. 2 ” we’ll be talking about life after transformative experiences, all about AI, and why you should get on board with special guest AI expert and entrepreneur Joshua Armah.</p>
-      <p>We will also have a ticket giveaway for our LA listeners later on in the show for an exclusive screening of Wakanda Forever Wednesday, Nov 9th before it opens nationally, so keep it locked for more details. But first, let’s get into The Tea in Tech.”</p>
       <h1>What’s the Tea in Tech:</h1>
       <ul>
         <li>
@@ -4161,19 +2455,6 @@ export const episodesList = [
             </li>
           </ul>
         </li>
-      </ul>
-      <p>“When we come forward we’ll talk tech with AI expert & tech founder Joshua Armah here on Talk Tech to me Uncut, on the Unapologetically Progressive KBLA Talk 1580.”</p>
-      <ul>
-        <li>
-          <p>Soft out with a commercial break: 3 minutes</p>
-        </li>
-        <li>
-          <p>He won’t go to break until she is ready</p>
-        </li>
-      </ul>
-      <h1><u>Segment 2:</u> 12:13:35 pm - 12:30:00 pm</h1>
-      <p>“Welcome forward, I’m your host Cassie Betts and you’re tuned in to Talk Tech To Me Uncut where tech is the new sexy. 800-920-1580 call in    <strong>ticket giveaway for our LA listeners later on in the show for an exclusive screening of Wakanda Forever Wednesday Nov 9th in LA at the Grove</strong>. Last week, our show was about Life After Death, where we touched on AI advancements and how they’re used to honor the dead. Today, we're delving deeper into AI, what it is, and why you should jump on the wave with our special guest Joshua Armah, a talented computer scientist, product leader, serial entrepreneur, and founder of Armah Studio. He has worked on innovative projects ranging from blockchain protocol development to high-performance software products for global brands in NYC, ATL, and Silicon Valley. Please welcome Joshua Armah."</p>
-      <ul>
         <li>
           <p><em><strong>TTTM Icebreaker:</strong> </em>When did you fall in love with tech?</p>
         </li>
@@ -4196,105 +2477,6 @@ export const episodesList = [
         </li>
       </ul>
       <p>1 800-920-1580 to talk tech “More with Josh Armah when we come forward on KBLA Talk 1580, we’ve got a lot to talk about.”</p>
-      <ul>
-        <li>
-          <p>Hard Out at the 30 (bottom of the hour) with a 6-minute break</p>
-        </li>
-        <li>
-          <p>News and traffic break - 3 minutes</p>
-        </li>
-        <li>
-          <p>Commercial break - 3 minutes</p>
-        </li>
-      </ul>
-      <h1><u>Segment 3:</u> 12:36:00 pm - 12:45:45 pm</h1>
-      <p>“Welcome forward, you’re now tapped into Talk Tech To Me Uncut, I’m your host Cassie Betts on KBLA Talk 1580.  1-800-920-1580 to talk tech and for Wakanda Forever tickets sponsored by Blacks in Tech- LA Chapter. I’m in the studio with Josh Armah, founder of Armah Studio.</p>
-      <ul>
-        <li>
-          <p>What are the benefits of AI?</p>
-        </li>
-        <li>
-          <p>What jobs/career paths are available? Salary potential?</p>
-        </li>
-        <li>
-          <p>Upcoming projects he’s working on via Armah Studio</p>
-          <ul>
-            <li><p>There were several games to be released soon per the website</p></li>
-          </ul>
-        </li>
-        <li><p>What is the future of AI and how do you see it being used?</p></li>
-        <li><p>Ethical concerns</p></li>
-        <li><p>How to stay protected from privacy, surveillance, and discrimination violations</p></li>
-      </ul>
-      <p>“When we come forward more Talk Tech To Me Uncut on the Unapologetically Progressive KBLA Talk 1580.”</p>
-      <ul>
-        <li>
-          <p>Commercial break - 3 minutes</p>
-        </li>
-      </ul>
-      <h1><u>Segment 4:</u> 12:48:45 pm - 12:53:00 pm</h1>
-      <p>“Welcome forward, this is Talk Tech To Me Uncut, I’m your host Cassie Betts on KBLA Talk 1580.  1-800-920-1580 to talk tech.”</p>
-      <ul>
-        <li>
-          <p>Ethical Concerns</p>
-        </li>
-        <li>
-          <p>The Blacks In Tech Foundation is the largest community of Black people in the technology industry. Through community-focused activities, events, and outreach, The Blacks In Technology (BIT) Foundation is “Stomping the Divide” by providing resources, guidance, networking, and opportunities for members to share their expertise and advance their careers</p>
-        </li>
-        <li>
-          <p>The Los Angeles chapter of Blacks in Tech is sponsoring two pairs of tickets for our listeners to attend a special screening of the upcoming blockbuster sequel to Black Panther, Wakanda Forever. </p>
-        </li>
-        <li>
-          <p>And the winners are….Robert White and Marshall Sheppard!! Thank you to everyone who called in and Congratulations to our listeners who won! We look forward to seeing you at The Grove this Wednesday</p>
-        </li>
-        <li>
-          <p>“More Talk Tech To Me Uncut when we come forward on KBLA Talk 1580.”</p>
-          <ul>
-            <li>
-              <p><em>Commercial break - 3 minutes</em></p>
-            </li>
-          </ul>
-        </li>
-      </ul>
-      <h1><u>Segment 5:</u> 12:56:00 pm - 1:00:00 pm</h1>
-      <p>“Welcome forward, you’re listening to Talk Tech To Me Uncut where tech is the new sexy.”</p>
-      <p>Use this to wrap up any last points, call to action, opportunities, etc.</p>
-      <ul>
-        <li>
-          <p>Direct listeners to connect via social media, websites, and upcoming events.</p>
-          <ul>
-            <li>
-              <p>“Joshua, how can listeners learn more about you and connect w/ you online?” Drop SM handles!</p>
-            </li>
-            <li>
-              <p>Follow me @instabetts and @talktechtomepod on IG</p>
-            </li>
-            <li>
-              <p>To learn more about MISLA/MARTY go to misla.org</p>
-            </li>
-            <li>
-              <p>Tease details for the next show:  Tune in next week as we talk tech with IT maven Monica Parker.</p>
-            </li>
-            <li>
-              <p>“Thank you for kickin’ it with us at the Unapologetically Progressive KBLA Talk 1580. Next, explore the creative reckoning of writers on The Back Story with Mischa Duffie.”</p>
-            </li>
-          </ul>
-        </li>
-        <li>
-          <p>
-          TTTM Closing: “This has been Talk Tech To Me Uncut, pushing the envelope of tech one keystroke at a time. Peace out!”
-          </p>
-        </li>
-      </ul>
-      <p>Tag Lines: Say as much as possible.</p>
-      <ul>
-        <li>
-          <p>KBLA Talk 1580, we’ve got a lot to talk about.</p>
-        </li>
-        <li>
-          <p>Unapologetically Progressive KBLA Talk 1580.</p>
-        </li>
-      </ul>
     `,
   },
   {
@@ -4307,8 +2489,6 @@ export const episodesList = [
     link: 'assets/audio/Episode0.1-Tech Pilot2-ReneeMoncito.mp3',
     iframeUrl: 'https://open.spotify.com/embed/episode/3FrO3dmAu8fQ82Y3nsPuj7?utm_source=generator',
     description: `
-      <h1><u>Segment 1:</u> 12:03:00 pm - 12:10:35 pm</h1>
-      <p>Show intro: “Welcome forward, I’m your host, Cassie Betts, on KBLA Talk 1580, and you’re listening to Talk Tech To Me Uncut, where technology is the new sexy, Black geeks are the new superheroes, and South Central LA is the new tech mecca. On today’s episode “Secret Life of a SysAdmin” I’ll be talking tech with Monica Parker, a pioneering top system administrator. She’ll dissect one of the most critical roles in tech, she’ll explain why you need a SysAdmin on your team, how to break into the field, and a whole lot more! But first, let’s get into The Tea in Tech.”</p>
       <h1>What’s the Tea in Tech:</h1>
       <ul>
         <li>
@@ -4399,19 +2579,6 @@ export const episodesList = [
             </li>
           </ul>
         </li>
-      </ul>
-      <p>“When we come forward we’ll talk tech with system administrator Monica Parker here on Talk Tech to me Uncut, KBLA Talk 1580. We’ve got a lot to talk about.”</p>
-      <ul>
-        <li>
-          <p>Soft out with a commercial break: 3 minutes</p>
-        </li>
-        <li>
-          <p>He won’t go to break until she is ready</p>
-        </li>
-      </ul>
-      <h1><u>Segment 2:</u> 12:13:35 pm - 12:30:00 pm</h1>
-      <p>“Welcome forward, I’m your host Cassie Betts and you’re tuned in to Talk Tech To Me Uncut where tech is the new sexy. 800-920-1580 to call in. On today’s show “Secret Life of a SysAdmin,” we're decoding the life of a system administrator with the lovely Monica Parker. Monica is a brilliant System Administrator and contractor for the government. She holds a bachelor's degree in computer science from Millikin University and is a pioneer in the tech field with over 20 years of experience, paving the way for many others to follow. Please welcome Monica Parker.”</p>
-      <ul>
         <li>
           <p><em><strong>TTTM Icebreaker:</strong> </em>When did you fall in love with tech?</p>
         </li>
@@ -4446,98 +2613,6 @@ export const episodesList = [
         </li>
       </ul>
       <p>1 800-920-1580 to talk tech “More with Monica Parker when we come forward on KBLA Talk 1580, we’ve got a lot to talk about.”</p>
-      <ul>
-        <li>
-          <p>Hard Out at the 30 (bottom of the hour) with a 6-minute break</p>
-        </li>
-        <li>
-          <p>News and traffic break - 3 minutes</p>
-        </li>
-        <li>
-          <p>Commercial break - 3 minutes</p>
-        </li>
-      </ul>
-      <h1><u>Segment 3:</u> 12:36:00 pm - 12:45:45 pm</h1>
-      <p>“Welcome forward, you’re now tapped into Talk Tech To Me Uncut, I’m your host Cassie Betts on KBLA Talk 1580.  1-800-920-1580 to talk tech. I’m in the studio with SysAdmin maven Monica Parker.</p>
-      <ul>
-        <li>
-          <p>As a Black woman, how do you navigate a white male-dominated industry?</p>
-        </li>
-        <li>
-          <p>Currently, 10.5% of SysAdmins are Black and 17.3% are female. Women earn 96 cents for every dollar earned by men. What do you think can be done to improve these stats?</p>
-        </li>
-        <li>
-          <p><strong>System Administrator Appreciation Day (Jul. 28) was created to highlight the critical work of SysAdmins that often gets overlooked. Have you ever felt like your work was underappreciated?</strong></p>
-        </li>
-        <li><p>How has working in uncertain economic conditions affected your work as a SysAdmin?</p></li>
-        <li><p><strong>*There has been buzz about cloud computing and automation possibly eliminating SysAdmin jobs, can you set the record straight about the job outlook?</strong></p></li>
-      </ul>
-      <p>“When we come forward more Talk Tech To Me Uncut on the Unapologetically Progressive KBLA Talk 1580.”</p>
-      <ul>
-        <li>
-          <p>Commercial break - 3 minutes</p>
-        </li>
-      </ul>
-      <h1><u>Segment 4:</u> 12:48:45 pm - 12:53:00 pm</h1>
-      <p>“Welcome forward, this is Talk Tech To Me Uncut, I’m your host Cassie Betts on KBLA Talk 1580.  1-800-920-1580 to talk tech.”</p>
-      <ul>
-        <li>
-          <p>What resources have helped you most along the way?</p>
-        </li>
-        <li>
-          <p><strong>*What's the biggest takeaway you hope listeners learn?</strong></p>
-        </li>
-        <li>
-          <p><strong>In the news tech industry seems to be going up in flames, how is it in the government sector?</strong></p>
-        </li>
-        <li>
-          <p>“More Talk Tech To Me Uncut when we come forward on KBLA Talk 1580.”</p>
-          <ul>
-            <li>
-              <p><em>Commercial break - 3 minutes</em></p>
-            </li>
-          </ul>
-        </li>
-      </ul>
-      <h1><u>Segment 5:</u> 12:56:00 pm - 1:00:00 pm</h1>
-      <p>“Welcome forward, you’re listening to Talk Tech To Me Uncut where tech is the new sexy.”</p>
-      <p>Use this to wrap up any last points, call to action, opportunities, etc.</p>
-      <ul>
-        <li>
-          <p>Direct listeners to connect via social media, websites, and upcoming events.</p>
-          <ul>
-            <li>
-              <p>“Monica, how can listeners learn more about you and connect w/ you online?” Drop SM handles!</p>
-            </li>
-            <li>
-              <p>Follow me @instabetts and @talktechtomepod on IG</p>
-            </li>
-            <li>
-              <p>To learn more about MISLA/MARTY go to misla.org</p>
-            </li>
-            <li>
-              <p>Tease details for the next show:  Tune in next week as we talk tech and mental health with Kandee Lewis of Positive Results Center.</p>
-            </li>
-            <li>
-              <p>“Thank you for kickin’ it with us at the Unapologetically Progressive KBLA Talk 1580. Next, explore the creative reckoning of writers on The Back Story with Mischa Duffie.”</p>
-            </li>
-          </ul>
-        </li>
-        <li>
-          <p>
-          TTTM Closing: “This has been Talk Tech To Me Uncut, pushing the envelope of tech one keystroke at a time. Peace out!”
-          </p>
-        </li>
-      </ul>
-      <p>Tag Lines: Say as much as possible.</p>
-      <ul>
-        <li>
-          <p>KBLA Talk 1580, we’ve got a lot to talk about.</p>
-        </li>
-        <li>
-          <p>Unapologetically Progressive KBLA Talk 1580.</p>
-        </li>
-      </ul>
     `,
   },
   {
@@ -4550,8 +2625,6 @@ export const episodesList = [
     link: 'assets/audio/Episode0.1-Tech Pilot2-ReneeMoncito.mp3',
     iframeUrl: 'https://open.spotify.com/embed/episode/1EfDVe7ECUJuNHXlBziMpc?utm_source=generator',
     description: `
-      <h1><u>Segment 1:</u> 12:03:00 pm - 12:10:35 pm</h1>
-      <p>Show intro: “Welcome forward, I’m your host, Cassie Betts, on KBLA Talk 1580, and you’re listening to Talk Tech To Me Uncut, where technology is the new sexy, Black geeks are the new superheroes, and South Central LA is the new tech mecca. On today's episode of "Full Stack Overload," I'll be speaking with Kandee Lewis, Trauma Awareness Expert and CEO of Positive Results Center, about a serious topic that is silently plaguing the tech community: Mental health. We'll talk about the causes, impacts, and practical solutions you can use right away. But first, let's talk about "The Tea in Tech."</p>
       <h1>What’s the Tea in Tech:</h1>
       <ul>
         <li>
@@ -4641,19 +2714,6 @@ export const episodesList = [
             </li>
           </ul>
         </li>
-      </ul>
-      <p>“When we come forward we’ll talk tech with Trauma Awareness Expert Kandee Lewis here on Talk Tech to me Uncut, KBLA Talk 1580. We’ve got a lot to talk about.”</p>
-      <ul>
-        <li>
-          <p>Soft out with a commercial break: 3 minutes</p>
-        </li>
-        <li>
-          <p>He won’t go to break until she is ready</p>
-        </li>
-      </ul>
-      <h1><u>Segment 2:</u> 12:13:35 pm - 12:30:00 pm</h1>
-      <p>“Welcome forward, I’m your host Cassie Betts and you’re tuned in to Talk Tech To Me Uncut where tech is the new sexy. 800-920-1580 to call in. On today’s show “Full Stack Overload,” [clarify meaning of “full stack” for those who don’t know] we’re exploring a sensitive topic silently plaguing the tech community: Mental health with special guest Kandee Lewis. Kandee is a masterful trainer, Certified Domestic Violence & Sexual Assualt Prevention Advocate who specializes in trauma awareness, teen dating violence, healthy relationships, leadership AND developing youth to be Peer Advocates and Safety Partners. Kandee has received numerous prestigious awards and honors for her work. She is the CEO of Postive Results Center, a nonprofit that addresses trauma from a cultural and age perspective. Please welcome Kandee Lewis.”</p>
-      <ul>
         <li>
           <p><em><strong>TTTM Icebreaker:</strong> </em>When did you fall in love with tech?</p>
         </li>
@@ -4703,112 +2763,6 @@ export const episodesList = [
         </li>
       </ul>
       <p>1 800-920-1580 to talk tech “More with Kandee Lewis when we come forward on KBLA Talk 1580, we’ve got a lot to talk about.”</p>
-      <ul>
-        <li>
-          <p>Hard Out at the 30 (bottom of the hour) with a 6-minute break</p>
-        </li>
-        <li>
-          <p>News and traffic break - 3 minutes</p>
-        </li>
-        <li>
-          <p>Commercial break - 3 minutes</p>
-        </li>
-      </ul>
-      <h1><u>Segment 3:</u> 12:36:00 pm - 12:45:45 pm</h1>
-      <p>“Welcome forward, you’re now tapped into Talk Tech To Me Uncut, I’m your host Cassie Betts on KBLA Talk 1580.  1-800-920-1580 to talk tech. And today to talk Tech Trauma. I’m in the studio with Kandee Lewis, CEO of Positive Results Center.”</p>
-      <ul>
-        <li>
-          <p>Discuss the work she does w/ Black women (Victim/survivor support and empowerment)</p>
-          <ul>
-            <li>
-              <p>Domestic violence + healing BW</p>
-            </li>
-          </ul>
-        </li>
-        <li>
-          <p>Are there parallels between the techniques you offer people in tech to the techniques you offer BW dealing with stress and trauma?</p>
-        </li>
-        <li>
-          <p>Discuss experience working with the MISLA bootcamps</p>
-        </li>
-        <li>
-          <p>Youth programs- foster youth</p>
-          <ul>
-            <li>
-              <p>Do teens need more guidance navigating social media & online spaces than adults?</p>
-            </li>
-            <li>
-              <p>Can you offer tips for dealing w/ cyberbullying?</p>
-            </li>
-            <li>
-              <p>How can we all stay safe and have positive experiences online?</p>
-            </li>
-          </ul>
-        </li>
-      </ul>
-      <p>“When we come forward more Talk Tech To Me Uncut on the Unapologetically Progressive KBLA Talk 1580.”</p>
-      <ul>
-        <li>
-          <p>Commercial break - 3 minutes</p>
-        </li>
-      </ul>
-      <h1><u>Segment 4:</u> 12:48:45 pm - 12:53:00 pm</h1>
-      <p>“Welcome forward, this is Talk Tech To Me Uncut, I’m your host Cassie Betts on KBLA Talk 1580.  1-800-920-1580 to talk tech.”</p>
-      <ul>
-        <li>
-          <p>How can we all heal during times of crisis?</p>
-        </li>
-        <li>
-          <p>Where can listeners sign up for your workshops?</p>
-        </li>
-        <li>
-          <p>“More Talk Tech To Me Uncut when we come forward on KBLA Talk 1580.”</p>
-          <ul>
-            <li>
-              <p><em>Commercial break - 3 minutes</em></p>
-            </li>
-          </ul>
-        </li>
-      </ul>
-      <h1><u>Segment 5:</u> 12:56:00 pm - 1:00:00 pm</h1>
-      <p>“Welcome forward, you’re listening to Talk Tech To Me Uncut where tech is the new sexy.”</p>
-      <p>Use this to wrap up any last points, call to action, opportunities, etc.</p>
-      <ul>
-        <li>
-          <p>Direct listeners to connect via social media, websites, and upcoming events.</p>
-          <ul>
-            <li>
-              <p>"Kandee, how can listeners learn more about you and connect w/ you online?” Drop SM handles!</p>
-            </li>
-            <li>
-              <p>Follow me @instabetts and @talktechtomepod on IG</p>
-            </li>
-            <li>
-              <p>To learn more about MISLA/MARTY go to misla.org</p>
-            </li>
-            <li>
-              <p>Tease details for the next show: Next week, we'll present the "Best of Talk Tech To Me Uncut," which features KBLA's very own "Crypto Queen" Najah Roberts in the episode "WiFi Money."</p>
-            </li>
-            <li>
-              <p>“Thank you for kickin’ it with us at the Unapologetically Progressive KBLA Talk 1580. Next, explore the creative reckoning of writers on The Back Story with Mischa Duffie.”</p>
-            </li>
-          </ul>
-        </li>
-        <li>
-          <p>
-          TTTM Closing: “This has been Talk Tech To Me Uncut, pushing the envelope of tech one keystroke at a time. Peace out!”
-          </p>
-        </li>
-      </ul>
-      <p>Tag Lines: Say as much as possible.</p>
-      <ul>
-        <li>
-          <p>KBLA Talk 1580, we’ve got a lot to talk about.</p>
-        </li>
-        <li>
-          <p>Unapologetically Progressive KBLA Talk 1580.</p>
-        </li>
-      </ul>
     `,
   },
   {
